@@ -20,23 +20,21 @@ black = "#000000"
 
 sns.set_theme(style="whitegrid")
 
-# 
-def map(dataframe, technology, max_color, min_color):
-
-    data = dataframe[(dataframe["Año"] == 2022) & (dataframe["Trimestre"] == "4")]
-    gis_provincias_20224 = sig_provincias.merge(data[["Provincia", technology]], on="Provincia")
-    gis_provincias_20224
+def map_technology(prov_data, loc_data, technology, max_color, min_color):
 
     cmap = LinearSegmentedColormap.from_list('custom_colormap', [max_color, min_color], N=256)
-    vmin = gis_provincias_20224[technology].min()
-    vmax = gis_provincias_20224[technology].max()
+    vmin = prov_data[technology].min()
+    vmax = prov_data[technology].max()
 
     fig, ax = plt.subplots(figsize=(15, 15))
-    gis_provincias_20224.plot(column=technology, legend=False, ax=ax, edgecolor='#0E1117', linewidth=1, cmap=cmap, vmin=vmin, vmax=vmax)
-    ax.set_aspect('equal')  # Set the aspect ratio to be equal
+
+    prov_data.plot(column=technology, legend=False, ax=ax, edgecolor='white', linewidth=1, cmap=cmap, vmin=vmin, vmax=vmax)
     
-    plt.gcf().set_facecolor("#0D1117") # Background
-    plt.gca().set_facecolor("#0D1117") # Background
+    loc_data[f"scaled_{technology}"] = (loc_data[technology] - loc_data[technology].min()) / (loc_data[technology].max() - loc_data[technology].min()) * (100 - 10) + 10
+    loc_data.plot(ax=ax, color=max_color, edgecolor="white", alpha=0.5, markersize=loc_data[f"scaled_{technology}"])
+
+    plt.gcf().set_facecolor("white") # Background
+    plt.gca().set_facecolor("white") # Background
 
     # Title configuration
     plt.title(f"{technology}", fontsize=20, color=min_color, loc='center')
@@ -50,10 +48,10 @@ def map(dataframe, technology, max_color, min_color):
     ax.spines['right'].set_visible(False)
     ax.spines['bottom'].set_visible(False)
     ax.spines['left'].set_visible(False)
-    ax.set_facecolor('#0E1117')
+    ax.set_facecolor('white')
 
     # References configuration
-    cax = fig.add_axes([0.3, 0.05, 0.4, 0.03])
+    cax = plt.axes([0.3, 0.1, 0.4, 0.03])
     sm = plt.cm.ScalarMappable(cmap=cmap, norm=plt.Normalize(vmin=vmin, vmax=vmax))
     sm._A = []
     cbar = plt.colorbar(sm, cax=cax, orientation='horizontal')

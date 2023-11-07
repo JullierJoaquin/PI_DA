@@ -1,6 +1,6 @@
 ## DA Project - Potential markets analysis 
 
-This repository documents the analysis of the distribution of the different internet services to identify market oportunities. The project is organized into the following key stages:
+This repository documents the analysis of internet services distribution to identify market oportunities. The project is organized into the following key stages:
 
 [01_EDA](01_EDA.ipynb): Exploratory data analysis.
 
