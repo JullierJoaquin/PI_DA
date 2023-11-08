@@ -21,25 +21,16 @@ black = "#000000"
 sns.set_theme(style="whitegrid")
 
 def map_technology(prov_data, loc_data, technology, max_color, min_color):
-
     cmap = LinearSegmentedColormap.from_list('custom_colormap', [max_color, min_color], N=256)
     vmin = prov_data[technology].min()
     vmax = prov_data[technology].max()
-
-    fig, ax = plt.subplots(figsize=(10, 10))
-
-    prov_data.plot(column=technology, legend=False, ax=ax, edgecolor='white', linewidth=1, cmap=cmap, vmin=vmin, vmax=vmax)
-    
-    loc_data[f"scaled_{technology}"] = (loc_data[technology] - loc_data[technology].min()) / (loc_data[technology].max() - loc_data[technology].min()) * (100 - 10) + 10
-    loc_data.plot(ax=ax, color=max_color, edgecolor="white", alpha=0.5, markersize=loc_data[f"scaled_{technology}"])
-
+    fig, ax = plt.subplots(figsize=(8, 8))
+    prov_data.plot(column=technology, legend=False, ax=ax, edgecolor='black', linewidth=0.5, cmap=cmap, vmin=vmin, vmax=vmax)
+    loc_data[f"scaled_{technology}"] = (loc_data[technology] - loc_data[technology].min()) / (loc_data[technology].max() - loc_data[technology].min()) * (50 - 5) + 5
+    loc_data.plot(ax=ax, color="white", edgecolor="black", alpha=0.5, markersize=loc_data[f"scaled_{technology}"])
     plt.gcf().set_facecolor("white") # Background
     plt.gca().set_facecolor("white") # Background
-
-    # Title configuration
-    plt.title(f"{technology}", fontsize=20, color=min_color, loc='center')
-
-    # Map configuration
+    plt.title(f"{technology}", fontsize=12, color="black", loc='center')
     ax.set_xlim([-85, -45])
     ax.set_ylim([-57, -20])
     ax.set_xticks([])
@@ -49,13 +40,10 @@ def map_technology(prov_data, loc_data, technology, max_color, min_color):
     ax.spines['bottom'].set_visible(False)
     ax.spines['left'].set_visible(False)
     ax.set_facecolor('white')
-
-    # References configuration
     cax = plt.axes([0.3, 0.1, 0.4, 0.03])
     sm = plt.cm.ScalarMappable(cmap=cmap, norm=plt.Normalize(vmin=vmin, vmax=vmax))
     sm._A = []
     cbar = plt.colorbar(sm, cax=cax, orientation='horizontal')
-
     plt.show()
 
 

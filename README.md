@@ -2,38 +2,37 @@
 
 This repository documents the analysis of internet services distribution to identify market oportunities. The project is organized into the following key stages:
 
-[01_EDA](01_EDA.ipynb): Exploratory data analysis.
+[01_ETL](01_ETL.ipynb): Initial data transformation.
 
-[02_Dashboard](02_Dashboard.ipynb): 
+[02_EDA](02_EDA.ipynb): Exploratory data analysis.
+
+03_DASHBOARD: Data visualization.
 
 
-#### [01_EDA:](01_EDA.ipynb) Exploratory data analysis.
+#### [01_ETL:](01_ETL.ipynb) Initial data transformation.
 
-This stage involves the data initial exploration and transformation of the three main datasets:
-steam_games, australian_users_reviews, and australian_users_items, for subsequent analysis and the development of recommendation systems.
+This stage involves the data initial transformation of the datasets. Sources: 
+ - [datosabiertos.enacom](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
 
-![ETL.jpg](/gallery/ETL/ETL.jpg)
 
 #### [02_EDA:](02_EDA.ipynb) Exploratory data analysis.
 
-I perform an Exploratory Data Analysis (EDA) to gain deeper insights into the transformed data. I reduce the analysis process to the few variables I decide to use in the recommendation system model. EDA helps me identify patterns, outliers, and potential relationships that will inform the recommendation system's design and customization.
+I perform an Exploratory Data Analysis (EDA) to search for potential markets and strategies. The analysis includes the general tendencies, and how they change within each zone of the countr and a brief conclution for each zone:
 
-![EDA.gif](/gallery/EDA/eda_gif.gif)
+#### 03_DASHBOARD Data visualization.
+
+WARNING: I'm still working on it, I will finish it for the demo. I hope you let me use it.
 
 
 #### Libraries and tools
 
-- SQL:
 - Python: Primary programming language for data preprocessing, analysis, and modeling.
 - Jupyter Notebook: Interactive environment for running Python code.
 - Pandas: Data manipulation and analysis.
 - GeoPandas: Geographical data manipulation and visualization.
 - NumPy: Python library for numerical operations and array handling.
-- scikit-learn: Machine learning Python library.
 - Matplotlib and Seaborn: Data visualization
 - Git: Tracking changes in the codebase and collaborating with others.
-- Dashboard:
-- Streamlit:
 
 
 #### Files
@@ -41,8 +40,6 @@ I perform an Exploratory Data Analysis (EDA) to gain deeper insights into the tr
 The files include...
 
 - [data](data/): Here, you can find the unprocessed and processed data files.
-
-- [gallery](gallery/): Here I store all the data visualizations in png format.
 
 - [lib](lib/:)  Here, I store some recurring visualizations and transformations.
 
