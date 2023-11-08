@@ -26,7 +26,7 @@ def map_technology(prov_data, loc_data, technology, max_color, min_color):
     vmin = prov_data[technology].min()
     vmax = prov_data[technology].max()
 
-    fig, ax = plt.subplots(figsize=(15, 15))
+    fig, ax = plt.subplots(figsize=(10, 10))
 
     prov_data.plot(column=technology, legend=False, ax=ax, edgecolor='white', linewidth=1, cmap=cmap, vmin=vmin, vmax=vmax)
     
