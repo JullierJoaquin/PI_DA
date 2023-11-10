@@ -1,0 +1,3529 @@
+,Año,Trimestre,Provincia,Velocidad,Conexiones
+0,2017.0,4.0,Buenos Aires,Hasta 512 kbps,3.865
+1,2017.0,4.0,Capital Federal,Hasta 512 kbps,314.0
+2,2017.0,4.0,Catamarca,Hasta 512 kbps,34.0
+3,2017.0,4.0,Chaco,Hasta 512 kbps,70.0
+4,2017.0,4.0,Chubut,Hasta 512 kbps,67.0
+5,2017.0,4.0,Córdoba,Hasta 512 kbps,291.0
+6,2017.0,4.0,Corrientes,Hasta 512 kbps,11.0
+7,2017.0,4.0,Entre Ríos,Hasta 512 kbps,1.685
+8,2017.0,4.0,Formosa,Hasta 512 kbps,1.11
+9,2017.0,4.0,Jujuy,Hasta 512 kbps,345.0
+10,2017.0,4.0,La Pampa,Hasta 512 kbps,310.0
+11,2017.0,4.0,La Rioja,Hasta 512 kbps,9.0
+12,2017.0,4.0,Mendoza,Hasta 512 kbps,26.0
+13,2017.0,4.0,Misiones,Hasta 512 kbps,1.053
+14,2017.0,4.0,Neuquén,Hasta 512 kbps,1.396
+15,2017.0,4.0,Río Negro,Hasta 512 kbps,409.0
+16,2017.0,4.0,Salta,Hasta 512 kbps,636.0
+17,2017.0,4.0,San Juan,Hasta 512 kbps,22.0
+18,2017.0,4.0,San Luis,Hasta 512 kbps,59.0
+19,2017.0,4.0,Santa Cruz,Hasta 512 kbps,68.0
+20,2017.0,4.0,Santa Fe,Hasta 512 kbps,3.109
+21,2017.0,4.0,Santiago Del Estero,Hasta 512 kbps,41.0
+22,2017.0,4.0,Tierra Del Fuego,Hasta 512 kbps,6.0
+23,2017.0,4.0,Tucumán,Hasta 512 kbps,105.0
+24,2018.0,1.0,Buenos Aires,Hasta 512 kbps,1.514
+25,2018.0,1.0,Capital Federal,Hasta 512 kbps,89.0
+26,2018.0,1.0,Catamarca,Hasta 512 kbps,34.0
+27,2018.0,1.0,Chaco,Hasta 512 kbps,70.0
+28,2018.0,1.0,Chubut,Hasta 512 kbps,67.0
+29,2018.0,1.0,Córdoba,Hasta 512 kbps,281.0
+30,2018.0,1.0,Corrientes,Hasta 512 kbps,11.0
+31,2018.0,1.0,Entre Ríos,Hasta 512 kbps,18.0
+32,2018.0,1.0,Formosa,Hasta 512 kbps,1.11
+33,2018.0,1.0,Jujuy,Hasta 512 kbps,345.0
+34,2018.0,1.0,La Pampa,Hasta 512 kbps,245.0
+35,2018.0,1.0,La Rioja,Hasta 512 kbps,9.0
+36,2018.0,1.0,Mendoza,Hasta 512 kbps,20.0
+37,2018.0,1.0,Misiones,Hasta 512 kbps,48.0
+38,2018.0,1.0,Neuquén,Hasta 512 kbps,1.396
+39,2018.0,1.0,Río Negro,Hasta 512 kbps,409.0
+40,2018.0,1.0,Salta,Hasta 512 kbps,116.0
+41,2018.0,1.0,San Juan,Hasta 512 kbps,22.0
+42,2018.0,1.0,San Luis,Hasta 512 kbps,57.0
+43,2018.0,1.0,Santa Cruz,Hasta 512 kbps,26.0
+44,2018.0,1.0,Santa Fe,Hasta 512 kbps,1.359
+45,2018.0,1.0,Santiago Del Estero,Hasta 512 kbps,41.0
+46,2018.0,1.0,Tierra Del Fuego,Hasta 512 kbps,6.0
+47,2018.0,1.0,Tucumán,Hasta 512 kbps,16.0
+48,2018.0,2.0,Buenos Aires,Hasta 512 kbps,1.009
+49,2018.0,2.0,Capital Federal,Hasta 512 kbps,73.0
+50,2018.0,2.0,Catamarca,Hasta 512 kbps,34.0
+51,2018.0,2.0,Chaco,Hasta 512 kbps,70.0
+52,2018.0,2.0,Chubut,Hasta 512 kbps,67.0
+53,2018.0,2.0,Córdoba,Hasta 512 kbps,81.0
+54,2018.0,2.0,Corrientes,Hasta 512 kbps,11.0
+55,2018.0,2.0,Entre Ríos,Hasta 512 kbps,18.0
+56,2018.0,2.0,Formosa,Hasta 512 kbps,1.11
+57,2018.0,2.0,Jujuy,Hasta 512 kbps,345.0
+58,2018.0,2.0,La Pampa,Hasta 512 kbps,244.0
+59,2018.0,2.0,La Rioja,Hasta 512 kbps,9.0
+60,2018.0,2.0,Mendoza,Hasta 512 kbps,20.0
+61,2018.0,2.0,Misiones,Hasta 512 kbps,48.0
+62,2018.0,2.0,Neuquén,Hasta 512 kbps,1.396
+63,2018.0,2.0,Río Negro,Hasta 512 kbps,409.0
+64,2018.0,2.0,Salta,Hasta 512 kbps,116.0
+65,2018.0,2.0,San Juan,Hasta 512 kbps,22.0
+66,2018.0,2.0,San Luis,Hasta 512 kbps,57.0
+67,2018.0,2.0,Santa Cruz,Hasta 512 kbps,26.0
+68,2018.0,2.0,Santa Fe,Hasta 512 kbps,744.0
+69,2018.0,2.0,Santiago Del Estero,Hasta 512 kbps,41.0
+70,2018.0,2.0,Tierra Del Fuego,Hasta 512 kbps,6.0
+71,2018.0,2.0,Tucumán,Hasta 512 kbps,16.0
+72,2018.0,3.0,Buenos Aires,Hasta 512 kbps,991.0
+73,2018.0,3.0,Capital Federal,Hasta 512 kbps,73.0
+74,2018.0,3.0,Catamarca,Hasta 512 kbps,34.0
+75,2018.0,3.0,Chaco,Hasta 512 kbps,70.0
+76,2018.0,3.0,Chubut,Hasta 512 kbps,67.0
+77,2018.0,3.0,Córdoba,Hasta 512 kbps,81.0
+78,2018.0,3.0,Corrientes,Hasta 512 kbps,11.0
+79,2018.0,3.0,Entre Ríos,Hasta 512 kbps,18.0
+80,2018.0,3.0,Formosa,Hasta 512 kbps,1.11
+81,2018.0,3.0,Jujuy,Hasta 512 kbps,345.0
+82,2018.0,3.0,La Pampa,Hasta 512 kbps,242.0
+83,2018.0,3.0,La Rioja,Hasta 512 kbps,9.0
+84,2018.0,3.0,Mendoza,Hasta 512 kbps,20.0
+85,2018.0,3.0,Misiones,Hasta 512 kbps,48.0
+86,2018.0,3.0,Neuquén,Hasta 512 kbps,1.396
+87,2018.0,3.0,Río Negro,Hasta 512 kbps,409.0
+88,2018.0,3.0,Salta,Hasta 512 kbps,116.0
+89,2018.0,3.0,San Juan,Hasta 512 kbps,22.0
+90,2018.0,3.0,San Luis,Hasta 512 kbps,57.0
+91,2018.0,3.0,Santa Cruz,Hasta 512 kbps,26.0
+92,2018.0,3.0,Santa Fe,Hasta 512 kbps,467.0
+93,2018.0,3.0,Santiago Del Estero,Hasta 512 kbps,41.0
+94,2018.0,3.0,Tierra Del Fuego,Hasta 512 kbps,6.0
+95,2018.0,3.0,Tucumán,Hasta 512 kbps,16.0
+96,2018.0,4.0,Buenos Aires,Hasta 512 kbps,134.673
+97,2018.0,4.0,Capital Federal,Hasta 512 kbps,74.0
+98,2018.0,4.0,Catamarca,Hasta 512 kbps,34.0
+99,2018.0,4.0,Chaco,Hasta 512 kbps,69.0
+100,2018.0,4.0,Chubut,Hasta 512 kbps,66.0
+101,2018.0,4.0,Córdoba,Hasta 512 kbps,81.0
+102,2018.0,4.0,Corrientes,Hasta 512 kbps,10.0
+103,2018.0,4.0,Entre Ríos,Hasta 512 kbps,18.0
+104,2018.0,4.0,Formosa,Hasta 512 kbps,1.11
+105,2018.0,4.0,Jujuy,Hasta 512 kbps,27.0
+106,2018.0,4.0,La Pampa,Hasta 512 kbps,241.0
+107,2018.0,4.0,La Rioja,Hasta 512 kbps,9.0
+108,2018.0,4.0,Mendoza,Hasta 512 kbps,20.0
+109,2018.0,4.0,Misiones,Hasta 512 kbps,47.0
+110,2018.0,4.0,Neuquén,Hasta 512 kbps,1.328
+111,2018.0,4.0,Río Negro,Hasta 512 kbps,384.0
+112,2018.0,4.0,Salta,Hasta 512 kbps,49.0
+113,2018.0,4.0,San Juan,Hasta 512 kbps,22.0
+114,2018.0,4.0,San Luis,Hasta 512 kbps,57.0
+115,2018.0,4.0,Santa Cruz,Hasta 512 kbps,25.0
+116,2018.0,4.0,Santa Fe,Hasta 512 kbps,335.0
+117,2018.0,4.0,Santiago Del Estero,Hasta 512 kbps,39.0
+118,2018.0,4.0,Tierra Del Fuego,Hasta 512 kbps,6.0
+119,2018.0,4.0,Tucumán,Hasta 512 kbps,16.0
+120,2019.0,1.0,Buenos Aires,Hasta 512 kbps,162.513
+121,2019.0,1.0,Capital Federal,Hasta 512 kbps,74.0
+122,2019.0,1.0,Catamarca,Hasta 512 kbps,34.0
+123,2019.0,1.0,Chaco,Hasta 512 kbps,69.0
+124,2019.0,1.0,Chubut,Hasta 512 kbps,66.0
+125,2019.0,1.0,Córdoba,Hasta 512 kbps,81.0
+126,2019.0,1.0,Corrientes,Hasta 512 kbps,10.0
+127,2019.0,1.0,Entre Ríos,Hasta 512 kbps,18.0
+128,2019.0,1.0,Formosa,Hasta 512 kbps,1.11
+129,2019.0,1.0,Jujuy,Hasta 512 kbps,27.0
+130,2019.0,1.0,La Pampa,Hasta 512 kbps,236.0
+131,2019.0,1.0,La Rioja,Hasta 512 kbps,9.0
+132,2019.0,1.0,Mendoza,Hasta 512 kbps,20.0
+133,2019.0,1.0,Misiones,Hasta 512 kbps,47.0
+134,2019.0,1.0,Neuquén,Hasta 512 kbps,1.328
+135,2019.0,1.0,Río Negro,Hasta 512 kbps,384.0
+136,2019.0,1.0,Salta,Hasta 512 kbps,49.0
+137,2019.0,1.0,San Juan,Hasta 512 kbps,22.0
+138,2019.0,1.0,San Luis,Hasta 512 kbps,57.0
+139,2019.0,1.0,Santa Cruz,Hasta 512 kbps,25.0
+140,2019.0,1.0,Santa Fe,Hasta 512 kbps,333.0
+141,2019.0,1.0,Santiago Del Estero,Hasta 512 kbps,39.0
+142,2019.0,1.0,Tierra Del Fuego,Hasta 512 kbps,6.0
+143,2019.0,1.0,Tucumán,Hasta 512 kbps,16.0
+144,2019.0,2.0,Buenos Aires,Hasta 512 kbps,199.768
+145,2019.0,2.0,Capital Federal,Hasta 512 kbps,74.0
+146,2019.0,2.0,Catamarca,Hasta 512 kbps,34.0
+147,2019.0,2.0,Chaco,Hasta 512 kbps,69.0
+148,2019.0,2.0,Chubut,Hasta 512 kbps,66.0
+149,2019.0,2.0,Córdoba,Hasta 512 kbps,81.0
+150,2019.0,2.0,Corrientes,Hasta 512 kbps,10.0
+151,2019.0,2.0,Entre Ríos,Hasta 512 kbps,18.0
+152,2019.0,2.0,Formosa,Hasta 512 kbps,1.11
+153,2019.0,2.0,Jujuy,Hasta 512 kbps,27.0
+154,2019.0,2.0,La Pampa,Hasta 512 kbps,236.0
+155,2019.0,2.0,La Rioja,Hasta 512 kbps,9.0
+156,2019.0,2.0,Mendoza,Hasta 512 kbps,20.0
+157,2019.0,2.0,Misiones,Hasta 512 kbps,47.0
+158,2019.0,2.0,Neuquén,Hasta 512 kbps,302.0
+159,2019.0,2.0,Río Negro,Hasta 512 kbps,384.0
+160,2019.0,2.0,Salta,Hasta 512 kbps,49.0
+161,2019.0,2.0,San Juan,Hasta 512 kbps,22.0
+162,2019.0,2.0,San Luis,Hasta 512 kbps,57.0
+163,2019.0,2.0,Santa Cruz,Hasta 512 kbps,25.0
+164,2019.0,2.0,Santa Fe,Hasta 512 kbps,321.0
+165,2019.0,2.0,Santiago Del Estero,Hasta 512 kbps,39.0
+166,2019.0,2.0,Tierra Del Fuego,Hasta 512 kbps,6.0
+167,2019.0,2.0,Tucumán,Hasta 512 kbps,16.0
+168,2019.0,3.0,Buenos Aires,Hasta 512 kbps,256.902
+169,2019.0,3.0,Capital Federal,Hasta 512 kbps,105.0
+170,2019.0,3.0,Catamarca,Hasta 512 kbps,34.0
+171,2019.0,3.0,Chaco,Hasta 512 kbps,69.0
+172,2019.0,3.0,Chubut,Hasta 512 kbps,74.0
+173,2019.0,3.0,Córdoba,Hasta 512 kbps,83.0
+174,2019.0,3.0,Corrientes,Hasta 512 kbps,10.0
+175,2019.0,3.0,Entre Ríos,Hasta 512 kbps,19.0
+176,2019.0,3.0,Formosa,Hasta 512 kbps,1.11
+177,2019.0,3.0,Jujuy,Hasta 512 kbps,27.0
+178,2019.0,3.0,La Pampa,Hasta 512 kbps,237.0
+179,2019.0,3.0,La Rioja,Hasta 512 kbps,9.0
+180,2019.0,3.0,Mendoza,Hasta 512 kbps,21.0
+181,2019.0,3.0,Misiones,Hasta 512 kbps,47.0
+182,2019.0,3.0,Neuquén,Hasta 512 kbps,45.0
+183,2019.0,3.0,Río Negro,Hasta 512 kbps,47.0
+184,2019.0,3.0,Salta,Hasta 512 kbps,49.0
+185,2019.0,3.0,San Juan,Hasta 512 kbps,22.0
+186,2019.0,3.0,San Luis,Hasta 512 kbps,57.0
+187,2019.0,3.0,Santa Cruz,Hasta 512 kbps,28.0
+188,2019.0,3.0,Santa Fe,Hasta 512 kbps,640.0
+189,2019.0,3.0,Santiago Del Estero,Hasta 512 kbps,39.0
+190,2019.0,3.0,Tierra Del Fuego,Hasta 512 kbps,6.0
+191,2019.0,3.0,Tucumán,Hasta 512 kbps,16.0
+192,2019.0,4.0,Buenos Aires,Hasta 512 kbps,658.863
+193,2019.0,4.0,Capital Federal,Hasta 512 kbps,307.0
+194,2019.0,4.0,Catamarca,Hasta 512 kbps,63.0
+195,2019.0,4.0,Chaco,Hasta 512 kbps,83.0
+196,2019.0,4.0,Chubut,Hasta 512 kbps,158.0
+197,2019.0,4.0,Córdoba,Hasta 512 kbps,142.0
+198,2019.0,4.0,Corrientes,Hasta 512 kbps,72.0
+199,2019.0,4.0,Entre Ríos,Hasta 512 kbps,47.0
+200,2019.0,4.0,Formosa,Hasta 512 kbps,18.11
+201,2019.0,4.0,Jujuy,Hasta 512 kbps,55.0
+202,2019.0,4.0,La Pampa,Hasta 512 kbps,293.0
+203,2019.0,4.0,La Rioja,Hasta 512 kbps,21.0
+204,2019.0,4.0,Mendoza,Hasta 512 kbps,746.0
+205,2019.0,4.0,Misiones,Hasta 512 kbps,71.0
+206,2019.0,4.0,Neuquén,Hasta 512 kbps,218.0
+207,2019.0,4.0,Río Negro,Hasta 512 kbps,114.0
+208,2019.0,4.0,Salta,Hasta 512 kbps,149.0
+209,2019.0,4.0,San Juan,Hasta 512 kbps,48.0
+210,2019.0,4.0,San Luis,Hasta 512 kbps,105.0
+211,2019.0,4.0,Santa Cruz,Hasta 512 kbps,67.0
+212,2019.0,4.0,Santa Fe,Hasta 512 kbps,698.0
+213,2019.0,4.0,Santiago Del Estero,Hasta 512 kbps,133.0
+214,2019.0,4.0,Tierra Del Fuego,Hasta 512 kbps,11.0
+215,2019.0,4.0,Tucumán,Hasta 512 kbps,55.0
+216,2020.0,1.0,Buenos Aires,Hasta 512 kbps,663.5889999999999
+217,2020.0,1.0,Capital Federal,Hasta 512 kbps,264.0
+218,2020.0,1.0,Catamarca,Hasta 512 kbps,63.0
+219,2020.0,1.0,Chaco,Hasta 512 kbps,419.0
+220,2020.0,1.0,Chubut,Hasta 512 kbps,158.0
+221,2020.0,1.0,Córdoba,Hasta 512 kbps,142.0
+222,2020.0,1.0,Corrientes,Hasta 512 kbps,72.0
+223,2020.0,1.0,Entre Ríos,Hasta 512 kbps,130.0
+224,2020.0,1.0,Formosa,Hasta 512 kbps,18.11
+225,2020.0,1.0,Jujuy,Hasta 512 kbps,55.0
+226,2020.0,1.0,La Pampa,Hasta 512 kbps,293.0
+227,2020.0,1.0,La Rioja,Hasta 512 kbps,21.0
+228,2020.0,1.0,Mendoza,Hasta 512 kbps,58.0
+229,2020.0,1.0,Misiones,Hasta 512 kbps,71.0
+230,2020.0,1.0,Neuquén,Hasta 512 kbps,218.0
+231,2020.0,1.0,Río Negro,Hasta 512 kbps,114.0
+232,2020.0,1.0,Salta,Hasta 512 kbps,129.0
+233,2020.0,1.0,San Juan,Hasta 512 kbps,48.0
+234,2020.0,1.0,San Luis,Hasta 512 kbps,105.0
+235,2020.0,1.0,Santa Cruz,Hasta 512 kbps,67.0
+236,2020.0,1.0,Santa Fe,Hasta 512 kbps,696.0
+237,2020.0,1.0,Santiago Del Estero,Hasta 512 kbps,133.0
+238,2020.0,1.0,Tierra Del Fuego,Hasta 512 kbps,11.0
+239,2020.0,1.0,Tucumán,Hasta 512 kbps,52.0
+240,2020.0,2.0,Buenos Aires,Hasta 512 kbps,662.9159999999999
+241,2020.0,2.0,Capital Federal,Hasta 512 kbps,264.0
+242,2020.0,2.0,Catamarca,Hasta 512 kbps,63.0
+243,2020.0,2.0,Chaco,Hasta 512 kbps,419.0
+244,2020.0,2.0,Chubut,Hasta 512 kbps,158.0
+245,2020.0,2.0,Córdoba,Hasta 512 kbps,168.0
+246,2020.0,2.0,Corrientes,Hasta 512 kbps,72.0
+247,2020.0,2.0,Entre Ríos,Hasta 512 kbps,130.0
+248,2020.0,2.0,Formosa,Hasta 512 kbps,391.0
+249,2020.0,2.0,Jujuy,Hasta 512 kbps,55.0
+250,2020.0,2.0,La Pampa,Hasta 512 kbps,293.0
+251,2020.0,2.0,La Rioja,Hasta 512 kbps,21.0
+252,2020.0,2.0,Mendoza,Hasta 512 kbps,58.0
+253,2020.0,2.0,Misiones,Hasta 512 kbps,71.0
+254,2020.0,2.0,Neuquén,Hasta 512 kbps,218.0
+255,2020.0,2.0,Río Negro,Hasta 512 kbps,114.0
+256,2020.0,2.0,Salta,Hasta 512 kbps,129.0
+257,2020.0,2.0,San Juan,Hasta 512 kbps,48.0
+258,2020.0,2.0,San Luis,Hasta 512 kbps,105.0
+259,2020.0,2.0,Santa Cruz,Hasta 512 kbps,66.0
+260,2020.0,2.0,Santa Fe,Hasta 512 kbps,568.0
+261,2020.0,2.0,Santiago Del Estero,Hasta 512 kbps,133.0
+262,2020.0,2.0,Tierra Del Fuego,Hasta 512 kbps,11.0
+263,2020.0,2.0,Tucumán,Hasta 512 kbps,52.0
+264,2020.0,3.0,Buenos Aires,Hasta 512 kbps,662.9159999999999
+265,2020.0,3.0,Capital Federal,Hasta 512 kbps,264.0
+266,2020.0,3.0,Catamarca,Hasta 512 kbps,63.0
+267,2020.0,3.0,Chaco,Hasta 512 kbps,419.0
+268,2020.0,3.0,Chubut,Hasta 512 kbps,158.0
+269,2020.0,3.0,Córdoba,Hasta 512 kbps,168.0
+270,2020.0,3.0,Corrientes,Hasta 512 kbps,72.0
+271,2020.0,3.0,Entre Ríos,Hasta 512 kbps,130.0
+272,2020.0,3.0,Formosa,Hasta 512 kbps,391.0
+273,2020.0,3.0,Jujuy,Hasta 512 kbps,55.0
+274,2020.0,3.0,La Pampa,Hasta 512 kbps,293.0
+275,2020.0,3.0,La Rioja,Hasta 512 kbps,21.0
+276,2020.0,3.0,Mendoza,Hasta 512 kbps,58.0
+277,2020.0,3.0,Misiones,Hasta 512 kbps,71.0
+278,2020.0,3.0,Neuquén,Hasta 512 kbps,218.0
+279,2020.0,3.0,Río Negro,Hasta 512 kbps,114.0
+280,2020.0,3.0,Salta,Hasta 512 kbps,129.0
+281,2020.0,3.0,San Juan,Hasta 512 kbps,48.0
+282,2020.0,3.0,San Luis,Hasta 512 kbps,105.0
+283,2020.0,3.0,Santa Cruz,Hasta 512 kbps,66.0
+284,2020.0,3.0,Santa Fe,Hasta 512 kbps,568.0
+285,2020.0,3.0,Santiago Del Estero,Hasta 512 kbps,133.0
+286,2020.0,3.0,Tierra Del Fuego,Hasta 512 kbps,11.0
+287,2020.0,3.0,Tucumán,Hasta 512 kbps,52.0
+288,2020.0,4.0,Buenos Aires,Hasta 512 kbps,153.822
+289,2020.0,4.0,Capital Federal,Hasta 512 kbps,135.0
+290,2020.0,4.0,Catamarca,Hasta 512 kbps,71.0
+291,2020.0,4.0,Chaco,Hasta 512 kbps,412.0
+292,2020.0,4.0,Chubut,Hasta 512 kbps,106.0
+293,2020.0,4.0,Córdoba,Hasta 512 kbps,119.0
+294,2020.0,4.0,Corrientes,Hasta 512 kbps,67.0
+295,2020.0,4.0,Entre Ríos,Hasta 512 kbps,105.0
+296,2020.0,4.0,Formosa,Hasta 512 kbps,56.0
+297,2020.0,4.0,Jujuy,Hasta 512 kbps,49.0
+298,2020.0,4.0,La Pampa,Hasta 512 kbps,298.0
+299,2020.0,4.0,La Rioja,Hasta 512 kbps,18.0
+300,2020.0,4.0,Mendoza,Hasta 512 kbps,28.0
+301,2020.0,4.0,Misiones,Hasta 512 kbps,51.0
+302,2020.0,4.0,Neuquén,Hasta 512 kbps,116.0
+303,2020.0,4.0,Río Negro,Hasta 512 kbps,125.0
+304,2020.0,4.0,Salta,Hasta 512 kbps,109.0
+305,2020.0,4.0,San Juan,Hasta 512 kbps,25.0
+306,2020.0,4.0,San Luis,Hasta 512 kbps,58.0
+307,2020.0,4.0,Santa Cruz,Hasta 512 kbps,47.0
+308,2020.0,4.0,Santa Fe,Hasta 512 kbps,518.0
+309,2020.0,4.0,Santiago Del Estero,Hasta 512 kbps,123.0
+310,2020.0,4.0,Tierra Del Fuego,Hasta 512 kbps,17.0
+311,2020.0,4.0,Tucumán,Hasta 512 kbps,29.0
+312,2021.0,1.0,Buenos Aires,Hasta 512 kbps,153.822
+313,2021.0,1.0,Capital Federal,Hasta 512 kbps,135.0
+314,2021.0,1.0,Catamarca,Hasta 512 kbps,71.0
+315,2021.0,1.0,Chaco,Hasta 512 kbps,412.0
+316,2021.0,1.0,Chubut,Hasta 512 kbps,106.0
+317,2021.0,1.0,Córdoba,Hasta 512 kbps,93.0
+318,2021.0,1.0,Corrientes,Hasta 512 kbps,67.0
+319,2021.0,1.0,Entre Ríos,Hasta 512 kbps,105.0
+320,2021.0,1.0,Formosa,Hasta 512 kbps,56.0
+321,2021.0,1.0,Jujuy,Hasta 512 kbps,49.0
+322,2021.0,1.0,La Pampa,Hasta 512 kbps,298.0
+323,2021.0,1.0,La Rioja,Hasta 512 kbps,18.0
+324,2021.0,1.0,Mendoza,Hasta 512 kbps,28.0
+325,2021.0,1.0,Misiones,Hasta 512 kbps,51.0
+326,2021.0,1.0,Neuquén,Hasta 512 kbps,116.0
+327,2021.0,1.0,Río Negro,Hasta 512 kbps,125.0
+328,2021.0,1.0,Salta,Hasta 512 kbps,109.0
+329,2021.0,1.0,San Juan,Hasta 512 kbps,25.0
+330,2021.0,1.0,San Luis,Hasta 512 kbps,58.0
+331,2021.0,1.0,Santa Cruz,Hasta 512 kbps,50.0
+332,2021.0,1.0,Santa Fe,Hasta 512 kbps,518.0
+333,2021.0,1.0,Santiago Del Estero,Hasta 512 kbps,123.0
+334,2021.0,1.0,Tierra Del Fuego,Hasta 512 kbps,17.0
+335,2021.0,1.0,Tucumán,Hasta 512 kbps,29.0
+336,2021.0,2.0,Buenos Aires,Hasta 512 kbps,222.007
+337,2021.0,2.0,Capital Federal,Hasta 512 kbps,294.0
+338,2021.0,2.0,Catamarca,Hasta 512 kbps,71.0
+339,2021.0,2.0,Chaco,Hasta 512 kbps,412.0
+340,2021.0,2.0,Chubut,Hasta 512 kbps,104.0
+341,2021.0,2.0,Córdoba,Hasta 512 kbps,99.0
+342,2021.0,2.0,Corrientes,Hasta 512 kbps,67.0
+343,2021.0,2.0,Entre Ríos,Hasta 512 kbps,107.0
+344,2021.0,2.0,Formosa,Hasta 512 kbps,381.0
+345,2021.0,2.0,Jujuy,Hasta 512 kbps,48.0
+346,2021.0,2.0,La Pampa,Hasta 512 kbps,298.0
+347,2021.0,2.0,La Rioja,Hasta 512 kbps,18.0
+348,2021.0,2.0,Mendoza,Hasta 512 kbps,36.0
+349,2021.0,2.0,Misiones,Hasta 512 kbps,51.0
+350,2021.0,2.0,Neuquén,Hasta 512 kbps,112.0
+351,2021.0,2.0,Río Negro,Hasta 512 kbps,125.0
+352,2021.0,2.0,Salta,Hasta 512 kbps,101.0
+353,2021.0,2.0,San Juan,Hasta 512 kbps,18.0
+354,2021.0,2.0,San Luis,Hasta 512 kbps,60.0
+355,2021.0,2.0,Santa Cruz,Hasta 512 kbps,50.0
+356,2021.0,2.0,Santa Fe,Hasta 512 kbps,467.0
+357,2021.0,2.0,Santiago Del Estero,Hasta 512 kbps,123.0
+358,2021.0,2.0,Tierra Del Fuego,Hasta 512 kbps,17.0
+359,2021.0,2.0,Tucumán,Hasta 512 kbps,32.0
+360,2021.0,3.0,Buenos Aires,Hasta 512 kbps,223.007
+361,2021.0,3.0,Capital Federal,Hasta 512 kbps,295.0
+362,2021.0,3.0,Catamarca,Hasta 512 kbps,71.0
+363,2021.0,3.0,Chaco,Hasta 512 kbps,412.0
+364,2021.0,3.0,Chubut,Hasta 512 kbps,104.0
+365,2021.0,3.0,Córdoba,Hasta 512 kbps,99.0
+366,2021.0,3.0,Corrientes,Hasta 512 kbps,67.0
+367,2021.0,3.0,Entre Ríos,Hasta 512 kbps,107.0
+368,2021.0,3.0,Formosa,Hasta 512 kbps,381.0
+369,2021.0,3.0,Jujuy,Hasta 512 kbps,48.0
+370,2021.0,3.0,La Pampa,Hasta 512 kbps,298.0
+371,2021.0,3.0,La Rioja,Hasta 512 kbps,18.0
+372,2021.0,3.0,Mendoza,Hasta 512 kbps,36.0
+373,2021.0,3.0,Misiones,Hasta 512 kbps,51.0
+374,2021.0,3.0,Neuquén,Hasta 512 kbps,112.0
+375,2021.0,3.0,Río Negro,Hasta 512 kbps,125.0
+376,2021.0,3.0,Salta,Hasta 512 kbps,101.0
+377,2021.0,3.0,San Juan,Hasta 512 kbps,18.0
+378,2021.0,3.0,San Luis,Hasta 512 kbps,60.0
+379,2021.0,3.0,Santa Cruz,Hasta 512 kbps,50.0
+380,2021.0,3.0,Santa Fe,Hasta 512 kbps,467.0
+381,2021.0,3.0,Santiago Del Estero,Hasta 512 kbps,123.0
+382,2021.0,3.0,Tierra Del Fuego,Hasta 512 kbps,17.0
+383,2021.0,3.0,Tucumán,Hasta 512 kbps,32.0
+384,2021.0,4.0,Buenos Aires,Hasta 512 kbps,223.635
+385,2021.0,4.0,Capital Federal,Hasta 512 kbps,563.0
+386,2021.0,4.0,Catamarca,Hasta 512 kbps,71.0
+387,2021.0,4.0,Chaco,Hasta 512 kbps,572.0
+388,2021.0,4.0,Chubut,Hasta 512 kbps,126.0
+389,2021.0,4.0,Córdoba,Hasta 512 kbps,100.0
+390,2021.0,4.0,Corrientes,Hasta 512 kbps,67.0
+391,2021.0,4.0,Entre Ríos,Hasta 512 kbps,107.0
+392,2021.0,4.0,Formosa,Hasta 512 kbps,84.0
+393,2021.0,4.0,Jujuy,Hasta 512 kbps,58.0
+394,2021.0,4.0,La Pampa,Hasta 512 kbps,301.0
+395,2021.0,4.0,La Rioja,Hasta 512 kbps,18.0
+396,2021.0,4.0,Mendoza,Hasta 512 kbps,156.0
+397,2021.0,4.0,Misiones,Hasta 512 kbps,51.0
+398,2021.0,4.0,Neuquén,Hasta 512 kbps,140.0
+399,2021.0,4.0,Río Negro,Hasta 512 kbps,156.0
+400,2021.0,4.0,Salta,Hasta 512 kbps,114.0
+401,2021.0,4.0,San Juan,Hasta 512 kbps,44.0
+402,2021.0,4.0,San Luis,Hasta 512 kbps,62.0
+403,2021.0,4.0,Santa Cruz,Hasta 512 kbps,52.0
+404,2021.0,4.0,Santa Fe,Hasta 512 kbps,467.0
+405,2021.0,4.0,Santiago Del Estero,Hasta 512 kbps,178.0
+406,2021.0,4.0,Tierra Del Fuego,Hasta 512 kbps,26.0
+407,2021.0,4.0,Tucumán,Hasta 512 kbps,39.0
+408,2022.0,1.0,Buenos Aires,Hasta 512 kbps,242.38
+409,2022.0,1.0,Capital Federal,Hasta 512 kbps,527.0
+410,2022.0,1.0,Catamarca,Hasta 512 kbps,71.0
+411,2022.0,1.0,Chaco,Hasta 512 kbps,572.0
+412,2022.0,1.0,Chubut,Hasta 512 kbps,113.0
+413,2022.0,1.0,Córdoba,Hasta 512 kbps,100.0
+414,2022.0,1.0,Corrientes,Hasta 512 kbps,67.0
+415,2022.0,1.0,Entre Ríos,Hasta 512 kbps,107.0
+416,2022.0,1.0,Formosa,Hasta 512 kbps,97.0
+417,2022.0,1.0,Jujuy,Hasta 512 kbps,58.0
+418,2022.0,1.0,La Pampa,Hasta 512 kbps,301.0
+419,2022.0,1.0,La Rioja,Hasta 512 kbps,18.0
+420,2022.0,1.0,Mendoza,Hasta 512 kbps,114.0
+421,2022.0,1.0,Misiones,Hasta 512 kbps,51.0
+422,2022.0,1.0,Neuquén,Hasta 512 kbps,137.0
+423,2022.0,1.0,Río Negro,Hasta 512 kbps,116.0
+424,2022.0,1.0,Salta,Hasta 512 kbps,114.0
+425,2022.0,1.0,San Juan,Hasta 512 kbps,26.0
+426,2022.0,1.0,San Luis,Hasta 512 kbps,61.0
+427,2022.0,1.0,Santa Cruz,Hasta 512 kbps,51.0
+428,2022.0,1.0,Santa Fe,Hasta 512 kbps,468.0
+429,2022.0,1.0,Santiago Del Estero,Hasta 512 kbps,178.0
+430,2022.0,1.0,Tierra Del Fuego,Hasta 512 kbps,24.0
+431,2022.0,1.0,Tucumán,Hasta 512 kbps,39.0
+432,2022.0,2.0,Buenos Aires,Hasta 512 kbps,241.428
+433,2022.0,2.0,Capital Federal,Hasta 512 kbps,517.0
+434,2022.0,2.0,Catamarca,Hasta 512 kbps,71.0
+435,2022.0,2.0,Chaco,Hasta 512 kbps,572.0
+436,2022.0,2.0,Chubut,Hasta 512 kbps,109.0
+437,2022.0,2.0,Córdoba,Hasta 512 kbps,99.0
+438,2022.0,2.0,Corrientes,Hasta 512 kbps,67.0
+439,2022.0,2.0,Entre Ríos,Hasta 512 kbps,107.0
+440,2022.0,2.0,Formosa,Hasta 512 kbps,97.0
+441,2022.0,2.0,Jujuy,Hasta 512 kbps,58.0
+442,2022.0,2.0,La Pampa,Hasta 512 kbps,68.0
+443,2022.0,2.0,La Rioja,Hasta 512 kbps,18.0
+444,2022.0,2.0,Mendoza,Hasta 512 kbps,103.0
+445,2022.0,2.0,Misiones,Hasta 512 kbps,51.0
+446,2022.0,2.0,Neuquén,Hasta 512 kbps,134.0
+447,2022.0,2.0,Río Negro,Hasta 512 kbps,111.0
+448,2022.0,2.0,Salta,Hasta 512 kbps,114.0
+449,2022.0,2.0,San Juan,Hasta 512 kbps,24.0
+450,2022.0,2.0,San Luis,Hasta 512 kbps,60.0
+451,2022.0,2.0,Santa Cruz,Hasta 512 kbps,52.0
+452,2022.0,2.0,Santa Fe,Hasta 512 kbps,468.0
+453,2022.0,2.0,Santiago Del Estero,Hasta 512 kbps,178.0
+454,2022.0,2.0,Tierra Del Fuego,Hasta 512 kbps,22.0
+455,2022.0,2.0,Tucumán,Hasta 512 kbps,39.0
+456,2022.0,3.0,Buenos Aires,Hasta 512 kbps,28934.0
+457,2022.0,3.0,Capital Federal,Hasta 512 kbps,516.0
+458,2022.0,3.0,Catamarca,Hasta 512 kbps,71.0
+459,2022.0,3.0,Chaco,Hasta 512 kbps,572.0
+460,2022.0,3.0,Chubut,Hasta 512 kbps,109.0
+461,2022.0,3.0,Córdoba,Hasta 512 kbps,99.0
+462,2022.0,3.0,Corrientes,Hasta 512 kbps,67.0
+463,2022.0,3.0,Entre Ríos,Hasta 512 kbps,107.0
+464,2022.0,3.0,Formosa,Hasta 512 kbps,84.0
+465,2022.0,3.0,Jujuy,Hasta 512 kbps,58.0
+466,2022.0,3.0,La Pampa,Hasta 512 kbps,68.0
+467,2022.0,3.0,La Rioja,Hasta 512 kbps,18.0
+468,2022.0,3.0,Mendoza,Hasta 512 kbps,103.0
+469,2022.0,3.0,Misiones,Hasta 512 kbps,51.0
+470,2022.0,3.0,Neuquén,Hasta 512 kbps,168.0
+471,2022.0,3.0,Río Negro,Hasta 512 kbps,111.0
+472,2022.0,3.0,Salta,Hasta 512 kbps,114.0
+473,2022.0,3.0,San Juan,Hasta 512 kbps,24.0
+474,2022.0,3.0,San Luis,Hasta 512 kbps,60.0
+475,2022.0,3.0,Santa Cruz,Hasta 512 kbps,51.0
+476,2022.0,3.0,Santa Fe,Hasta 512 kbps,468.0
+477,2022.0,3.0,Santiago Del Estero,Hasta 512 kbps,178.0
+478,2022.0,3.0,Tierra Del Fuego,Hasta 512 kbps,22.0
+479,2022.0,3.0,Tucumán,Hasta 512 kbps,39.0
+480,2022.0,4.0,Buenos Aires,Hasta 512 kbps,238.724
+481,2022.0,4.0,Capital Federal,Hasta 512 kbps,516.0
+482,2022.0,4.0,Catamarca,Hasta 512 kbps,71.0
+483,2022.0,4.0,Chaco,Hasta 512 kbps,572.0
+484,2022.0,4.0,Chubut,Hasta 512 kbps,109.0
+485,2022.0,4.0,Córdoba,Hasta 512 kbps,99.0
+486,2022.0,4.0,Corrientes,Hasta 512 kbps,67.0
+487,2022.0,4.0,Entre Ríos,Hasta 512 kbps,107.0
+488,2022.0,4.0,Formosa,Hasta 512 kbps,84.0
+489,2022.0,4.0,Jujuy,Hasta 512 kbps,58.0
+490,2022.0,4.0,La Pampa,Hasta 512 kbps,68.0
+491,2022.0,4.0,La Rioja,Hasta 512 kbps,18.0
+492,2022.0,4.0,Mendoza,Hasta 512 kbps,103.0
+493,2022.0,4.0,Misiones,Hasta 512 kbps,51.0
+494,2022.0,4.0,Neuquén,Hasta 512 kbps,168.0
+495,2022.0,4.0,Río Negro,Hasta 512 kbps,111.0
+496,2022.0,4.0,Salta,Hasta 512 kbps,114.0
+497,2022.0,4.0,San Juan,Hasta 512 kbps,24.0
+498,2022.0,4.0,San Luis,Hasta 512 kbps,60.0
+499,2022.0,4.0,Santa Cruz,Hasta 512 kbps,51.0
+500,2022.0,4.0,Santa Fe,Hasta 512 kbps,468.0
+501,2022.0,4.0,Santiago Del Estero,Hasta 512 kbps,178.0
+502,2022.0,4.0,Tierra Del Fuego,Hasta 512 kbps,22.0
+503,2022.0,4.0,Tucumán,Hasta 512 kbps,39.0
+504,2017.0,4.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,0.0
+505,2017.0,4.0,Capital Federal,Entre 1 Mbps y 6 Mbps,1304.23
+506,2017.0,4.0,Catamarca,Entre 1 Mbps y 6 Mbps,256.074
+507,2017.0,4.0,Chaco,Entre 1 Mbps y 6 Mbps,101.08
+508,2017.0,4.0,Chubut,Entre 1 Mbps y 6 Mbps,671.088
+509,2017.0,4.0,Córdoba,Entre 1 Mbps y 6 Mbps,280.837
+510,2017.0,4.0,Corrientes,Entre 1 Mbps y 6 Mbps,877.2429999999999
+511,2017.0,4.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,1078.482
+512,2017.0,4.0,Formosa,Entre 1 Mbps y 6 Mbps,528.704
+513,2017.0,4.0,Jujuy,Entre 1 Mbps y 6 Mbps,39.553
+514,2017.0,4.0,La Pampa,Entre 1 Mbps y 6 Mbps,67.05199999999999
+515,2017.0,4.0,La Rioja,Entre 1 Mbps y 6 Mbps,42.775
+516,2017.0,4.0,Mendoza,Entre 1 Mbps y 6 Mbps,432.391
+517,2017.0,4.0,Misiones,Entre 1 Mbps y 6 Mbps,76.688
+518,2017.0,4.0,Neuquén,Entre 1 Mbps y 6 Mbps,821.282
+519,2017.0,4.0,Río Negro,Entre 1 Mbps y 6 Mbps,1709.448
+520,2017.0,4.0,Salta,Entre 1 Mbps y 6 Mbps,252.105
+521,2017.0,4.0,San Juan,Entre 1 Mbps y 6 Mbps,85.497
+522,2017.0,4.0,San Luis,Entre 1 Mbps y 6 Mbps,18.816
+523,2017.0,4.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,171.93000000000004
+524,2017.0,4.0,Santa Fe,Entre 1 Mbps y 6 Mbps,309.998
+525,2017.0,4.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,59.528
+526,2017.0,4.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,36.329
+527,2017.0,4.0,Tucumán,Entre 1 Mbps y 6 Mbps,246.582
+528,2018.0,1.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,0.0
+529,2018.0,1.0,Capital Federal,Entre 1 Mbps y 6 Mbps,1428.429
+530,2018.0,1.0,Catamarca,Entre 1 Mbps y 6 Mbps,57.727
+531,2018.0,1.0,Chaco,Entre 1 Mbps y 6 Mbps,102.446
+532,2018.0,1.0,Chubut,Entre 1 Mbps y 6 Mbps,670.5730000000001
+533,2018.0,1.0,Córdoba,Entre 1 Mbps y 6 Mbps,222.815
+534,2018.0,1.0,Corrientes,Entre 1 Mbps y 6 Mbps,812.3760000000001
+535,2018.0,1.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,1071.098
+536,2018.0,1.0,Formosa,Entre 1 Mbps y 6 Mbps,1579.521
+537,2018.0,1.0,Jujuy,Entre 1 Mbps y 6 Mbps,27.219
+538,2018.0,1.0,La Pampa,Entre 1 Mbps y 6 Mbps,307.863
+539,2018.0,1.0,La Rioja,Entre 1 Mbps y 6 Mbps,42.678
+540,2018.0,1.0,Mendoza,Entre 1 Mbps y 6 Mbps,512.251
+541,2018.0,1.0,Misiones,Entre 1 Mbps y 6 Mbps,143.712
+542,2018.0,1.0,Neuquén,Entre 1 Mbps y 6 Mbps,807.7189999999999
+543,2018.0,1.0,Río Negro,Entre 1 Mbps y 6 Mbps,596.3720000000001
+544,2018.0,1.0,Salta,Entre 1 Mbps y 6 Mbps,66.328
+545,2018.0,1.0,San Juan,Entre 1 Mbps y 6 Mbps,85.05
+546,2018.0,1.0,San Luis,Entre 1 Mbps y 6 Mbps,246.685
+547,2018.0,1.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,171.45700000000002
+548,2018.0,1.0,Santa Fe,Entre 1 Mbps y 6 Mbps,262.00800000000004
+549,2018.0,1.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,885.453
+550,2018.0,1.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,44.976
+551,2018.0,1.0,Tucumán,Entre 1 Mbps y 6 Mbps,375.514
+552,2018.0,2.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,0.0
+553,2018.0,2.0,Capital Federal,Entre 1 Mbps y 6 Mbps,524.074
+554,2018.0,2.0,Catamarca,Entre 1 Mbps y 6 Mbps,304.334
+555,2018.0,2.0,Chaco,Entre 1 Mbps y 6 Mbps,254.946
+556,2018.0,2.0,Chubut,Entre 1 Mbps y 6 Mbps,805.877
+557,2018.0,2.0,Córdoba,Entre 1 Mbps y 6 Mbps,219.63
+558,2018.0,2.0,Corrientes,Entre 1 Mbps y 6 Mbps,280.023
+559,2018.0,2.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,94.459
+560,2018.0,2.0,Formosa,Entre 1 Mbps y 6 Mbps,1054.376
+561,2018.0,2.0,Jujuy,Entre 1 Mbps y 6 Mbps,248.1
+562,2018.0,2.0,La Pampa,Entre 1 Mbps y 6 Mbps,462.6880000000001
+563,2018.0,2.0,La Rioja,Entre 1 Mbps y 6 Mbps,148.57100000000003
+564,2018.0,2.0,Mendoza,Entre 1 Mbps y 6 Mbps,513.247
+565,2018.0,2.0,Misiones,Entre 1 Mbps y 6 Mbps,199.774
+566,2018.0,2.0,Neuquén,Entre 1 Mbps y 6 Mbps,962.128
+567,2018.0,2.0,Río Negro,Entre 1 Mbps y 6 Mbps,75.05600000000001
+568,2018.0,2.0,Salta,Entre 1 Mbps y 6 Mbps,858.126
+569,2018.0,2.0,San Juan,Entre 1 Mbps y 6 Mbps,923.724
+570,2018.0,2.0,San Luis,Entre 1 Mbps y 6 Mbps,318.685
+571,2018.0,2.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,171.45700000000002
+572,2018.0,2.0,Santa Fe,Entre 1 Mbps y 6 Mbps,262.603
+573,2018.0,2.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1299.1029999999998
+574,2018.0,2.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,85.867
+575,2018.0,2.0,Tucumán,Entre 1 Mbps y 6 Mbps,916.062
+576,2018.0,3.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,0.0
+577,2018.0,3.0,Capital Federal,Entre 1 Mbps y 6 Mbps,521.685
+578,2018.0,3.0,Catamarca,Entre 1 Mbps y 6 Mbps,324.169
+579,2018.0,3.0,Chaco,Entre 1 Mbps y 6 Mbps,260.197
+580,2018.0,3.0,Chubut,Entre 1 Mbps y 6 Mbps,704.482
+581,2018.0,3.0,Córdoba,Entre 1 Mbps y 6 Mbps,224.471
+582,2018.0,3.0,Corrientes,Entre 1 Mbps y 6 Mbps,280.119
+583,2018.0,3.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,96.095
+584,2018.0,3.0,Formosa,Entre 1 Mbps y 6 Mbps,1063.582
+585,2018.0,3.0,Jujuy,Entre 1 Mbps y 6 Mbps,240.836
+586,2018.0,3.0,La Pampa,Entre 1 Mbps y 6 Mbps,463.112
+587,2018.0,3.0,La Rioja,Entre 1 Mbps y 6 Mbps,147.54
+588,2018.0,3.0,Mendoza,Entre 1 Mbps y 6 Mbps,528.794
+589,2018.0,3.0,Misiones,Entre 1 Mbps y 6 Mbps,199.902
+590,2018.0,3.0,Neuquén,Entre 1 Mbps y 6 Mbps,937.939
+591,2018.0,3.0,Río Negro,Entre 1 Mbps y 6 Mbps,75.929
+592,2018.0,3.0,Salta,Entre 1 Mbps y 6 Mbps,851.1650000000001
+593,2018.0,3.0,San Juan,Entre 1 Mbps y 6 Mbps,65.522
+594,2018.0,3.0,San Luis,Entre 1 Mbps y 6 Mbps,576.612
+595,2018.0,3.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,175.672
+596,2018.0,3.0,Santa Fe,Entre 1 Mbps y 6 Mbps,269.211
+597,2018.0,3.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1319.9989999999998
+598,2018.0,3.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,86.524
+599,2018.0,3.0,Tucumán,Entre 1 Mbps y 6 Mbps,903.736
+600,2018.0,4.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,0.0
+601,2018.0,4.0,Capital Federal,Entre 1 Mbps y 6 Mbps,375.189
+602,2018.0,4.0,Catamarca,Entre 1 Mbps y 6 Mbps,319.653
+603,2018.0,4.0,Chaco,Entre 1 Mbps y 6 Mbps,521.951
+604,2018.0,4.0,Chubut,Entre 1 Mbps y 6 Mbps,763.3629999999999
+605,2018.0,4.0,Córdoba,Entre 1 Mbps y 6 Mbps,228.475
+606,2018.0,4.0,Corrientes,Entre 1 Mbps y 6 Mbps,711.701
+607,2018.0,4.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,94.78
+608,2018.0,4.0,Formosa,Entre 1 Mbps y 6 Mbps,334.65
+609,2018.0,4.0,Jujuy,Entre 1 Mbps y 6 Mbps,340.417
+610,2018.0,4.0,La Pampa,Entre 1 Mbps y 6 Mbps,571.007
+611,2018.0,4.0,La Rioja,Entre 1 Mbps y 6 Mbps,146.179
+612,2018.0,4.0,Mendoza,Entre 1 Mbps y 6 Mbps,450.197
+613,2018.0,4.0,Misiones,Entre 1 Mbps y 6 Mbps,206.104
+614,2018.0,4.0,Neuquén,Entre 1 Mbps y 6 Mbps,1334.03
+615,2018.0,4.0,Río Negro,Entre 1 Mbps y 6 Mbps,83.41199999999999
+616,2018.0,4.0,Salta,Entre 1 Mbps y 6 Mbps,259.291
+617,2018.0,4.0,San Juan,Entre 1 Mbps y 6 Mbps,62.80800000000001
+618,2018.0,4.0,San Luis,Entre 1 Mbps y 6 Mbps,561.6209999999999
+619,2018.0,4.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,165.96399999999997
+620,2018.0,4.0,Santa Fe,Entre 1 Mbps y 6 Mbps,276.30100000000004
+621,2018.0,4.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,67.34100000000001
+622,2018.0,4.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,299.649
+623,2018.0,4.0,Tucumán,Entre 1 Mbps y 6 Mbps,1001.169
+624,2019.0,1.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,0.0
+625,2019.0,1.0,Capital Federal,Entre 1 Mbps y 6 Mbps,367.703
+626,2019.0,1.0,Catamarca,Entre 1 Mbps y 6 Mbps,366.413
+627,2019.0,1.0,Chaco,Entre 1 Mbps y 6 Mbps,524.233
+628,2019.0,1.0,Chubut,Entre 1 Mbps y 6 Mbps,485.662
+629,2019.0,1.0,Córdoba,Entre 1 Mbps y 6 Mbps,242.769
+630,2019.0,1.0,Corrientes,Entre 1 Mbps y 6 Mbps,912.527
+631,2019.0,1.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,107.013
+632,2019.0,1.0,Formosa,Entre 1 Mbps y 6 Mbps,1318.7880000000002
+633,2019.0,1.0,Jujuy,Entre 1 Mbps y 6 Mbps,340.417
+634,2019.0,1.0,La Pampa,Entre 1 Mbps y 6 Mbps,601.007
+635,2019.0,1.0,La Rioja,Entre 1 Mbps y 6 Mbps,146.179
+636,2019.0,1.0,Mendoza,Entre 1 Mbps y 6 Mbps,466.122
+637,2019.0,1.0,Misiones,Entre 1 Mbps y 6 Mbps,208.103
+638,2019.0,1.0,Neuquén,Entre 1 Mbps y 6 Mbps,1362.049
+639,2019.0,1.0,Río Negro,Entre 1 Mbps y 6 Mbps,84.845
+640,2019.0,1.0,Salta,Entre 1 Mbps y 6 Mbps,260.043
+641,2019.0,1.0,San Juan,Entre 1 Mbps y 6 Mbps,68.374
+642,2019.0,1.0,San Luis,Entre 1 Mbps y 6 Mbps,668.7320000000001
+643,2019.0,1.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,24.987
+644,2019.0,1.0,Santa Fe,Entre 1 Mbps y 6 Mbps,296.798
+645,2019.0,1.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,68.889
+646,2019.0,1.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,1154.734
+647,2019.0,1.0,Tucumán,Entre 1 Mbps y 6 Mbps,975.346
+648,2019.0,2.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,0.0
+649,2019.0,2.0,Capital Federal,Entre 1 Mbps y 6 Mbps,345.322
+650,2019.0,2.0,Catamarca,Entre 1 Mbps y 6 Mbps,476.928
+651,2019.0,2.0,Chaco,Entre 1 Mbps y 6 Mbps,521.01
+652,2019.0,2.0,Chubut,Entre 1 Mbps y 6 Mbps,490.545
+653,2019.0,2.0,Córdoba,Entre 1 Mbps y 6 Mbps,234.49
+654,2019.0,2.0,Corrientes,Entre 1 Mbps y 6 Mbps,1223.8249999999998
+655,2019.0,2.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,96.648
+656,2019.0,2.0,Formosa,Entre 1 Mbps y 6 Mbps,367.945
+657,2019.0,2.0,Jujuy,Entre 1 Mbps y 6 Mbps,480.178
+658,2019.0,2.0,La Pampa,Entre 1 Mbps y 6 Mbps,70.371
+659,2019.0,2.0,La Rioja,Entre 1 Mbps y 6 Mbps,134.808
+660,2019.0,2.0,Mendoza,Entre 1 Mbps y 6 Mbps,466.419
+661,2019.0,2.0,Misiones,Entre 1 Mbps y 6 Mbps,302.468
+662,2019.0,2.0,Neuquén,Entre 1 Mbps y 6 Mbps,1049.387
+663,2019.0,2.0,Río Negro,Entre 1 Mbps y 6 Mbps,650.502
+664,2019.0,2.0,Salta,Entre 1 Mbps y 6 Mbps,58.302
+665,2019.0,2.0,San Juan,Entre 1 Mbps y 6 Mbps,66.899
+666,2019.0,2.0,San Luis,Entre 1 Mbps y 6 Mbps,1244.334
+667,2019.0,2.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,638.2030000000001
+668,2019.0,2.0,Santa Fe,Entre 1 Mbps y 6 Mbps,285.023
+669,2019.0,2.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,754.495
+670,2019.0,2.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,1091.773
+671,2019.0,2.0,Tucumán,Entre 1 Mbps y 6 Mbps,1075.555
+672,2019.0,3.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,0.0
+673,2019.0,3.0,Capital Federal,Entre 1 Mbps y 6 Mbps,805.398
+674,2019.0,3.0,Catamarca,Entre 1 Mbps y 6 Mbps,303.146
+675,2019.0,3.0,Chaco,Entre 1 Mbps y 6 Mbps,1004.992
+676,2019.0,3.0,Chubut,Entre 1 Mbps y 6 Mbps,484.006
+677,2019.0,3.0,Córdoba,Entre 1 Mbps y 6 Mbps,225.735
+678,2019.0,3.0,Corrientes,Entre 1 Mbps y 6 Mbps,745.777
+679,2019.0,3.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,95.501
+680,2019.0,3.0,Formosa,Entre 1 Mbps y 6 Mbps,259.384
+681,2019.0,3.0,Jujuy,Entre 1 Mbps y 6 Mbps,278.106
+682,2019.0,3.0,La Pampa,Entre 1 Mbps y 6 Mbps,71.082
+683,2019.0,3.0,La Rioja,Entre 1 Mbps y 6 Mbps,37.877
+684,2019.0,3.0,Mendoza,Entre 1 Mbps y 6 Mbps,269.534
+685,2019.0,3.0,Misiones,Entre 1 Mbps y 6 Mbps,494.078
+686,2019.0,3.0,Neuquén,Entre 1 Mbps y 6 Mbps,195.571
+687,2019.0,3.0,Río Negro,Entre 1 Mbps y 6 Mbps,954.757
+688,2019.0,3.0,Salta,Entre 1 Mbps y 6 Mbps,63.193
+689,2019.0,3.0,San Juan,Entre 1 Mbps y 6 Mbps,1168.7130000000002
+690,2019.0,3.0,San Luis,Entre 1 Mbps y 6 Mbps,1354.015
+691,2019.0,3.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,637.615
+692,2019.0,3.0,Santa Fe,Entre 1 Mbps y 6 Mbps,282.233
+693,2019.0,3.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,730.916
+694,2019.0,3.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,1066.9919999999995
+695,2019.0,3.0,Tucumán,Entre 1 Mbps y 6 Mbps,472.48
+696,2019.0,4.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,1199.69
+697,2019.0,4.0,Capital Federal,Entre 1 Mbps y 6 Mbps,669.5420000000001
+698,2019.0,4.0,Catamarca,Entre 1 Mbps y 6 Mbps,271.791
+699,2019.0,4.0,Chaco,Entre 1 Mbps y 6 Mbps,1382.644
+700,2019.0,4.0,Chubut,Entre 1 Mbps y 6 Mbps,469.075
+701,2019.0,4.0,Córdoba,Entre 1 Mbps y 6 Mbps,239.811
+702,2019.0,4.0,Corrientes,Entre 1 Mbps y 6 Mbps,1705.2200000000005
+703,2019.0,4.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,79.79599999999999
+704,2019.0,4.0,Formosa,Entre 1 Mbps y 6 Mbps,44.507000000000005
+705,2019.0,4.0,Jujuy,Entre 1 Mbps y 6 Mbps,565.08
+706,2019.0,4.0,La Pampa,Entre 1 Mbps y 6 Mbps,73.439
+707,2019.0,4.0,La Rioja,Entre 1 Mbps y 6 Mbps,37.13
+708,2019.0,4.0,Mendoza,Entre 1 Mbps y 6 Mbps,1142.966
+709,2019.0,4.0,Misiones,Entre 1 Mbps y 6 Mbps,998.215
+710,2019.0,4.0,Neuquén,Entre 1 Mbps y 6 Mbps,278.346
+711,2019.0,4.0,Río Negro,Entre 1 Mbps y 6 Mbps,1221.428
+712,2019.0,4.0,Salta,Entre 1 Mbps y 6 Mbps,86.304
+713,2019.0,4.0,San Juan,Entre 1 Mbps y 6 Mbps,1157.8639999999998
+714,2019.0,4.0,San Luis,Entre 1 Mbps y 6 Mbps,2039.485
+715,2019.0,4.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,637.343
+716,2019.0,4.0,Santa Fe,Entre 1 Mbps y 6 Mbps,630.669
+717,2019.0,4.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1036.1760000000002
+718,2019.0,4.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,984.526
+719,2019.0,4.0,Tucumán,Entre 1 Mbps y 6 Mbps,462.13
+720,2020.0,1.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,1157.772
+721,2020.0,1.0,Capital Federal,Entre 1 Mbps y 6 Mbps,645.33
+722,2020.0,1.0,Catamarca,Entre 1 Mbps y 6 Mbps,270.793
+723,2020.0,1.0,Chaco,Entre 1 Mbps y 6 Mbps,1535.958
+724,2020.0,1.0,Chubut,Entre 1 Mbps y 6 Mbps,469.359
+725,2020.0,1.0,Córdoba,Entre 1 Mbps y 6 Mbps,230.613
+726,2020.0,1.0,Corrientes,Entre 1 Mbps y 6 Mbps,1704.106
+727,2020.0,1.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,68.22800000000001
+728,2020.0,1.0,Formosa,Entre 1 Mbps y 6 Mbps,43.925
+729,2020.0,1.0,Jujuy,Entre 1 Mbps y 6 Mbps,834.347
+730,2020.0,1.0,La Pampa,Entre 1 Mbps y 6 Mbps,70.34100000000001
+731,2020.0,1.0,La Rioja,Entre 1 Mbps y 6 Mbps,36.569
+732,2020.0,1.0,Mendoza,Entre 1 Mbps y 6 Mbps,490.393
+733,2020.0,1.0,Misiones,Entre 1 Mbps y 6 Mbps,951.885
+734,2020.0,1.0,Neuquén,Entre 1 Mbps y 6 Mbps,281.45
+735,2020.0,1.0,Río Negro,Entre 1 Mbps y 6 Mbps,1219.3100000000002
+736,2020.0,1.0,Salta,Entre 1 Mbps y 6 Mbps,1153.218
+737,2020.0,1.0,San Juan,Entre 1 Mbps y 6 Mbps,1174.168
+738,2020.0,1.0,San Luis,Entre 1 Mbps y 6 Mbps,1728.217
+739,2020.0,1.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,22.044
+740,2020.0,1.0,Santa Fe,Entre 1 Mbps y 6 Mbps,647.0910000000001
+741,2020.0,1.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1035.307
+742,2020.0,1.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,973.921
+743,2020.0,1.0,Tucumán,Entre 1 Mbps y 6 Mbps,228.722
+744,2020.0,2.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,1516.085
+745,2020.0,2.0,Capital Federal,Entre 1 Mbps y 6 Mbps,625.521
+746,2020.0,2.0,Catamarca,Entre 1 Mbps y 6 Mbps,321.757
+747,2020.0,2.0,Chaco,Entre 1 Mbps y 6 Mbps,2160.529
+748,2020.0,2.0,Chubut,Entre 1 Mbps y 6 Mbps,618.2080000000001
+749,2020.0,2.0,Córdoba,Entre 1 Mbps y 6 Mbps,232.84
+750,2020.0,2.0,Corrientes,Entre 1 Mbps y 6 Mbps,994.863
+751,2020.0,2.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,880.993
+752,2020.0,2.0,Formosa,Entre 1 Mbps y 6 Mbps,21.804
+753,2020.0,2.0,Jujuy,Entre 1 Mbps y 6 Mbps,756.8820000000001
+754,2020.0,2.0,La Pampa,Entre 1 Mbps y 6 Mbps,68.82499999999999
+755,2020.0,2.0,La Rioja,Entre 1 Mbps y 6 Mbps,37.674
+756,2020.0,2.0,Mendoza,Entre 1 Mbps y 6 Mbps,154.615
+757,2020.0,2.0,Misiones,Entre 1 Mbps y 6 Mbps,484.592
+758,2020.0,2.0,Neuquén,Entre 1 Mbps y 6 Mbps,324.431
+759,2020.0,2.0,Río Negro,Entre 1 Mbps y 6 Mbps,1221.002
+760,2020.0,2.0,Salta,Entre 1 Mbps y 6 Mbps,1558.614
+761,2020.0,2.0,San Juan,Entre 1 Mbps y 6 Mbps,751.9159999999999
+762,2020.0,2.0,San Luis,Entre 1 Mbps y 6 Mbps,2032.03
+763,2020.0,2.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,82.46199999999999
+764,2020.0,2.0,Santa Fe,Entre 1 Mbps y 6 Mbps,588.613
+765,2020.0,2.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1031.558
+766,2020.0,2.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,914.33
+767,2020.0,2.0,Tucumán,Entre 1 Mbps y 6 Mbps,276.385
+768,2020.0,3.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,1500.7509999999995
+769,2020.0,3.0,Capital Federal,Entre 1 Mbps y 6 Mbps,613.658
+770,2020.0,3.0,Catamarca,Entre 1 Mbps y 6 Mbps,322.292
+771,2020.0,3.0,Chaco,Entre 1 Mbps y 6 Mbps,614.458
+772,2020.0,3.0,Chubut,Entre 1 Mbps y 6 Mbps,1216.5690000000002
+773,2020.0,3.0,Córdoba,Entre 1 Mbps y 6 Mbps,238.675
+774,2020.0,3.0,Corrientes,Entre 1 Mbps y 6 Mbps,975.893
+775,2020.0,3.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,902.051
+776,2020.0,3.0,Formosa,Entre 1 Mbps y 6 Mbps,21.616
+777,2020.0,3.0,Jujuy,Entre 1 Mbps y 6 Mbps,758.548
+778,2020.0,3.0,La Pampa,Entre 1 Mbps y 6 Mbps,64.312
+779,2020.0,3.0,La Rioja,Entre 1 Mbps y 6 Mbps,37.4
+780,2020.0,3.0,Mendoza,Entre 1 Mbps y 6 Mbps,153.765
+781,2020.0,3.0,Misiones,Entre 1 Mbps y 6 Mbps,483.77
+782,2020.0,3.0,Neuquén,Entre 1 Mbps y 6 Mbps,323.713
+783,2020.0,3.0,Río Negro,Entre 1 Mbps y 6 Mbps,351.03200000000004
+784,2020.0,3.0,Salta,Entre 1 Mbps y 6 Mbps,1391.841
+785,2020.0,3.0,San Juan,Entre 1 Mbps y 6 Mbps,1043.053
+786,2020.0,3.0,San Luis,Entre 1 Mbps y 6 Mbps,2048.758
+787,2020.0,3.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,73.421
+788,2020.0,3.0,Santa Fe,Entre 1 Mbps y 6 Mbps,588.894
+789,2020.0,3.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1184.1719999999998
+790,2020.0,3.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,893.125
+791,2020.0,3.0,Tucumán,Entre 1 Mbps y 6 Mbps,480.977
+792,2020.0,4.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,1539.376
+793,2020.0,4.0,Capital Federal,Entre 1 Mbps y 6 Mbps,561.854
+794,2020.0,4.0,Catamarca,Entre 1 Mbps y 6 Mbps,297.918
+795,2020.0,4.0,Chaco,Entre 1 Mbps y 6 Mbps,1388.097
+796,2020.0,4.0,Chubut,Entre 1 Mbps y 6 Mbps,1179.289
+797,2020.0,4.0,Córdoba,Entre 1 Mbps y 6 Mbps,1147.0839999999998
+798,2020.0,4.0,Corrientes,Entre 1 Mbps y 6 Mbps,28.197
+799,2020.0,4.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,61.889
+800,2020.0,4.0,Formosa,Entre 1 Mbps y 6 Mbps,22.836
+801,2020.0,4.0,Jujuy,Entre 1 Mbps y 6 Mbps,22.511
+802,2020.0,4.0,La Pampa,Entre 1 Mbps y 6 Mbps,67.78399999999999
+803,2020.0,4.0,La Rioja,Entre 1 Mbps y 6 Mbps,37.218
+804,2020.0,4.0,Mendoza,Entre 1 Mbps y 6 Mbps,158.504
+805,2020.0,4.0,Misiones,Entre 1 Mbps y 6 Mbps,532.0600000000001
+806,2020.0,4.0,Neuquén,Entre 1 Mbps y 6 Mbps,412.847
+807,2020.0,4.0,Río Negro,Entre 1 Mbps y 6 Mbps,71.628
+808,2020.0,4.0,Salta,Entre 1 Mbps y 6 Mbps,40.084
+809,2020.0,4.0,San Juan,Entre 1 Mbps y 6 Mbps,989.12
+810,2020.0,4.0,San Luis,Entre 1 Mbps y 6 Mbps,1398.183
+811,2020.0,4.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,91.728
+812,2020.0,4.0,Santa Fe,Entre 1 Mbps y 6 Mbps,590.33
+813,2020.0,4.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1187.405
+814,2020.0,4.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,890.913
+815,2020.0,4.0,Tucumán,Entre 1 Mbps y 6 Mbps,735.246
+816,2021.0,1.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,1539.041
+817,2021.0,1.0,Capital Federal,Entre 1 Mbps y 6 Mbps,560.433
+818,2021.0,1.0,Catamarca,Entre 1 Mbps y 6 Mbps,296.521
+819,2021.0,1.0,Chaco,Entre 1 Mbps y 6 Mbps,431.681
+820,2021.0,1.0,Chubut,Entre 1 Mbps y 6 Mbps,1544.701
+821,2021.0,1.0,Córdoba,Entre 1 Mbps y 6 Mbps,1144.189
+822,2021.0,1.0,Corrientes,Entre 1 Mbps y 6 Mbps,27.676
+823,2021.0,1.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,63.617
+824,2021.0,1.0,Formosa,Entre 1 Mbps y 6 Mbps,21.753
+825,2021.0,1.0,Jujuy,Entre 1 Mbps y 6 Mbps,22.515
+826,2021.0,1.0,La Pampa,Entre 1 Mbps y 6 Mbps,65.80499999999999
+827,2021.0,1.0,La Rioja,Entre 1 Mbps y 6 Mbps,38.077000000000005
+828,2021.0,1.0,Mendoza,Entre 1 Mbps y 6 Mbps,146.68699999999998
+829,2021.0,1.0,Misiones,Entre 1 Mbps y 6 Mbps,631.995
+830,2021.0,1.0,Neuquén,Entre 1 Mbps y 6 Mbps,412.615
+831,2021.0,1.0,Río Negro,Entre 1 Mbps y 6 Mbps,71.34100000000001
+832,2021.0,1.0,Salta,Entre 1 Mbps y 6 Mbps,39.244
+833,2021.0,1.0,San Juan,Entre 1 Mbps y 6 Mbps,1252.247
+834,2021.0,1.0,San Luis,Entre 1 Mbps y 6 Mbps,2005.454
+835,2021.0,1.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,983.06
+836,2021.0,1.0,Santa Fe,Entre 1 Mbps y 6 Mbps,586.669
+837,2021.0,1.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1232.769
+838,2021.0,1.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,605.6999999999999
+839,2021.0,1.0,Tucumán,Entre 1 Mbps y 6 Mbps,710.0790000000001
+840,2021.0,2.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,1523.309
+841,2021.0,2.0,Capital Federal,Entre 1 Mbps y 6 Mbps,490.689
+842,2021.0,2.0,Catamarca,Entre 1 Mbps y 6 Mbps,634.088
+843,2021.0,2.0,Chaco,Entre 1 Mbps y 6 Mbps,431.809
+844,2021.0,2.0,Chubut,Entre 1 Mbps y 6 Mbps,933.969
+845,2021.0,2.0,Córdoba,Entre 1 Mbps y 6 Mbps,1134.571
+846,2021.0,2.0,Corrientes,Entre 1 Mbps y 6 Mbps,505.255
+847,2021.0,2.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,450.077
+848,2021.0,2.0,Formosa,Entre 1 Mbps y 6 Mbps,21.794
+849,2021.0,2.0,Jujuy,Entre 1 Mbps y 6 Mbps,22.635
+850,2021.0,2.0,La Pampa,Entre 1 Mbps y 6 Mbps,63.209
+851,2021.0,2.0,La Rioja,Entre 1 Mbps y 6 Mbps,315.311
+852,2021.0,2.0,Mendoza,Entre 1 Mbps y 6 Mbps,148.751
+853,2021.0,2.0,Misiones,Entre 1 Mbps y 6 Mbps,636.637
+854,2021.0,2.0,Neuquén,Entre 1 Mbps y 6 Mbps,489.959
+855,2021.0,2.0,Río Negro,Entre 1 Mbps y 6 Mbps,74.696
+856,2021.0,2.0,Salta,Entre 1 Mbps y 6 Mbps,48.735
+857,2021.0,2.0,San Juan,Entre 1 Mbps y 6 Mbps,1304.7420000000002
+858,2021.0,2.0,San Luis,Entre 1 Mbps y 6 Mbps,2019.303
+859,2021.0,2.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,984.977
+860,2021.0,2.0,Santa Fe,Entre 1 Mbps y 6 Mbps,359.746
+861,2021.0,2.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,726.736
+862,2021.0,2.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,912.356
+863,2021.0,2.0,Tucumán,Entre 1 Mbps y 6 Mbps,707.76
+864,2021.0,3.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,1537.8649999999998
+865,2021.0,3.0,Capital Federal,Entre 1 Mbps y 6 Mbps,497.295
+866,2021.0,3.0,Catamarca,Entre 1 Mbps y 6 Mbps,666.626
+867,2021.0,3.0,Chaco,Entre 1 Mbps y 6 Mbps,431.006
+868,2021.0,3.0,Chubut,Entre 1 Mbps y 6 Mbps,156.299
+869,2021.0,3.0,Córdoba,Entre 1 Mbps y 6 Mbps,1138.238
+870,2021.0,3.0,Corrientes,Entre 1 Mbps y 6 Mbps,505.6050000000001
+871,2021.0,3.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,448.035
+872,2021.0,3.0,Formosa,Entre 1 Mbps y 6 Mbps,22.238
+873,2021.0,3.0,Jujuy,Entre 1 Mbps y 6 Mbps,22.36
+874,2021.0,3.0,La Pampa,Entre 1 Mbps y 6 Mbps,248.908
+875,2021.0,3.0,La Rioja,Entre 1 Mbps y 6 Mbps,471.228
+876,2021.0,3.0,Mendoza,Entre 1 Mbps y 6 Mbps,890.453
+877,2021.0,3.0,Misiones,Entre 1 Mbps y 6 Mbps,636.966
+878,2021.0,3.0,Neuquén,Entre 1 Mbps y 6 Mbps,489.711
+879,2021.0,3.0,Río Negro,Entre 1 Mbps y 6 Mbps,74.35300000000001
+880,2021.0,3.0,Salta,Entre 1 Mbps y 6 Mbps,47.652
+881,2021.0,3.0,San Juan,Entre 1 Mbps y 6 Mbps,1309.621
+882,2021.0,3.0,San Luis,Entre 1 Mbps y 6 Mbps,2037.085
+883,2021.0,3.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,984.943
+884,2021.0,3.0,Santa Fe,Entre 1 Mbps y 6 Mbps,350.261
+885,2021.0,3.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,725.504
+886,2021.0,3.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,964.698
+887,2021.0,3.0,Tucumán,Entre 1 Mbps y 6 Mbps,1076.1470000000002
+888,2021.0,4.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,712.545
+889,2021.0,4.0,Capital Federal,Entre 1 Mbps y 6 Mbps,1357.593
+890,2021.0,4.0,Catamarca,Entre 1 Mbps y 6 Mbps,520.066
+891,2021.0,4.0,Chaco,Entre 1 Mbps y 6 Mbps,577.228
+892,2021.0,4.0,Chubut,Entre 1 Mbps y 6 Mbps,63.038
+893,2021.0,4.0,Córdoba,Entre 1 Mbps y 6 Mbps,998.454
+894,2021.0,4.0,Corrientes,Entre 1 Mbps y 6 Mbps,504.901
+895,2021.0,4.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,442.812
+896,2021.0,4.0,Formosa,Entre 1 Mbps y 6 Mbps,22.417
+897,2021.0,4.0,Jujuy,Entre 1 Mbps y 6 Mbps,20.915
+898,2021.0,4.0,La Pampa,Entre 1 Mbps y 6 Mbps,247.919
+899,2021.0,4.0,La Rioja,Entre 1 Mbps y 6 Mbps,469.915
+900,2021.0,4.0,Mendoza,Entre 1 Mbps y 6 Mbps,941.627
+901,2021.0,4.0,Misiones,Entre 1 Mbps y 6 Mbps,645.159
+902,2021.0,4.0,Neuquén,Entre 1 Mbps y 6 Mbps,42.063
+903,2021.0,4.0,Río Negro,Entre 1 Mbps y 6 Mbps,38.059
+904,2021.0,4.0,Salta,Entre 1 Mbps y 6 Mbps,46.955
+905,2021.0,4.0,San Juan,Entre 1 Mbps y 6 Mbps,1282.664
+906,2021.0,4.0,San Luis,Entre 1 Mbps y 6 Mbps,2044.09
+907,2021.0,4.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,974.72
+908,2021.0,4.0,Santa Fe,Entre 1 Mbps y 6 Mbps,330.903
+909,2021.0,4.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,722.718
+910,2021.0,4.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,428.09
+911,2021.0,4.0,Tucumán,Entre 1 Mbps y 6 Mbps,510.722
+912,2022.0,1.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,753.9410000000001
+913,2022.0,1.0,Capital Federal,Entre 1 Mbps y 6 Mbps,1346.61
+914,2022.0,1.0,Catamarca,Entre 1 Mbps y 6 Mbps,166.224
+915,2022.0,1.0,Chaco,Entre 1 Mbps y 6 Mbps,576.328
+916,2022.0,1.0,Chubut,Entre 1 Mbps y 6 Mbps,61.36899999999999
+917,2022.0,1.0,Córdoba,Entre 1 Mbps y 6 Mbps,358.72900000000004
+918,2022.0,1.0,Corrientes,Entre 1 Mbps y 6 Mbps,504.083
+919,2022.0,1.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,439.685
+920,2022.0,1.0,Formosa,Entre 1 Mbps y 6 Mbps,24.113000000000003
+921,2022.0,1.0,Jujuy,Entre 1 Mbps y 6 Mbps,22.141
+922,2022.0,1.0,La Pampa,Entre 1 Mbps y 6 Mbps,247.627
+923,2022.0,1.0,La Rioja,Entre 1 Mbps y 6 Mbps,1130.448
+924,2022.0,1.0,Mendoza,Entre 1 Mbps y 6 Mbps,953.327
+925,2022.0,1.0,Misiones,Entre 1 Mbps y 6 Mbps,39.651
+926,2022.0,1.0,Neuquén,Entre 1 Mbps y 6 Mbps,39.856
+927,2022.0,1.0,Río Negro,Entre 1 Mbps y 6 Mbps,35.565
+928,2022.0,1.0,Salta,Entre 1 Mbps y 6 Mbps,43.568
+929,2022.0,1.0,San Juan,Entre 1 Mbps y 6 Mbps,941.446
+930,2022.0,1.0,San Luis,Entre 1 Mbps y 6 Mbps,2058.235
+931,2022.0,1.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,973.748
+932,2022.0,1.0,Santa Fe,Entre 1 Mbps y 6 Mbps,317.622
+933,2022.0,1.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,720.5289999999999
+934,2022.0,1.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,424.437
+935,2022.0,1.0,Tucumán,Entre 1 Mbps y 6 Mbps,497.566
+936,2022.0,2.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,735.797
+937,2022.0,2.0,Capital Federal,Entre 1 Mbps y 6 Mbps,1360.7099999999998
+938,2022.0,2.0,Catamarca,Entre 1 Mbps y 6 Mbps,136.545
+939,2022.0,2.0,Chaco,Entre 1 Mbps y 6 Mbps,1373.246
+940,2022.0,2.0,Chubut,Entre 1 Mbps y 6 Mbps,45.804
+941,2022.0,2.0,Córdoba,Entre 1 Mbps y 6 Mbps,353.293
+942,2022.0,2.0,Corrientes,Entre 1 Mbps y 6 Mbps,503.773
+943,2022.0,2.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,438.247
+944,2022.0,2.0,Formosa,Entre 1 Mbps y 6 Mbps,23.834
+945,2022.0,2.0,Jujuy,Entre 1 Mbps y 6 Mbps,19.458
+946,2022.0,2.0,La Pampa,Entre 1 Mbps y 6 Mbps,247.361
+947,2022.0,2.0,La Rioja,Entre 1 Mbps y 6 Mbps,1073.108
+948,2022.0,2.0,Mendoza,Entre 1 Mbps y 6 Mbps,936.069
+949,2022.0,2.0,Misiones,Entre 1 Mbps y 6 Mbps,41.25
+950,2022.0,2.0,Neuquén,Entre 1 Mbps y 6 Mbps,38.826
+951,2022.0,2.0,Río Negro,Entre 1 Mbps y 6 Mbps,33.364
+952,2022.0,2.0,Salta,Entre 1 Mbps y 6 Mbps,41.724
+953,2022.0,2.0,San Juan,Entre 1 Mbps y 6 Mbps,889.5250000000001
+954,2022.0,2.0,San Luis,Entre 1 Mbps y 6 Mbps,225.621
+955,2022.0,2.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,973.386
+956,2022.0,2.0,Santa Fe,Entre 1 Mbps y 6 Mbps,310.362
+957,2022.0,2.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1100.5090000000002
+958,2022.0,2.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,335.728
+959,2022.0,2.0,Tucumán,Entre 1 Mbps y 6 Mbps,502.992
+960,2022.0,3.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,259866.0
+961,2022.0,3.0,Capital Federal,Entre 1 Mbps y 6 Mbps,31320.0
+962,2022.0,3.0,Catamarca,Entre 1 Mbps y 6 Mbps,2716.0
+963,2022.0,3.0,Chaco,Entre 1 Mbps y 6 Mbps,16067.0
+964,2022.0,3.0,Chubut,Entre 1 Mbps y 6 Mbps,46457.0
+965,2022.0,3.0,Córdoba,Entre 1 Mbps y 6 Mbps,143686.0
+966,2022.0,3.0,Corrientes,Entre 1 Mbps y 6 Mbps,22647.0
+967,2022.0,3.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,45629.0
+968,2022.0,3.0,Formosa,Entre 1 Mbps y 6 Mbps,22458.0
+969,2022.0,3.0,Jujuy,Entre 1 Mbps y 6 Mbps,18652.0
+970,2022.0,3.0,La Pampa,Entre 1 Mbps y 6 Mbps,52618.0
+971,2022.0,3.0,La Rioja,Entre 1 Mbps y 6 Mbps,2531.0
+972,2022.0,3.0,Mendoza,Entre 1 Mbps y 6 Mbps,35541.0
+973,2022.0,3.0,Misiones,Entre 1 Mbps y 6 Mbps,35622.0
+974,2022.0,3.0,Neuquén,Entre 1 Mbps y 6 Mbps,38814.0
+975,2022.0,3.0,Río Negro,Entre 1 Mbps y 6 Mbps,32053.0
+976,2022.0,3.0,Salta,Entre 1 Mbps y 6 Mbps,31530.0
+977,2022.0,3.0,San Juan,Entre 1 Mbps y 6 Mbps,30069.0
+978,2022.0,3.0,San Luis,Entre 1 Mbps y 6 Mbps,11785.0
+979,2022.0,3.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,11616.0
+980,2022.0,3.0,Santa Fe,Entre 1 Mbps y 6 Mbps,115767.0
+981,2022.0,3.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,26183.0
+982,2022.0,3.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,11649.0
+983,2022.0,3.0,Tucumán,Entre 1 Mbps y 6 Mbps,29996.0
+984,2022.0,4.0,Buenos Aires,Entre 1 Mbps y 6 Mbps,491.634
+985,2022.0,4.0,Capital Federal,Entre 1 Mbps y 6 Mbps,1307.043
+986,2022.0,4.0,Catamarca,Entre 1 Mbps y 6 Mbps,1166.551
+987,2022.0,4.0,Chaco,Entre 1 Mbps y 6 Mbps,1371.71
+988,2022.0,4.0,Chubut,Entre 1 Mbps y 6 Mbps,46.457
+989,2022.0,4.0,Córdoba,Entre 1 Mbps y 6 Mbps,329.5
+990,2022.0,4.0,Corrientes,Entre 1 Mbps y 6 Mbps,502.167
+991,2022.0,4.0,Entre Ríos,Entre 1 Mbps y 6 Mbps,435.239
+992,2022.0,4.0,Formosa,Entre 1 Mbps y 6 Mbps,22.458
+993,2022.0,4.0,Jujuy,Entre 1 Mbps y 6 Mbps,18.652
+994,2022.0,4.0,La Pampa,Entre 1 Mbps y 6 Mbps,237.433
+995,2022.0,4.0,La Rioja,Entre 1 Mbps y 6 Mbps,909.623
+996,2022.0,4.0,Mendoza,Entre 1 Mbps y 6 Mbps,35.541000000000004
+997,2022.0,4.0,Misiones,Entre 1 Mbps y 6 Mbps,39.618
+998,2022.0,4.0,Neuquén,Entre 1 Mbps y 6 Mbps,38.814
+999,2022.0,4.0,Río Negro,Entre 1 Mbps y 6 Mbps,32.053000000000004
+1000,2022.0,4.0,Salta,Entre 1 Mbps y 6 Mbps,39.522000000000006
+1001,2022.0,4.0,San Juan,Entre 1 Mbps y 6 Mbps,889.2090000000001
+1002,2022.0,4.0,San Luis,Entre 1 Mbps y 6 Mbps,820.975
+1003,2022.0,4.0,Santa Cruz,Entre 1 Mbps y 6 Mbps,836.7900000000001
+1004,2022.0,4.0,Santa Fe,Entre 1 Mbps y 6 Mbps,287.595
+1005,2022.0,4.0,Santiago Del Estero,Entre 1 Mbps y 6 Mbps,1131.077
+1006,2022.0,4.0,Tierra Del Fuego,Entre 1 Mbps y 6 Mbps,883.7760000000001
+1007,2022.0,4.0,Tucumán,Entre 1 Mbps y 6 Mbps,494.531
+1008,2017.0,4.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,831.394
+1009,2017.0,4.0,Capital Federal,Entre 10 Mbps y 20 Mbps,467.111
+1010,2017.0,4.0,Catamarca,Entre 10 Mbps y 20 Mbps,4.925
+1011,2017.0,4.0,Chaco,Entre 10 Mbps y 20 Mbps,768.3739999999999
+1012,2017.0,4.0,Chubut,Entre 10 Mbps y 20 Mbps,7.0
+1013,2017.0,4.0,Córdoba,Entre 10 Mbps y 20 Mbps,219.6
+1014,2017.0,4.0,Corrientes,Entre 10 Mbps y 20 Mbps,753.308
+1015,2017.0,4.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,48.991
+1016,2017.0,4.0,Formosa,Entre 10 Mbps y 20 Mbps,37.965
+1017,2017.0,4.0,Jujuy,Entre 10 Mbps y 20 Mbps,18.492
+1018,2017.0,4.0,La Pampa,Entre 10 Mbps y 20 Mbps,792.0
+1019,2017.0,4.0,La Rioja,Entre 10 Mbps y 20 Mbps,5.813
+1020,2017.0,4.0,Mendoza,Entre 10 Mbps y 20 Mbps,278.0
+1021,2017.0,4.0,Misiones,Entre 10 Mbps y 20 Mbps,843.44
+1022,2017.0,4.0,Neuquén,Entre 10 Mbps y 20 Mbps,163.64
+1023,2017.0,4.0,Río Negro,Entre 10 Mbps y 20 Mbps,112.402
+1024,2017.0,4.0,Salta,Entre 10 Mbps y 20 Mbps,207.779
+1025,2017.0,4.0,San Juan,Entre 10 Mbps y 20 Mbps,0.0
+1026,2017.0,4.0,San Luis,Entre 10 Mbps y 20 Mbps,0.0
+1027,2017.0,4.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,100.0
+1028,2017.0,4.0,Santa Fe,Entre 10 Mbps y 20 Mbps,152.328
+1029,2017.0,4.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,30.332
+1030,2017.0,4.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,0.0
+1031,2017.0,4.0,Tucumán,Entre 10 Mbps y 20 Mbps,100.242
+1032,2018.0,1.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,1007.557
+1033,2018.0,1.0,Capital Federal,Entre 10 Mbps y 20 Mbps,929.384
+1034,2018.0,1.0,Catamarca,Entre 10 Mbps y 20 Mbps,5.537
+1035,2018.0,1.0,Chaco,Entre 10 Mbps y 20 Mbps,686.632
+1036,2018.0,1.0,Chubut,Entre 10 Mbps y 20 Mbps,4.0
+1037,2018.0,1.0,Córdoba,Entre 10 Mbps y 20 Mbps,1246.278
+1038,2018.0,1.0,Corrientes,Entre 10 Mbps y 20 Mbps,672.414
+1039,2018.0,1.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,945.492
+1040,2018.0,1.0,Formosa,Entre 10 Mbps y 20 Mbps,39.032
+1041,2018.0,1.0,Jujuy,Entre 10 Mbps y 20 Mbps,18.91
+1042,2018.0,1.0,La Pampa,Entre 10 Mbps y 20 Mbps,1076.0
+1043,2018.0,1.0,La Rioja,Entre 10 Mbps y 20 Mbps,5.831
+1044,2018.0,1.0,Mendoza,Entre 10 Mbps y 20 Mbps,266.0
+1045,2018.0,1.0,Misiones,Entre 10 Mbps y 20 Mbps,733.515
+1046,2018.0,1.0,Neuquén,Entre 10 Mbps y 20 Mbps,174.866
+1047,2018.0,1.0,Río Negro,Entre 10 Mbps y 20 Mbps,1042.971
+1048,2018.0,1.0,Salta,Entre 10 Mbps y 20 Mbps,218.583
+1049,2018.0,1.0,San Juan,Entre 10 Mbps y 20 Mbps,0.0
+1050,2018.0,1.0,San Luis,Entre 10 Mbps y 20 Mbps,0.0
+1051,2018.0,1.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,100.0
+1052,2018.0,1.0,Santa Fe,Entre 10 Mbps y 20 Mbps,189.899
+1053,2018.0,1.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,29.423
+1054,2018.0,1.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,0.0
+1055,2018.0,1.0,Tucumán,Entre 10 Mbps y 20 Mbps,101.33
+1056,2018.0,2.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,825.0469999999999
+1057,2018.0,2.0,Capital Federal,Entre 10 Mbps y 20 Mbps,454.336
+1058,2018.0,2.0,Catamarca,Entre 10 Mbps y 20 Mbps,4.347
+1059,2018.0,2.0,Chaco,Entre 10 Mbps y 20 Mbps,567.341
+1060,2018.0,2.0,Chubut,Entre 10 Mbps y 20 Mbps,4.0
+1061,2018.0,2.0,Córdoba,Entre 10 Mbps y 20 Mbps,246.289
+1062,2018.0,2.0,Corrientes,Entre 10 Mbps y 20 Mbps,577.366
+1063,2018.0,2.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,804.51
+1064,2018.0,2.0,Formosa,Entre 10 Mbps y 20 Mbps,29.707
+1065,2018.0,2.0,Jujuy,Entre 10 Mbps y 20 Mbps,3.977
+1066,2018.0,2.0,La Pampa,Entre 10 Mbps y 20 Mbps,965.0
+1067,2018.0,2.0,La Rioja,Entre 10 Mbps y 20 Mbps,553.092
+1068,2018.0,2.0,Mendoza,Entre 10 Mbps y 20 Mbps,266.0
+1069,2018.0,2.0,Misiones,Entre 10 Mbps y 20 Mbps,609.1610000000001
+1070,2018.0,2.0,Neuquén,Entre 10 Mbps y 20 Mbps,211.232
+1071,2018.0,2.0,Río Negro,Entre 10 Mbps y 20 Mbps,928.567
+1072,2018.0,2.0,Salta,Entre 10 Mbps y 20 Mbps,28.431
+1073,2018.0,2.0,San Juan,Entre 10 Mbps y 20 Mbps,0.0
+1074,2018.0,2.0,San Luis,Entre 10 Mbps y 20 Mbps,0.0
+1075,2018.0,2.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,100.0
+1076,2018.0,2.0,Santa Fe,Entre 10 Mbps y 20 Mbps,176.539
+1077,2018.0,2.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,3.278
+1078,2018.0,2.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,75.0
+1079,2018.0,2.0,Tucumán,Entre 10 Mbps y 20 Mbps,27.059
+1080,2018.0,3.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,645.081
+1081,2018.0,3.0,Capital Federal,Entre 10 Mbps y 20 Mbps,377.668
+1082,2018.0,3.0,Catamarca,Entre 10 Mbps y 20 Mbps,114.211
+1083,2018.0,3.0,Chaco,Entre 10 Mbps y 20 Mbps,469.885
+1084,2018.0,3.0,Chubut,Entre 10 Mbps y 20 Mbps,531.0
+1085,2018.0,3.0,Córdoba,Entre 10 Mbps y 20 Mbps,223.982
+1086,2018.0,3.0,Corrientes,Entre 10 Mbps y 20 Mbps,489.128
+1087,2018.0,3.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,680.703
+1088,2018.0,3.0,Formosa,Entre 10 Mbps y 20 Mbps,27.318
+1089,2018.0,3.0,Jujuy,Entre 10 Mbps y 20 Mbps,4.066000000000001
+1090,2018.0,3.0,La Pampa,Entre 10 Mbps y 20 Mbps,920.0
+1091,2018.0,3.0,La Rioja,Entre 10 Mbps y 20 Mbps,567.862
+1092,2018.0,3.0,Mendoza,Entre 10 Mbps y 20 Mbps,504.227
+1093,2018.0,3.0,Misiones,Entre 10 Mbps y 20 Mbps,506.726
+1094,2018.0,3.0,Neuquén,Entre 10 Mbps y 20 Mbps,218.59
+1095,2018.0,3.0,Río Negro,Entre 10 Mbps y 20 Mbps,790.136
+1096,2018.0,3.0,Salta,Entre 10 Mbps y 20 Mbps,25.582
+1097,2018.0,3.0,San Juan,Entre 10 Mbps y 20 Mbps,312.0
+1098,2018.0,3.0,San Luis,Entre 10 Mbps y 20 Mbps,119.0
+1099,2018.0,3.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,206.0
+1100,2018.0,3.0,Santa Fe,Entre 10 Mbps y 20 Mbps,163.54399999999998
+1101,2018.0,3.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,657.152
+1102,2018.0,3.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,231.0
+1103,2018.0,3.0,Tucumán,Entre 10 Mbps y 20 Mbps,98.99
+1104,2018.0,4.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,586.67
+1105,2018.0,4.0,Capital Federal,Entre 10 Mbps y 20 Mbps,339.487
+1106,2018.0,4.0,Catamarca,Entre 10 Mbps y 20 Mbps,114.352
+1107,2018.0,4.0,Chaco,Entre 10 Mbps y 20 Mbps,404.579
+1108,2018.0,4.0,Chubut,Entre 10 Mbps y 20 Mbps,531.0
+1109,2018.0,4.0,Córdoba,Entre 10 Mbps y 20 Mbps,203.637
+1110,2018.0,4.0,Corrientes,Entre 10 Mbps y 20 Mbps,401.112
+1111,2018.0,4.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,570.46
+1112,2018.0,4.0,Formosa,Entre 10 Mbps y 20 Mbps,25.011000000000003
+1113,2018.0,4.0,Jujuy,Entre 10 Mbps y 20 Mbps,5.02
+1114,2018.0,4.0,La Pampa,Entre 10 Mbps y 20 Mbps,978.0
+1115,2018.0,4.0,La Rioja,Entre 10 Mbps y 20 Mbps,527.693
+1116,2018.0,4.0,Mendoza,Entre 10 Mbps y 20 Mbps,505.225
+1117,2018.0,4.0,Misiones,Entre 10 Mbps y 20 Mbps,416.828
+1118,2018.0,4.0,Neuquén,Entre 10 Mbps y 20 Mbps,262.211
+1119,2018.0,4.0,Río Negro,Entre 10 Mbps y 20 Mbps,704.748
+1120,2018.0,4.0,Salta,Entre 10 Mbps y 20 Mbps,22.91
+1121,2018.0,4.0,San Juan,Entre 10 Mbps y 20 Mbps,312.0
+1122,2018.0,4.0,San Luis,Entre 10 Mbps y 20 Mbps,119.0
+1123,2018.0,4.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,206.0
+1124,2018.0,4.0,Santa Fe,Entre 10 Mbps y 20 Mbps,153.03799999999998
+1125,2018.0,4.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,657.032
+1126,2018.0,4.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,157.746
+1127,2018.0,4.0,Tucumán,Entre 10 Mbps y 20 Mbps,101.036
+1128,2019.0,1.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,585.419
+1129,2019.0,1.0,Capital Federal,Entre 10 Mbps y 20 Mbps,345.107
+1130,2019.0,1.0,Catamarca,Entre 10 Mbps y 20 Mbps,302.309
+1131,2019.0,1.0,Chaco,Entre 10 Mbps y 20 Mbps,404.579
+1132,2019.0,1.0,Chubut,Entre 10 Mbps y 20 Mbps,787.0
+1133,2019.0,1.0,Córdoba,Entre 10 Mbps y 20 Mbps,203.678
+1134,2019.0,1.0,Corrientes,Entre 10 Mbps y 20 Mbps,401.112
+1135,2019.0,1.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,570.415
+1136,2019.0,1.0,Formosa,Entre 10 Mbps y 20 Mbps,25.011000000000003
+1137,2019.0,1.0,Jujuy,Entre 10 Mbps y 20 Mbps,5.02
+1138,2019.0,1.0,La Pampa,Entre 10 Mbps y 20 Mbps,1061.0
+1139,2019.0,1.0,La Rioja,Entre 10 Mbps y 20 Mbps,527.693
+1140,2019.0,1.0,Mendoza,Entre 10 Mbps y 20 Mbps,722.984
+1141,2019.0,1.0,Misiones,Entre 10 Mbps y 20 Mbps,416.713
+1142,2019.0,1.0,Neuquén,Entre 10 Mbps y 20 Mbps,262.211
+1143,2019.0,1.0,Río Negro,Entre 10 Mbps y 20 Mbps,852.775
+1144,2019.0,1.0,Salta,Entre 10 Mbps y 20 Mbps,22.91
+1145,2019.0,1.0,San Juan,Entre 10 Mbps y 20 Mbps,520.0
+1146,2019.0,1.0,San Luis,Entre 10 Mbps y 20 Mbps,345.0
+1147,2019.0,1.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,702.0
+1148,2019.0,1.0,Santa Fe,Entre 10 Mbps y 20 Mbps,293.072
+1149,2019.0,1.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,880.082
+1150,2019.0,1.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,641.0
+1151,2019.0,1.0,Tucumán,Entre 10 Mbps y 20 Mbps,196.04
+1152,2019.0,2.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,551.55
+1153,2019.0,2.0,Capital Federal,Entre 10 Mbps y 20 Mbps,254.676
+1154,2019.0,2.0,Catamarca,Entre 10 Mbps y 20 Mbps,398.656
+1155,2019.0,2.0,Chaco,Entre 10 Mbps y 20 Mbps,269.536
+1156,2019.0,2.0,Chubut,Entre 10 Mbps y 20 Mbps,1495.0
+1157,2019.0,2.0,Córdoba,Entre 10 Mbps y 20 Mbps,183.432
+1158,2019.0,2.0,Corrientes,Entre 10 Mbps y 20 Mbps,263.863
+1159,2019.0,2.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,347.871
+1160,2019.0,2.0,Formosa,Entre 10 Mbps y 20 Mbps,901.49
+1161,2019.0,2.0,Jujuy,Entre 10 Mbps y 20 Mbps,26.7
+1162,2019.0,2.0,La Pampa,Entre 10 Mbps y 20 Mbps,309.058
+1163,2019.0,2.0,La Rioja,Entre 10 Mbps y 20 Mbps,454.407
+1164,2019.0,2.0,Mendoza,Entre 10 Mbps y 20 Mbps,755.346
+1165,2019.0,2.0,Misiones,Entre 10 Mbps y 20 Mbps,269.154
+1166,2019.0,2.0,Neuquén,Entre 10 Mbps y 20 Mbps,1471.862
+1167,2019.0,2.0,Río Negro,Entre 10 Mbps y 20 Mbps,697.6030000000001
+1168,2019.0,2.0,Salta,Entre 10 Mbps y 20 Mbps,16.961
+1169,2019.0,2.0,San Juan,Entre 10 Mbps y 20 Mbps,785.0
+1170,2019.0,2.0,San Luis,Entre 10 Mbps y 20 Mbps,467.0
+1171,2019.0,2.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,1202.0
+1172,2019.0,2.0,Santa Fe,Entre 10 Mbps y 20 Mbps,269.601
+1173,2019.0,2.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,3.741
+1174,2019.0,2.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,158.416
+1175,2019.0,2.0,Tucumán,Entre 10 Mbps y 20 Mbps,245.07
+1176,2019.0,3.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,371.396
+1177,2019.0,3.0,Capital Federal,Entre 10 Mbps y 20 Mbps,148.001
+1178,2019.0,3.0,Catamarca,Entre 10 Mbps y 20 Mbps,398.94
+1179,2019.0,3.0,Chaco,Entre 10 Mbps y 20 Mbps,13.336
+1180,2019.0,3.0,Chubut,Entre 10 Mbps y 20 Mbps,732.445
+1181,2019.0,3.0,Córdoba,Entre 10 Mbps y 20 Mbps,155.449
+1182,2019.0,3.0,Corrientes,Entre 10 Mbps y 20 Mbps,10.348
+1183,2019.0,3.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,17.064
+1184,2019.0,3.0,Formosa,Entre 10 Mbps y 20 Mbps,1276.846
+1185,2019.0,3.0,Jujuy,Entre 10 Mbps y 20 Mbps,1014.846
+1186,2019.0,3.0,La Pampa,Entre 10 Mbps y 20 Mbps,389.223
+1187,2019.0,3.0,La Rioja,Entre 10 Mbps y 20 Mbps,571.32
+1188,2019.0,3.0,Mendoza,Entre 10 Mbps y 20 Mbps,756.346
+1189,2019.0,3.0,Misiones,Entre 10 Mbps y 20 Mbps,11.256
+1190,2019.0,3.0,Neuquén,Entre 10 Mbps y 20 Mbps,1062.543
+1191,2019.0,3.0,Río Negro,Entre 10 Mbps y 20 Mbps,31.757
+1192,2019.0,3.0,Salta,Entre 10 Mbps y 20 Mbps,20.303
+1193,2019.0,3.0,San Juan,Entre 10 Mbps y 20 Mbps,131.137
+1194,2019.0,3.0,San Luis,Entre 10 Mbps y 20 Mbps,467.0
+1195,2019.0,3.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,1203.0
+1196,2019.0,3.0,Santa Fe,Entre 10 Mbps y 20 Mbps,245.929
+1197,2019.0,3.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,3.612
+1198,2019.0,3.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,275.482
+1199,2019.0,3.0,Tucumán,Entre 10 Mbps y 20 Mbps,245.133
+1200,2019.0,4.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,385.967
+1201,2019.0,4.0,Capital Federal,Entre 10 Mbps y 20 Mbps,120.842
+1202,2019.0,4.0,Catamarca,Entre 10 Mbps y 20 Mbps,824.489
+1203,2019.0,4.0,Chaco,Entre 10 Mbps y 20 Mbps,30.902
+1204,2019.0,4.0,Chubut,Entre 10 Mbps y 20 Mbps,903.718
+1205,2019.0,4.0,Córdoba,Entre 10 Mbps y 20 Mbps,135.30399999999997
+1206,2019.0,4.0,Corrientes,Entre 10 Mbps y 20 Mbps,27.367
+1207,2019.0,4.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,42.962
+1208,2019.0,4.0,Formosa,Entre 10 Mbps y 20 Mbps,1955.837
+1209,2019.0,4.0,Jujuy,Entre 10 Mbps y 20 Mbps,866.923
+1210,2019.0,4.0,La Pampa,Entre 10 Mbps y 20 Mbps,541.4110000000001
+1211,2019.0,4.0,La Rioja,Entre 10 Mbps y 20 Mbps,531.236
+1212,2019.0,4.0,Mendoza,Entre 10 Mbps y 20 Mbps,112.14
+1213,2019.0,4.0,Misiones,Entre 10 Mbps y 20 Mbps,27.305
+1214,2019.0,4.0,Neuquén,Entre 10 Mbps y 20 Mbps,518.845
+1215,2019.0,4.0,Río Negro,Entre 10 Mbps y 20 Mbps,30.536
+1216,2019.0,4.0,Salta,Entre 10 Mbps y 20 Mbps,89.295
+1217,2019.0,4.0,San Juan,Entre 10 Mbps y 20 Mbps,59.234
+1218,2019.0,4.0,San Luis,Entre 10 Mbps y 20 Mbps,525.0
+1219,2019.0,4.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,161.065
+1220,2019.0,4.0,Santa Fe,Entre 10 Mbps y 20 Mbps,252.388
+1221,2019.0,4.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,892.8660000000001
+1222,2019.0,4.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,271.578
+1223,2019.0,4.0,Tucumán,Entre 10 Mbps y 20 Mbps,212.732
+1224,2020.0,1.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,386.838
+1225,2020.0,1.0,Capital Federal,Entre 10 Mbps y 20 Mbps,99.655
+1226,2020.0,1.0,Catamarca,Entre 10 Mbps y 20 Mbps,694.8720000000001
+1227,2020.0,1.0,Chaco,Entre 10 Mbps y 20 Mbps,29.851
+1228,2020.0,1.0,Chubut,Entre 10 Mbps y 20 Mbps,903.859
+1229,2020.0,1.0,Córdoba,Entre 10 Mbps y 20 Mbps,121.801
+1230,2020.0,1.0,Corrientes,Entre 10 Mbps y 20 Mbps,1018.686
+1231,2020.0,1.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,41.12500000000001
+1232,2020.0,1.0,Formosa,Entre 10 Mbps y 20 Mbps,1644.924
+1233,2020.0,1.0,Jujuy,Entre 10 Mbps y 20 Mbps,732.986
+1234,2020.0,1.0,La Pampa,Entre 10 Mbps y 20 Mbps,820.211
+1235,2020.0,1.0,La Rioja,Entre 10 Mbps y 20 Mbps,494.15
+1236,2020.0,1.0,Mendoza,Entre 10 Mbps y 20 Mbps,17.489
+1237,2020.0,1.0,Misiones,Entre 10 Mbps y 20 Mbps,26.433
+1238,2020.0,1.0,Neuquén,Entre 10 Mbps y 20 Mbps,536.593
+1239,2020.0,1.0,Río Negro,Entre 10 Mbps y 20 Mbps,29.835
+1240,2020.0,1.0,Salta,Entre 10 Mbps y 20 Mbps,80.928
+1241,2020.0,1.0,San Juan,Entre 10 Mbps y 20 Mbps,59.234
+1242,2020.0,1.0,San Luis,Entre 10 Mbps y 20 Mbps,525.0
+1243,2020.0,1.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,183.99
+1244,2020.0,1.0,Santa Fe,Entre 10 Mbps y 20 Mbps,243.421
+1245,2020.0,1.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,775.964
+1246,2020.0,1.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,276.559
+1247,2020.0,1.0,Tucumán,Entre 10 Mbps y 20 Mbps,214.912
+1248,2020.0,2.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,371.993
+1249,2020.0,2.0,Capital Federal,Entre 10 Mbps y 20 Mbps,89.848
+1250,2020.0,2.0,Catamarca,Entre 10 Mbps y 20 Mbps,663.588
+1251,2020.0,2.0,Chaco,Entre 10 Mbps y 20 Mbps,992.08
+1252,2020.0,2.0,Chubut,Entre 10 Mbps y 20 Mbps,11.536
+1253,2020.0,2.0,Córdoba,Entre 10 Mbps y 20 Mbps,170.449
+1254,2020.0,2.0,Corrientes,Entre 10 Mbps y 20 Mbps,893.975
+1255,2020.0,2.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,44.088
+1256,2020.0,2.0,Formosa,Entre 10 Mbps y 20 Mbps,1515.488
+1257,2020.0,2.0,Jujuy,Entre 10 Mbps y 20 Mbps,691.164
+1258,2020.0,2.0,La Pampa,Entre 10 Mbps y 20 Mbps,66.737
+1259,2020.0,2.0,La Rioja,Entre 10 Mbps y 20 Mbps,540.15
+1260,2020.0,2.0,Mendoza,Entre 10 Mbps y 20 Mbps,35.274
+1261,2020.0,2.0,Misiones,Entre 10 Mbps y 20 Mbps,26.445
+1262,2020.0,2.0,Neuquén,Entre 10 Mbps y 20 Mbps,556.075
+1263,2020.0,2.0,Río Negro,Entre 10 Mbps y 20 Mbps,1002.502
+1264,2020.0,2.0,Salta,Entre 10 Mbps y 20 Mbps,70.935
+1265,2020.0,2.0,San Juan,Entre 10 Mbps y 20 Mbps,65.84700000000001
+1266,2020.0,2.0,San Luis,Entre 10 Mbps y 20 Mbps,8.927
+1267,2020.0,2.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,185.362
+1268,2020.0,2.0,Santa Fe,Entre 10 Mbps y 20 Mbps,235.436
+1269,2020.0,2.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,730.452
+1270,2020.0,2.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,287.749
+1271,2020.0,2.0,Tucumán,Entre 10 Mbps y 20 Mbps,375.842
+1272,2020.0,3.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,358.633
+1273,2020.0,3.0,Capital Federal,Entre 10 Mbps y 20 Mbps,78.743
+1274,2020.0,3.0,Catamarca,Entre 10 Mbps y 20 Mbps,613.592
+1275,2020.0,3.0,Chaco,Entre 10 Mbps y 20 Mbps,857.715
+1276,2020.0,3.0,Chubut,Entre 10 Mbps y 20 Mbps,15.214
+1277,2020.0,3.0,Córdoba,Entre 10 Mbps y 20 Mbps,174.146
+1278,2020.0,3.0,Corrientes,Entre 10 Mbps y 20 Mbps,766.566
+1279,2020.0,3.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,43.794
+1280,2020.0,3.0,Formosa,Entre 10 Mbps y 20 Mbps,1366.764
+1281,2020.0,3.0,Jujuy,Entre 10 Mbps y 20 Mbps,640.602
+1282,2020.0,3.0,La Pampa,Entre 10 Mbps y 20 Mbps,121.461
+1283,2020.0,3.0,La Rioja,Entre 10 Mbps y 20 Mbps,533.131
+1284,2020.0,3.0,Mendoza,Entre 10 Mbps y 20 Mbps,42.43299999999999
+1285,2020.0,3.0,Misiones,Entre 10 Mbps y 20 Mbps,938.029
+1286,2020.0,3.0,Neuquén,Entre 10 Mbps y 20 Mbps,575.405
+1287,2020.0,3.0,Río Negro,Entre 10 Mbps y 20 Mbps,888.2139999999999
+1288,2020.0,3.0,Salta,Entre 10 Mbps y 20 Mbps,60.945
+1289,2020.0,3.0,San Juan,Entre 10 Mbps y 20 Mbps,67.468
+1290,2020.0,3.0,San Luis,Entre 10 Mbps y 20 Mbps,9.659
+1291,2020.0,3.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,198.538
+1292,2020.0,3.0,Santa Fe,Entre 10 Mbps y 20 Mbps,144.043
+1293,2020.0,3.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,663.9979999999999
+1294,2020.0,3.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,290.439
+1295,2020.0,3.0,Tucumán,Entre 10 Mbps y 20 Mbps,488.67
+1296,2020.0,4.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,806.578
+1297,2020.0,4.0,Capital Federal,Entre 10 Mbps y 20 Mbps,70.19800000000001
+1298,2020.0,4.0,Catamarca,Entre 10 Mbps y 20 Mbps,580.8660000000001
+1299,2020.0,4.0,Chaco,Entre 10 Mbps y 20 Mbps,741.087
+1300,2020.0,4.0,Chubut,Entre 10 Mbps y 20 Mbps,36.022
+1301,2020.0,4.0,Córdoba,Entre 10 Mbps y 20 Mbps,197.106
+1302,2020.0,4.0,Corrientes,Entre 10 Mbps y 20 Mbps,654.058
+1303,2020.0,4.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,43.752
+1304,2020.0,4.0,Formosa,Entre 10 Mbps y 20 Mbps,1435.751
+1305,2020.0,4.0,Jujuy,Entre 10 Mbps y 20 Mbps,611.363
+1306,2020.0,4.0,La Pampa,Entre 10 Mbps y 20 Mbps,115.453
+1307,2020.0,4.0,La Rioja,Entre 10 Mbps y 20 Mbps,533.104
+1308,2020.0,4.0,Mendoza,Entre 10 Mbps y 20 Mbps,40.396
+1309,2020.0,4.0,Misiones,Entre 10 Mbps y 20 Mbps,816.654
+1310,2020.0,4.0,Neuquén,Entre 10 Mbps y 20 Mbps,168.628
+1311,2020.0,4.0,Río Negro,Entre 10 Mbps y 20 Mbps,14.13
+1312,2020.0,4.0,Salta,Entre 10 Mbps y 20 Mbps,50.153000000000006
+1313,2020.0,4.0,San Juan,Entre 10 Mbps y 20 Mbps,128.003
+1314,2020.0,4.0,San Luis,Entre 10 Mbps y 20 Mbps,2.688
+1315,2020.0,4.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,931.708
+1316,2020.0,4.0,Santa Fe,Entre 10 Mbps y 20 Mbps,227.113
+1317,2020.0,4.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,632.038
+1318,2020.0,4.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,285.21500000000003
+1319,2020.0,4.0,Tucumán,Entre 10 Mbps y 20 Mbps,419.767
+1320,2021.0,1.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,756.1539999999999
+1321,2021.0,1.0,Capital Federal,Entre 10 Mbps y 20 Mbps,66.447
+1322,2021.0,1.0,Catamarca,Entre 10 Mbps y 20 Mbps,575.549
+1323,2021.0,1.0,Chaco,Entre 10 Mbps y 20 Mbps,681.901
+1324,2021.0,1.0,Chubut,Entre 10 Mbps y 20 Mbps,962.444
+1325,2021.0,1.0,Córdoba,Entre 10 Mbps y 20 Mbps,195.538
+1326,2021.0,1.0,Corrientes,Entre 10 Mbps y 20 Mbps,597.597
+1327,2021.0,1.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,45.429
+1328,2021.0,1.0,Formosa,Entre 10 Mbps y 20 Mbps,1388.534
+1329,2021.0,1.0,Jujuy,Entre 10 Mbps y 20 Mbps,599.09
+1330,2021.0,1.0,La Pampa,Entre 10 Mbps y 20 Mbps,122.496
+1331,2021.0,1.0,La Rioja,Entre 10 Mbps y 20 Mbps,511.097
+1332,2021.0,1.0,Mendoza,Entre 10 Mbps y 20 Mbps,52.533
+1333,2021.0,1.0,Misiones,Entre 10 Mbps y 20 Mbps,763.3639999999999
+1334,2021.0,1.0,Neuquén,Entre 10 Mbps y 20 Mbps,168.73999999999998
+1335,2021.0,1.0,Río Negro,Entre 10 Mbps y 20 Mbps,14.044
+1336,2021.0,1.0,Salta,Entre 10 Mbps y 20 Mbps,47.126
+1337,2021.0,1.0,San Juan,Entre 10 Mbps y 20 Mbps,191.314
+1338,2021.0,1.0,San Luis,Entre 10 Mbps y 20 Mbps,68.365
+1339,2021.0,1.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,968.025
+1340,2021.0,1.0,Santa Fe,Entre 10 Mbps y 20 Mbps,296.641
+1341,2021.0,1.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,627.929
+1342,2021.0,1.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,275.046
+1343,2021.0,1.0,Tucumán,Entre 10 Mbps y 20 Mbps,28.252
+1344,2021.0,2.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,897.564
+1345,2021.0,2.0,Capital Federal,Entre 10 Mbps y 20 Mbps,53.849
+1346,2021.0,2.0,Catamarca,Entre 10 Mbps y 20 Mbps,617.217
+1347,2021.0,2.0,Chaco,Entre 10 Mbps y 20 Mbps,474.581
+1348,2021.0,2.0,Chubut,Entre 10 Mbps y 20 Mbps,920.699
+1349,2021.0,2.0,Córdoba,Entre 10 Mbps y 20 Mbps,187.829
+1350,2021.0,2.0,Corrientes,Entre 10 Mbps y 20 Mbps,685.862
+1351,2021.0,2.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,42.465
+1352,2021.0,2.0,Formosa,Entre 10 Mbps y 20 Mbps,1120.346
+1353,2021.0,2.0,Jujuy,Entre 10 Mbps y 20 Mbps,599.346
+1354,2021.0,2.0,La Pampa,Entre 10 Mbps y 20 Mbps,91.045
+1355,2021.0,2.0,La Rioja,Entre 10 Mbps y 20 Mbps,504.816
+1356,2021.0,2.0,Mendoza,Entre 10 Mbps y 20 Mbps,56.117
+1357,2021.0,2.0,Misiones,Entre 10 Mbps y 20 Mbps,777.059
+1358,2021.0,2.0,Neuquén,Entre 10 Mbps y 20 Mbps,322.554
+1359,2021.0,2.0,Río Negro,Entre 10 Mbps y 20 Mbps,991.042
+1360,2021.0,2.0,Salta,Entre 10 Mbps y 20 Mbps,559.546
+1361,2021.0,2.0,San Juan,Entre 10 Mbps y 20 Mbps,201.361
+1362,2021.0,2.0,San Luis,Entre 10 Mbps y 20 Mbps,76.347
+1363,2021.0,2.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,965.928
+1364,2021.0,2.0,Santa Fe,Entre 10 Mbps y 20 Mbps,285.247
+1365,2021.0,2.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,661.707
+1366,2021.0,2.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,259.325
+1367,2021.0,2.0,Tucumán,Entre 10 Mbps y 20 Mbps,26.729
+1368,2021.0,3.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,898.625
+1369,2021.0,3.0,Capital Federal,Entre 10 Mbps y 20 Mbps,49.775
+1370,2021.0,3.0,Catamarca,Entre 10 Mbps y 20 Mbps,599.9269999999999
+1371,2021.0,3.0,Chaco,Entre 10 Mbps y 20 Mbps,411.464
+1372,2021.0,3.0,Chubut,Entre 10 Mbps y 20 Mbps,935.62
+1373,2021.0,3.0,Córdoba,Entre 10 Mbps y 20 Mbps,282.832
+1374,2021.0,3.0,Corrientes,Entre 10 Mbps y 20 Mbps,788.028
+1375,2021.0,3.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,40.113
+1376,2021.0,3.0,Formosa,Entre 10 Mbps y 20 Mbps,1073.91
+1377,2021.0,3.0,Jujuy,Entre 10 Mbps y 20 Mbps,608.184
+1378,2021.0,3.0,La Pampa,Entre 10 Mbps y 20 Mbps,86.659
+1379,2021.0,3.0,La Rioja,Entre 10 Mbps y 20 Mbps,540.797
+1380,2021.0,3.0,Mendoza,Entre 10 Mbps y 20 Mbps,62.628
+1381,2021.0,3.0,Misiones,Entre 10 Mbps y 20 Mbps,687.417
+1382,2021.0,3.0,Neuquén,Entre 10 Mbps y 20 Mbps,1278.96
+1383,2021.0,3.0,Río Negro,Entre 10 Mbps y 20 Mbps,868.026
+1384,2021.0,3.0,Salta,Entre 10 Mbps y 20 Mbps,521.447
+1385,2021.0,3.0,San Juan,Entre 10 Mbps y 20 Mbps,209.054
+1386,2021.0,3.0,San Luis,Entre 10 Mbps y 20 Mbps,88.409
+1387,2021.0,3.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,962.842
+1388,2021.0,3.0,Santa Fe,Entre 10 Mbps y 20 Mbps,288.736
+1389,2021.0,3.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,690.5939999999999
+1390,2021.0,3.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,1274.516
+1391,2021.0,3.0,Tucumán,Entre 10 Mbps y 20 Mbps,24.983
+1392,2021.0,4.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,761.831
+1393,2021.0,4.0,Capital Federal,Entre 10 Mbps y 20 Mbps,76.125
+1394,2021.0,4.0,Catamarca,Entre 10 Mbps y 20 Mbps,567.246
+1395,2021.0,4.0,Chaco,Entre 10 Mbps y 20 Mbps,336.622
+1396,2021.0,4.0,Chubut,Entre 10 Mbps y 20 Mbps,201.005
+1397,2021.0,4.0,Córdoba,Entre 10 Mbps y 20 Mbps,312.01
+1398,2021.0,4.0,Corrientes,Entre 10 Mbps y 20 Mbps,508.436
+1399,2021.0,4.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,974.358
+1400,2021.0,4.0,Formosa,Entre 10 Mbps y 20 Mbps,1109.707
+1401,2021.0,4.0,Jujuy,Entre 10 Mbps y 20 Mbps,569.6020000000001
+1402,2021.0,4.0,La Pampa,Entre 10 Mbps y 20 Mbps,28.243
+1403,2021.0,4.0,La Rioja,Entre 10 Mbps y 20 Mbps,504.078
+1404,2021.0,4.0,Mendoza,Entre 10 Mbps y 20 Mbps,75.214
+1405,2021.0,4.0,Misiones,Entre 10 Mbps y 20 Mbps,594.153
+1406,2021.0,4.0,Neuquén,Entre 10 Mbps y 20 Mbps,884.64
+1407,2021.0,4.0,Río Negro,Entre 10 Mbps y 20 Mbps,775.51
+1408,2021.0,4.0,Salta,Entre 10 Mbps y 20 Mbps,525.123
+1409,2021.0,4.0,San Juan,Entre 10 Mbps y 20 Mbps,446.555
+1410,2021.0,4.0,San Luis,Entre 10 Mbps y 20 Mbps,99.017
+1411,2021.0,4.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,156.91
+1412,2021.0,4.0,Santa Fe,Entre 10 Mbps y 20 Mbps,215.56
+1413,2021.0,4.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,681.535
+1414,2021.0,4.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,342.236
+1415,2021.0,4.0,Tucumán,Entre 10 Mbps y 20 Mbps,24.020000000000003
+1416,2022.0,1.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,763.653
+1417,2022.0,1.0,Capital Federal,Entre 10 Mbps y 20 Mbps,71.043
+1418,2022.0,1.0,Catamarca,Entre 10 Mbps y 20 Mbps,848.932
+1419,2022.0,1.0,Chaco,Entre 10 Mbps y 20 Mbps,290.628
+1420,2022.0,1.0,Chubut,Entre 10 Mbps y 20 Mbps,293.819
+1421,2022.0,1.0,Córdoba,Entre 10 Mbps y 20 Mbps,341.6989999999999
+1422,2022.0,1.0,Corrientes,Entre 10 Mbps y 20 Mbps,449.654
+1423,2022.0,1.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,881.454
+1424,2022.0,1.0,Formosa,Entre 10 Mbps y 20 Mbps,1136.482
+1425,2022.0,1.0,Jujuy,Entre 10 Mbps y 20 Mbps,567.3929999999999
+1426,2022.0,1.0,La Pampa,Entre 10 Mbps y 20 Mbps,28.028
+1427,2022.0,1.0,La Rioja,Entre 10 Mbps y 20 Mbps,570.077
+1428,2022.0,1.0,Mendoza,Entre 10 Mbps y 20 Mbps,74.178
+1429,2022.0,1.0,Misiones,Entre 10 Mbps y 20 Mbps,533.3480000000001
+1430,2022.0,1.0,Neuquén,Entre 10 Mbps y 20 Mbps,1721.451
+1431,2022.0,1.0,Río Negro,Entre 10 Mbps y 20 Mbps,712.24
+1432,2022.0,1.0,Salta,Entre 10 Mbps y 20 Mbps,482.836
+1433,2022.0,1.0,San Juan,Entre 10 Mbps y 20 Mbps,455.713
+1434,2022.0,1.0,San Luis,Entre 10 Mbps y 20 Mbps,102.709
+1435,2022.0,1.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,1164.124
+1436,2022.0,1.0,Santa Fe,Entre 10 Mbps y 20 Mbps,280.591
+1437,2022.0,1.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,667.8870000000001
+1438,2022.0,1.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,318.733
+1439,2022.0,1.0,Tucumán,Entre 10 Mbps y 20 Mbps,22.013
+1440,2022.0,2.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,747.48
+1441,2022.0,2.0,Capital Federal,Entre 10 Mbps y 20 Mbps,65.362
+1442,2022.0,2.0,Catamarca,Entre 10 Mbps y 20 Mbps,798.3729999999999
+1443,2022.0,2.0,Chaco,Entre 10 Mbps y 20 Mbps,229.17
+1444,2022.0,2.0,Chubut,Entre 10 Mbps y 20 Mbps,352.971
+1445,2022.0,2.0,Córdoba,Entre 10 Mbps y 20 Mbps,338.65600000000006
+1446,2022.0,2.0,Corrientes,Entre 10 Mbps y 20 Mbps,379.629
+1447,2022.0,2.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,737.7919999999999
+1448,2022.0,2.0,Formosa,Entre 10 Mbps y 20 Mbps,1064.271
+1449,2022.0,2.0,Jujuy,Entre 10 Mbps y 20 Mbps,561.262
+1450,2022.0,2.0,La Pampa,Entre 10 Mbps y 20 Mbps,38.773
+1451,2022.0,2.0,La Rioja,Entre 10 Mbps y 20 Mbps,532.305
+1452,2022.0,2.0,Mendoza,Entre 10 Mbps y 20 Mbps,64.13799999999999
+1453,2022.0,2.0,Misiones,Entre 10 Mbps y 20 Mbps,441.345
+1454,2022.0,2.0,Neuquén,Entre 10 Mbps y 20 Mbps,774.439
+1455,2022.0,2.0,Río Negro,Entre 10 Mbps y 20 Mbps,630.564
+1456,2022.0,2.0,Salta,Entre 10 Mbps y 20 Mbps,441.576
+1457,2022.0,2.0,San Juan,Entre 10 Mbps y 20 Mbps,482.191
+1458,2022.0,2.0,San Luis,Entre 10 Mbps y 20 Mbps,187.875
+1459,2022.0,2.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,1237.658
+1460,2022.0,2.0,Santa Fe,Entre 10 Mbps y 20 Mbps,269.937
+1461,2022.0,2.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,606.014
+1462,2022.0,2.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,303.684
+1463,2022.0,2.0,Tucumán,Entre 10 Mbps y 20 Mbps,24.633000000000003
+1464,2022.0,3.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,244555.0
+1465,2022.0,3.0,Capital Federal,Entre 10 Mbps y 20 Mbps,36336.0
+1466,2022.0,3.0,Catamarca,Entre 10 Mbps y 20 Mbps,4638.0
+1467,2022.0,3.0,Chaco,Entre 10 Mbps y 20 Mbps,6704.0
+1468,2022.0,3.0,Chubut,Entre 10 Mbps y 20 Mbps,34728.0
+1469,2022.0,3.0,Córdoba,Entre 10 Mbps y 20 Mbps,63039.0
+1470,2022.0,3.0,Corrientes,Entre 10 Mbps y 20 Mbps,7025.0
+1471,2022.0,3.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,20927.0
+1472,2022.0,3.0,Formosa,Entre 10 Mbps y 20 Mbps,6724.0
+1473,2022.0,3.0,Jujuy,Entre 10 Mbps y 20 Mbps,36430.0
+1474,2022.0,3.0,La Pampa,Entre 10 Mbps y 20 Mbps,9167.0
+1475,2022.0,3.0,La Rioja,Entre 10 Mbps y 20 Mbps,24435.0
+1476,2022.0,3.0,Mendoza,Entre 10 Mbps y 20 Mbps,35935.0
+1477,2022.0,3.0,Misiones,Entre 10 Mbps y 20 Mbps,12196.0
+1478,2022.0,3.0,Neuquén,Entre 10 Mbps y 20 Mbps,13008.0
+1479,2022.0,3.0,Río Negro,Entre 10 Mbps y 20 Mbps,20442.0
+1480,2022.0,3.0,Salta,Entre 10 Mbps y 20 Mbps,5035.0
+1481,2022.0,3.0,San Juan,Entre 10 Mbps y 20 Mbps,20440.0
+1482,2022.0,3.0,San Luis,Entre 10 Mbps y 20 Mbps,13981.0
+1483,2022.0,3.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,10374.0
+1484,2022.0,3.0,Santa Fe,Entre 10 Mbps y 20 Mbps,73345.0
+1485,2022.0,3.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,17735.0
+1486,2022.0,3.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,21365.0
+1487,2022.0,3.0,Tucumán,Entre 10 Mbps y 20 Mbps,26369.0
+1488,2022.0,4.0,Buenos Aires,Entre 10 Mbps y 20 Mbps,930.868
+1489,2022.0,4.0,Capital Federal,Entre 10 Mbps y 20 Mbps,58.314
+1490,2022.0,4.0,Catamarca,Entre 10 Mbps y 20 Mbps,1152.489
+1491,2022.0,4.0,Chaco,Entre 10 Mbps y 20 Mbps,143.56699999999998
+1492,2022.0,4.0,Chubut,Entre 10 Mbps y 20 Mbps,67.695
+1493,2022.0,4.0,Córdoba,Entre 10 Mbps y 20 Mbps,466.715
+1494,2022.0,4.0,Corrientes,Entre 10 Mbps y 20 Mbps,9.023
+1495,2022.0,4.0,Entre Ríos,Entre 10 Mbps y 20 Mbps,22.925
+1496,2022.0,4.0,Formosa,Entre 10 Mbps y 20 Mbps,46.684
+1497,2022.0,4.0,Jujuy,Entre 10 Mbps y 20 Mbps,681.784
+1498,2022.0,4.0,La Pampa,Entre 10 Mbps y 20 Mbps,24.152
+1499,2022.0,4.0,La Rioja,Entre 10 Mbps y 20 Mbps,520.938
+1500,2022.0,4.0,Mendoza,Entre 10 Mbps y 20 Mbps,35.934999999999995
+1501,2022.0,4.0,Misiones,Entre 10 Mbps y 20 Mbps,140.06799999999998
+1502,2022.0,4.0,Neuquén,Entre 10 Mbps y 20 Mbps,14.007
+1503,2022.0,4.0,Río Negro,Entre 10 Mbps y 20 Mbps,41.421
+1504,2022.0,4.0,Salta,Entre 10 Mbps y 20 Mbps,80.959
+1505,2022.0,4.0,San Juan,Entre 10 Mbps y 20 Mbps,905.554
+1506,2022.0,4.0,San Luis,Entre 10 Mbps y 20 Mbps,13.981
+1507,2022.0,4.0,Santa Cruz,Entre 10 Mbps y 20 Mbps,734.649
+1508,2022.0,4.0,Santa Fe,Entre 10 Mbps y 20 Mbps,276.142
+1509,2022.0,4.0,Santiago Del Estero,Entre 10 Mbps y 20 Mbps,550.202
+1510,2022.0,4.0,Tierra Del Fuego,Entre 10 Mbps y 20 Mbps,374.012
+1511,2022.0,4.0,Tucumán,Entre 10 Mbps y 20 Mbps,27.368
+1512,2017.0,4.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,339.916
+1513,2017.0,4.0,Capital Federal,Entre 20 Mbps y 30 Mbps,180.711
+1514,2017.0,4.0,Catamarca,Entre 20 Mbps y 30 Mbps,43.0
+1515,2017.0,4.0,Chaco,Entre 20 Mbps y 30 Mbps,694.646
+1516,2017.0,4.0,Chubut,Entre 20 Mbps y 30 Mbps,5.0
+1517,2017.0,4.0,Córdoba,Entre 20 Mbps y 30 Mbps,41.045
+1518,2017.0,4.0,Corrientes,Entre 20 Mbps y 30 Mbps,211.86
+1519,2017.0,4.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,280.704
+1520,2017.0,4.0,Formosa,Entre 20 Mbps y 30 Mbps,981.0
+1521,2017.0,4.0,Jujuy,Entre 20 Mbps y 30 Mbps,44.0
+1522,2017.0,4.0,La Pampa,Entre 20 Mbps y 30 Mbps,401.0
+1523,2017.0,4.0,La Rioja,Entre 20 Mbps y 30 Mbps,24.0
+1524,2017.0,4.0,Mendoza,Entre 20 Mbps y 30 Mbps,48.0
+1525,2017.0,4.0,Misiones,Entre 20 Mbps y 30 Mbps,533.585
+1526,2017.0,4.0,Neuquén,Entre 20 Mbps y 30 Mbps,249.327
+1527,2017.0,4.0,Río Negro,Entre 20 Mbps y 30 Mbps,131.354
+1528,2017.0,4.0,Salta,Entre 20 Mbps y 30 Mbps,362.229
+1529,2017.0,4.0,San Juan,Entre 20 Mbps y 30 Mbps,4.0
+1530,2017.0,4.0,San Luis,Entre 20 Mbps y 30 Mbps,8.0
+1531,2017.0,4.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1.0
+1532,2017.0,4.0,Santa Fe,Entre 20 Mbps y 30 Mbps,54.951
+1533,2017.0,4.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,34.0
+1534,2017.0,4.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,0.0
+1535,2017.0,4.0,Tucumán,Entre 20 Mbps y 30 Mbps,1.303
+1536,2018.0,1.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,484.223
+1537,2018.0,1.0,Capital Federal,Entre 20 Mbps y 30 Mbps,228.969
+1538,2018.0,1.0,Catamarca,Entre 20 Mbps y 30 Mbps,41.0
+1539,2018.0,1.0,Chaco,Entre 20 Mbps y 30 Mbps,647.612
+1540,2018.0,1.0,Chubut,Entre 20 Mbps y 30 Mbps,5.0
+1541,2018.0,1.0,Córdoba,Entre 20 Mbps y 30 Mbps,57.148
+1542,2018.0,1.0,Corrientes,Entre 20 Mbps y 30 Mbps,190.705
+1543,2018.0,1.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,256.571
+1544,2018.0,1.0,Formosa,Entre 20 Mbps y 30 Mbps,1091.0
+1545,2018.0,1.0,Jujuy,Entre 20 Mbps y 30 Mbps,49.0
+1546,2018.0,1.0,La Pampa,Entre 20 Mbps y 30 Mbps,624.0
+1547,2018.0,1.0,La Rioja,Entre 20 Mbps y 30 Mbps,19.0
+1548,2018.0,1.0,Mendoza,Entre 20 Mbps y 30 Mbps,29.0
+1549,2018.0,1.0,Misiones,Entre 20 Mbps y 30 Mbps,483.767
+1550,2018.0,1.0,Neuquén,Entre 20 Mbps y 30 Mbps,223.504
+1551,2018.0,1.0,Río Negro,Entre 20 Mbps y 30 Mbps,126.877
+1552,2018.0,1.0,Salta,Entre 20 Mbps y 30 Mbps,346.817
+1553,2018.0,1.0,San Juan,Entre 20 Mbps y 30 Mbps,3.0
+1554,2018.0,1.0,San Luis,Entre 20 Mbps y 30 Mbps,9.0
+1555,2018.0,1.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1.0
+1556,2018.0,1.0,Santa Fe,Entre 20 Mbps y 30 Mbps,63.651
+1557,2018.0,1.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,35.0
+1558,2018.0,1.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,0.0
+1559,2018.0,1.0,Tucumán,Entre 20 Mbps y 30 Mbps,1.218
+1560,2018.0,2.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,539.865
+1561,2018.0,2.0,Capital Federal,Entre 20 Mbps y 30 Mbps,265.82
+1562,2018.0,2.0,Catamarca,Entre 20 Mbps y 30 Mbps,36.0
+1563,2018.0,2.0,Chaco,Entre 20 Mbps y 30 Mbps,596.696
+1564,2018.0,2.0,Chubut,Entre 20 Mbps y 30 Mbps,5.0
+1565,2018.0,2.0,Córdoba,Entre 20 Mbps y 30 Mbps,82.85900000000001
+1566,2018.0,2.0,Corrientes,Entre 20 Mbps y 30 Mbps,186.6
+1567,2018.0,2.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,246.777
+1568,2018.0,2.0,Formosa,Entre 20 Mbps y 30 Mbps,1313.0
+1569,2018.0,2.0,Jujuy,Entre 20 Mbps y 30 Mbps,44.0
+1570,2018.0,2.0,La Pampa,Entre 20 Mbps y 30 Mbps,969.0
+1571,2018.0,2.0,La Rioja,Entre 20 Mbps y 30 Mbps,20.0
+1572,2018.0,2.0,Mendoza,Entre 20 Mbps y 30 Mbps,27.0
+1573,2018.0,2.0,Misiones,Entre 20 Mbps y 30 Mbps,464.435
+1574,2018.0,2.0,Neuquén,Entre 20 Mbps y 30 Mbps,233.23
+1575,2018.0,2.0,Río Negro,Entre 20 Mbps y 30 Mbps,133.563
+1576,2018.0,2.0,Salta,Entre 20 Mbps y 30 Mbps,374.885
+1577,2018.0,2.0,San Juan,Entre 20 Mbps y 30 Mbps,3.0
+1578,2018.0,2.0,San Luis,Entre 20 Mbps y 30 Mbps,9.0
+1579,2018.0,2.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1.0
+1580,2018.0,2.0,Santa Fe,Entre 20 Mbps y 30 Mbps,74.587
+1581,2018.0,2.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,33.0
+1582,2018.0,2.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,0.0
+1583,2018.0,2.0,Tucumán,Entre 20 Mbps y 30 Mbps,1.084
+1584,2018.0,3.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,901.913
+1585,2018.0,3.0,Capital Federal,Entre 20 Mbps y 30 Mbps,416.035
+1586,2018.0,3.0,Catamarca,Entre 20 Mbps y 30 Mbps,34.0
+1587,2018.0,3.0,Chaco,Entre 20 Mbps y 30 Mbps,685.41
+1588,2018.0,3.0,Chubut,Entre 20 Mbps y 30 Mbps,623.0
+1589,2018.0,3.0,Córdoba,Entre 20 Mbps y 30 Mbps,120.333
+1590,2018.0,3.0,Corrientes,Entre 20 Mbps y 30 Mbps,184.181
+1591,2018.0,3.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,236.889
+1592,2018.0,3.0,Formosa,Entre 20 Mbps y 30 Mbps,618.112
+1593,2018.0,3.0,Jujuy,Entre 20 Mbps y 30 Mbps,39.0
+1594,2018.0,3.0,La Pampa,Entre 20 Mbps y 30 Mbps,2.188
+1595,2018.0,3.0,La Rioja,Entre 20 Mbps y 30 Mbps,20.0
+1596,2018.0,3.0,Mendoza,Entre 20 Mbps y 30 Mbps,37.0
+1597,2018.0,3.0,Misiones,Entre 20 Mbps y 30 Mbps,459.229
+1598,2018.0,3.0,Neuquén,Entre 20 Mbps y 30 Mbps,257.984
+1599,2018.0,3.0,Río Negro,Entre 20 Mbps y 30 Mbps,141.364
+1600,2018.0,3.0,Salta,Entre 20 Mbps y 30 Mbps,379.867
+1601,2018.0,3.0,San Juan,Entre 20 Mbps y 30 Mbps,3.0
+1602,2018.0,3.0,San Luis,Entre 20 Mbps y 30 Mbps,65.0
+1603,2018.0,3.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1.0
+1604,2018.0,3.0,Santa Fe,Entre 20 Mbps y 30 Mbps,86.54100000000001
+1605,2018.0,3.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,66.0
+1606,2018.0,3.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,24.0
+1607,2018.0,3.0,Tucumán,Entre 20 Mbps y 30 Mbps,941.0
+1608,2018.0,4.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,954.466
+1609,2018.0,4.0,Capital Federal,Entre 20 Mbps y 30 Mbps,438.667
+1610,2018.0,4.0,Catamarca,Entre 20 Mbps y 30 Mbps,29.0
+1611,2018.0,4.0,Chaco,Entre 20 Mbps y 30 Mbps,610.794
+1612,2018.0,4.0,Chubut,Entre 20 Mbps y 30 Mbps,623.0
+1613,2018.0,4.0,Córdoba,Entre 20 Mbps y 30 Mbps,130.06
+1614,2018.0,4.0,Corrientes,Entre 20 Mbps y 30 Mbps,136.561
+1615,2018.0,4.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,195.968
+1616,2018.0,4.0,Formosa,Entre 20 Mbps y 30 Mbps,595.498
+1617,2018.0,4.0,Jujuy,Entre 20 Mbps y 30 Mbps,30.0
+1618,2018.0,4.0,La Pampa,Entre 20 Mbps y 30 Mbps,1.328
+1619,2018.0,4.0,La Rioja,Entre 20 Mbps y 30 Mbps,17.0
+1620,2018.0,4.0,Mendoza,Entre 20 Mbps y 30 Mbps,29.0
+1621,2018.0,4.0,Misiones,Entre 20 Mbps y 30 Mbps,394.188
+1622,2018.0,4.0,Neuquén,Entre 20 Mbps y 30 Mbps,197.963
+1623,2018.0,4.0,Río Negro,Entre 20 Mbps y 30 Mbps,100.505
+1624,2018.0,4.0,Salta,Entre 20 Mbps y 30 Mbps,378.493
+1625,2018.0,4.0,San Juan,Entre 20 Mbps y 30 Mbps,1.0
+1626,2018.0,4.0,San Luis,Entre 20 Mbps y 30 Mbps,64.0
+1627,2018.0,4.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1.0
+1628,2018.0,4.0,Santa Fe,Entre 20 Mbps y 30 Mbps,98.416
+1629,2018.0,4.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,77.0
+1630,2018.0,4.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,24.0
+1631,2018.0,4.0,Tucumán,Entre 20 Mbps y 30 Mbps,847.0
+1632,2019.0,1.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,1498.3149999999998
+1633,2019.0,1.0,Capital Federal,Entre 20 Mbps y 30 Mbps,366.718
+1634,2019.0,1.0,Catamarca,Entre 20 Mbps y 30 Mbps,29.0
+1635,2019.0,1.0,Chaco,Entre 20 Mbps y 30 Mbps,610.794
+1636,2019.0,1.0,Chubut,Entre 20 Mbps y 30 Mbps,74.0
+1637,2019.0,1.0,Córdoba,Entre 20 Mbps y 30 Mbps,129.971
+1638,2019.0,1.0,Corrientes,Entre 20 Mbps y 30 Mbps,136.561
+1639,2019.0,1.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,195.968
+1640,2019.0,1.0,Formosa,Entre 20 Mbps y 30 Mbps,602.498
+1641,2019.0,1.0,Jujuy,Entre 20 Mbps y 30 Mbps,30.0
+1642,2019.0,1.0,La Pampa,Entre 20 Mbps y 30 Mbps,1354.0
+1643,2019.0,1.0,La Rioja,Entre 20 Mbps y 30 Mbps,17.0
+1644,2019.0,1.0,Mendoza,Entre 20 Mbps y 30 Mbps,121.0
+1645,2019.0,1.0,Misiones,Entre 20 Mbps y 30 Mbps,380.188
+1646,2019.0,1.0,Neuquén,Entre 20 Mbps y 30 Mbps,197.963
+1647,2019.0,1.0,Río Negro,Entre 20 Mbps y 30 Mbps,100.503
+1648,2019.0,1.0,Salta,Entre 20 Mbps y 30 Mbps,378.493
+1649,2019.0,1.0,San Juan,Entre 20 Mbps y 30 Mbps,3.0
+1650,2019.0,1.0,San Luis,Entre 20 Mbps y 30 Mbps,8.0
+1651,2019.0,1.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,26.0
+1652,2019.0,1.0,Santa Fe,Entre 20 Mbps y 30 Mbps,98.559
+1653,2019.0,1.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,85.0
+1654,2019.0,1.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,80.0
+1655,2019.0,1.0,Tucumán,Entre 20 Mbps y 30 Mbps,847.0
+1656,2019.0,2.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,1422.388
+1657,2019.0,2.0,Capital Federal,Entre 20 Mbps y 30 Mbps,297.16
+1658,2019.0,2.0,Catamarca,Entre 20 Mbps y 30 Mbps,34.0
+1659,2019.0,2.0,Chaco,Entre 20 Mbps y 30 Mbps,597.765
+1660,2019.0,2.0,Chubut,Entre 20 Mbps y 30 Mbps,74.0
+1661,2019.0,2.0,Córdoba,Entre 20 Mbps y 30 Mbps,172.16500000000002
+1662,2019.0,2.0,Corrientes,Entre 20 Mbps y 30 Mbps,209.73
+1663,2019.0,2.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,276.968
+1664,2019.0,2.0,Formosa,Entre 20 Mbps y 30 Mbps,405.236
+1665,2019.0,2.0,Jujuy,Entre 20 Mbps y 30 Mbps,27.0
+1666,2019.0,2.0,La Pampa,Entre 20 Mbps y 30 Mbps,1445.0
+1667,2019.0,2.0,La Rioja,Entre 20 Mbps y 30 Mbps,13.0
+1668,2019.0,2.0,Mendoza,Entre 20 Mbps y 30 Mbps,1266.0
+1669,2019.0,2.0,Misiones,Entre 20 Mbps y 30 Mbps,416.484
+1670,2019.0,2.0,Neuquén,Entre 20 Mbps y 30 Mbps,265.974
+1671,2019.0,2.0,Río Negro,Entre 20 Mbps y 30 Mbps,156.29
+1672,2019.0,2.0,Salta,Entre 20 Mbps y 30 Mbps,428.644
+1673,2019.0,2.0,San Juan,Entre 20 Mbps y 30 Mbps,7.0
+1674,2019.0,2.0,San Luis,Entre 20 Mbps y 30 Mbps,63.232
+1675,2019.0,2.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,28.0
+1676,2019.0,2.0,Santa Fe,Entre 20 Mbps y 30 Mbps,100.139
+1677,2019.0,2.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,108.0
+1678,2019.0,2.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,96.0
+1679,2019.0,2.0,Tucumán,Entre 20 Mbps y 30 Mbps,628.0
+1680,2019.0,3.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,1409.679
+1681,2019.0,3.0,Capital Federal,Entre 20 Mbps y 30 Mbps,259.596
+1682,2019.0,3.0,Catamarca,Entre 20 Mbps y 30 Mbps,72.0
+1683,2019.0,3.0,Chaco,Entre 20 Mbps y 30 Mbps,450.549
+1684,2019.0,3.0,Chubut,Entre 20 Mbps y 30 Mbps,1.24
+1685,2019.0,3.0,Córdoba,Entre 20 Mbps y 30 Mbps,148.253
+1686,2019.0,3.0,Corrientes,Entre 20 Mbps y 30 Mbps,255.143
+1687,2019.0,3.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,304.932
+1688,2019.0,3.0,Formosa,Entre 20 Mbps y 30 Mbps,386.877
+1689,2019.0,3.0,Jujuy,Entre 20 Mbps y 30 Mbps,56.0
+1690,2019.0,3.0,La Pampa,Entre 20 Mbps y 30 Mbps,1359.0
+1691,2019.0,3.0,La Rioja,Entre 20 Mbps y 30 Mbps,22.0
+1692,2019.0,3.0,Mendoza,Entre 20 Mbps y 30 Mbps,1273.0
+1693,2019.0,3.0,Misiones,Entre 20 Mbps y 30 Mbps,447.675
+1694,2019.0,3.0,Neuquén,Entre 20 Mbps y 30 Mbps,272.675
+1695,2019.0,3.0,Río Negro,Entre 20 Mbps y 30 Mbps,158.055
+1696,2019.0,3.0,Salta,Entre 20 Mbps y 30 Mbps,320.109
+1697,2019.0,3.0,San Juan,Entre 20 Mbps y 30 Mbps,41.0
+1698,2019.0,3.0,San Luis,Entre 20 Mbps y 30 Mbps,68.238
+1699,2019.0,3.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,27.0
+1700,2019.0,3.0,Santa Fe,Entre 20 Mbps y 30 Mbps,84.333
+1701,2019.0,3.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,86.0
+1702,2019.0,3.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,82.0
+1703,2019.0,3.0,Tucumán,Entre 20 Mbps y 30 Mbps,843.0
+1704,2019.0,4.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,1379.642
+1705,2019.0,4.0,Capital Federal,Entre 20 Mbps y 30 Mbps,206.809
+1706,2019.0,4.0,Catamarca,Entre 20 Mbps y 30 Mbps,804.0
+1707,2019.0,4.0,Chaco,Entre 20 Mbps y 30 Mbps,13.516
+1708,2019.0,4.0,Chubut,Entre 20 Mbps y 30 Mbps,1.24
+1709,2019.0,4.0,Córdoba,Entre 20 Mbps y 30 Mbps,114.111
+1710,2019.0,4.0,Corrientes,Entre 20 Mbps y 30 Mbps,9.981
+1711,2019.0,4.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,18.976
+1712,2019.0,4.0,Formosa,Entre 20 Mbps y 30 Mbps,386.381
+1713,2019.0,4.0,Jujuy,Entre 20 Mbps y 30 Mbps,102.0
+1714,2019.0,4.0,La Pampa,Entre 20 Mbps y 30 Mbps,1287.0
+1715,2019.0,4.0,La Rioja,Entre 20 Mbps y 30 Mbps,22.0
+1716,2019.0,4.0,Mendoza,Entre 20 Mbps y 30 Mbps,485.681
+1717,2019.0,4.0,Misiones,Entre 20 Mbps y 30 Mbps,15.626
+1718,2019.0,4.0,Neuquén,Entre 20 Mbps y 30 Mbps,189.881
+1719,2019.0,4.0,Río Negro,Entre 20 Mbps y 30 Mbps,125.849
+1720,2019.0,4.0,Salta,Entre 20 Mbps y 30 Mbps,14.169999999999998
+1721,2019.0,4.0,San Juan,Entre 20 Mbps y 30 Mbps,40.0
+1722,2019.0,4.0,San Luis,Entre 20 Mbps y 30 Mbps,61.21
+1723,2019.0,4.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,7.0
+1724,2019.0,4.0,Santa Fe,Entre 20 Mbps y 30 Mbps,70.998
+1725,2019.0,4.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,105.0
+1726,2019.0,4.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,139.0
+1727,2019.0,4.0,Tucumán,Entre 20 Mbps y 30 Mbps,6.405
+1728,2020.0,1.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,1152.8660000000002
+1729,2020.0,1.0,Capital Federal,Entre 20 Mbps y 30 Mbps,86.904
+1730,2020.0,1.0,Catamarca,Entre 20 Mbps y 30 Mbps,408.0
+1731,2020.0,1.0,Chaco,Entre 20 Mbps y 30 Mbps,10.416
+1732,2020.0,1.0,Chubut,Entre 20 Mbps y 30 Mbps,1.24
+1733,2020.0,1.0,Córdoba,Entre 20 Mbps y 30 Mbps,67.739
+1734,2020.0,1.0,Corrientes,Entre 20 Mbps y 30 Mbps,7.351000000000001
+1735,2020.0,1.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,11.988
+1736,2020.0,1.0,Formosa,Entre 20 Mbps y 30 Mbps,964.0
+1737,2020.0,1.0,Jujuy,Entre 20 Mbps y 30 Mbps,166.0
+1738,2020.0,1.0,La Pampa,Entre 20 Mbps y 30 Mbps,1342.0
+1739,2020.0,1.0,La Rioja,Entre 20 Mbps y 30 Mbps,22.0
+1740,2020.0,1.0,Mendoza,Entre 20 Mbps y 30 Mbps,486.386
+1741,2020.0,1.0,Misiones,Entre 20 Mbps y 30 Mbps,11.581
+1742,2020.0,1.0,Neuquén,Entre 20 Mbps y 30 Mbps,183.229
+1743,2020.0,1.0,Río Negro,Entre 20 Mbps y 30 Mbps,116.113
+1744,2020.0,1.0,Salta,Entre 20 Mbps y 30 Mbps,765.867
+1745,2020.0,1.0,San Juan,Entre 20 Mbps y 30 Mbps,40.0
+1746,2020.0,1.0,San Luis,Entre 20 Mbps y 30 Mbps,63.255
+1747,2020.0,1.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,529.0
+1748,2020.0,1.0,Santa Fe,Entre 20 Mbps y 30 Mbps,48.456
+1749,2020.0,1.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,135.0
+1750,2020.0,1.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,196.0
+1751,2020.0,1.0,Tucumán,Entre 20 Mbps y 30 Mbps,1.73
+1752,2020.0,2.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,1136.081
+1753,2020.0,2.0,Capital Federal,Entre 20 Mbps y 30 Mbps,81.165
+1754,2020.0,2.0,Catamarca,Entre 20 Mbps y 30 Mbps,426.0
+1755,2020.0,2.0,Chaco,Entre 20 Mbps y 30 Mbps,12.082
+1756,2020.0,2.0,Chubut,Entre 20 Mbps y 30 Mbps,233.241
+1757,2020.0,2.0,Córdoba,Entre 20 Mbps y 30 Mbps,66.221
+1758,2020.0,2.0,Corrientes,Entre 20 Mbps y 30 Mbps,7.898
+1759,2020.0,2.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,12.856
+1760,2020.0,2.0,Formosa,Entre 20 Mbps y 30 Mbps,961.0
+1761,2020.0,2.0,Jujuy,Entre 20 Mbps y 30 Mbps,209.0
+1762,2020.0,2.0,La Pampa,Entre 20 Mbps y 30 Mbps,313.345
+1763,2020.0,2.0,La Rioja,Entre 20 Mbps y 30 Mbps,73.0
+1764,2020.0,2.0,Mendoza,Entre 20 Mbps y 30 Mbps,825.435
+1765,2020.0,2.0,Misiones,Entre 20 Mbps y 30 Mbps,12.305
+1766,2020.0,2.0,Neuquén,Entre 20 Mbps y 30 Mbps,183.126
+1767,2020.0,2.0,Río Negro,Entre 20 Mbps y 30 Mbps,114.162
+1768,2020.0,2.0,Salta,Entre 20 Mbps y 30 Mbps,715.033
+1769,2020.0,2.0,San Juan,Entre 20 Mbps y 30 Mbps,40.0
+1770,2020.0,2.0,San Luis,Entre 20 Mbps y 30 Mbps,65.886
+1771,2020.0,2.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,546.0
+1772,2020.0,2.0,Santa Fe,Entre 20 Mbps y 30 Mbps,57.244
+1773,2020.0,2.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,247.0
+1774,2020.0,2.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,391.0
+1775,2020.0,2.0,Tucumán,Entre 20 Mbps y 30 Mbps,2.246
+1776,2020.0,3.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,1141.334
+1777,2020.0,3.0,Capital Federal,Entre 20 Mbps y 30 Mbps,79.033
+1778,2020.0,3.0,Catamarca,Entre 20 Mbps y 30 Mbps,562.0
+1779,2020.0,3.0,Chaco,Entre 20 Mbps y 30 Mbps,13.751
+1780,2020.0,3.0,Chubut,Entre 20 Mbps y 30 Mbps,234.586
+1781,2020.0,3.0,Córdoba,Entre 20 Mbps y 30 Mbps,66.828
+1782,2020.0,3.0,Corrientes,Entre 20 Mbps y 30 Mbps,8.615
+1783,2020.0,3.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,14.377
+1784,2020.0,3.0,Formosa,Entre 20 Mbps y 30 Mbps,991.0
+1785,2020.0,3.0,Jujuy,Entre 20 Mbps y 30 Mbps,293.0
+1786,2020.0,3.0,La Pampa,Entre 20 Mbps y 30 Mbps,385.805
+1787,2020.0,3.0,La Rioja,Entre 20 Mbps y 30 Mbps,124.0
+1788,2020.0,3.0,Mendoza,Entre 20 Mbps y 30 Mbps,994.466
+1789,2020.0,3.0,Misiones,Entre 20 Mbps y 30 Mbps,13.663
+1790,2020.0,3.0,Neuquén,Entre 20 Mbps y 30 Mbps,188.274
+1791,2020.0,3.0,Río Negro,Entre 20 Mbps y 30 Mbps,112.373
+1792,2020.0,3.0,Salta,Entre 20 Mbps y 30 Mbps,719.216
+1793,2020.0,3.0,San Juan,Entre 20 Mbps y 30 Mbps,41.0
+1794,2020.0,3.0,San Luis,Entre 20 Mbps y 30 Mbps,66.316
+1795,2020.0,3.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,629.0
+1796,2020.0,3.0,Santa Fe,Entre 20 Mbps y 30 Mbps,58.80499999999999
+1797,2020.0,3.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,292.0
+1798,2020.0,3.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,481.0
+1799,2020.0,3.0,Tucumán,Entre 20 Mbps y 30 Mbps,12.237
+1800,2020.0,4.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,1158.676
+1801,2020.0,4.0,Capital Federal,Entre 20 Mbps y 30 Mbps,81.274
+1802,2020.0,4.0,Catamarca,Entre 20 Mbps y 30 Mbps,591.0
+1803,2020.0,4.0,Chaco,Entre 20 Mbps y 30 Mbps,15.701
+1804,2020.0,4.0,Chubut,Entre 20 Mbps y 30 Mbps,234.586
+1805,2020.0,4.0,Córdoba,Entre 20 Mbps y 30 Mbps,98.992
+1806,2020.0,4.0,Corrientes,Entre 20 Mbps y 30 Mbps,9.383
+1807,2020.0,4.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,16.6
+1808,2020.0,4.0,Formosa,Entre 20 Mbps y 30 Mbps,1197.0
+1809,2020.0,4.0,Jujuy,Entre 20 Mbps y 30 Mbps,446.0
+1810,2020.0,4.0,La Pampa,Entre 20 Mbps y 30 Mbps,367.031
+1811,2020.0,4.0,La Rioja,Entre 20 Mbps y 30 Mbps,181.0
+1812,2020.0,4.0,Mendoza,Entre 20 Mbps y 30 Mbps,942.448
+1813,2020.0,4.0,Misiones,Entre 20 Mbps y 30 Mbps,51.773
+1814,2020.0,4.0,Neuquén,Entre 20 Mbps y 30 Mbps,186.32
+1815,2020.0,4.0,Río Negro,Entre 20 Mbps y 30 Mbps,174.346
+1816,2020.0,4.0,Salta,Entre 20 Mbps y 30 Mbps,682.616
+1817,2020.0,4.0,San Juan,Entre 20 Mbps y 30 Mbps,332.0
+1818,2020.0,4.0,San Luis,Entre 20 Mbps y 30 Mbps,64.239
+1819,2020.0,4.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1033.0
+1820,2020.0,4.0,Santa Fe,Entre 20 Mbps y 30 Mbps,65.153
+1821,2020.0,4.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,411.0
+1822,2020.0,4.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,488.0
+1823,2020.0,4.0,Tucumán,Entre 20 Mbps y 30 Mbps,38.071
+1824,2021.0,1.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,1167.149
+1825,2021.0,1.0,Capital Federal,Entre 20 Mbps y 30 Mbps,84.26
+1826,2021.0,1.0,Catamarca,Entre 20 Mbps y 30 Mbps,712.0
+1827,2021.0,1.0,Chaco,Entre 20 Mbps y 30 Mbps,14.496
+1828,2021.0,1.0,Chubut,Entre 20 Mbps y 30 Mbps,237.609
+1829,2021.0,1.0,Córdoba,Entre 20 Mbps y 30 Mbps,100.963
+1830,2021.0,1.0,Corrientes,Entre 20 Mbps y 30 Mbps,9.001000000000001
+1831,2021.0,1.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,15.774
+1832,2021.0,1.0,Formosa,Entre 20 Mbps y 30 Mbps,1215.0
+1833,2021.0,1.0,Jujuy,Entre 20 Mbps y 30 Mbps,568.0
+1834,2021.0,1.0,La Pampa,Entre 20 Mbps y 30 Mbps,367.421
+1835,2021.0,1.0,La Rioja,Entre 20 Mbps y 30 Mbps,215.0
+1836,2021.0,1.0,Mendoza,Entre 20 Mbps y 30 Mbps,136.938
+1837,2021.0,1.0,Misiones,Entre 20 Mbps y 30 Mbps,51.013000000000005
+1838,2021.0,1.0,Neuquén,Entre 20 Mbps y 30 Mbps,186.504
+1839,2021.0,1.0,Río Negro,Entre 20 Mbps y 30 Mbps,177.473
+1840,2021.0,1.0,Salta,Entre 20 Mbps y 30 Mbps,420.726
+1841,2021.0,1.0,San Juan,Entre 20 Mbps y 30 Mbps,340.0
+1842,2021.0,1.0,San Luis,Entre 20 Mbps y 30 Mbps,64.913
+1843,2021.0,1.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1337.0
+1844,2021.0,1.0,Santa Fe,Entre 20 Mbps y 30 Mbps,65.484
+1845,2021.0,1.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,700.0
+1846,2021.0,1.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,486.0
+1847,2021.0,1.0,Tucumán,Entre 20 Mbps y 30 Mbps,122.07
+1848,2021.0,2.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,327.871
+1849,2021.0,2.0,Capital Federal,Entre 20 Mbps y 30 Mbps,88.932
+1850,2021.0,2.0,Catamarca,Entre 20 Mbps y 30 Mbps,919.026
+1851,2021.0,2.0,Chaco,Entre 20 Mbps y 30 Mbps,16.080000000000002
+1852,2021.0,2.0,Chubut,Entre 20 Mbps y 30 Mbps,237.662
+1853,2021.0,2.0,Córdoba,Entre 20 Mbps y 30 Mbps,99.928
+1854,2021.0,2.0,Corrientes,Entre 20 Mbps y 30 Mbps,10.073
+1855,2021.0,2.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,18.502
+1856,2021.0,2.0,Formosa,Entre 20 Mbps y 30 Mbps,1345.0
+1857,2021.0,2.0,Jujuy,Entre 20 Mbps y 30 Mbps,607.0
+1858,2021.0,2.0,La Pampa,Entre 20 Mbps y 30 Mbps,377.025
+1859,2021.0,2.0,La Rioja,Entre 20 Mbps y 30 Mbps,321.51
+1860,2021.0,2.0,Mendoza,Entre 20 Mbps y 30 Mbps,149.271
+1861,2021.0,2.0,Misiones,Entre 20 Mbps y 30 Mbps,53.154
+1862,2021.0,2.0,Neuquén,Entre 20 Mbps y 30 Mbps,218.768
+1863,2021.0,2.0,Río Negro,Entre 20 Mbps y 30 Mbps,190.693
+1864,2021.0,2.0,Salta,Entre 20 Mbps y 30 Mbps,361.317
+1865,2021.0,2.0,San Juan,Entre 20 Mbps y 30 Mbps,342.0
+1866,2021.0,2.0,San Luis,Entre 20 Mbps y 30 Mbps,67.946
+1867,2021.0,2.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1575.0
+1868,2021.0,2.0,Santa Fe,Entre 20 Mbps y 30 Mbps,75.346
+1869,2021.0,2.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,811.0
+1870,2021.0,2.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,476.0
+1871,2021.0,2.0,Tucumán,Entre 20 Mbps y 30 Mbps,5.022
+1872,2021.0,3.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,284.77
+1873,2021.0,3.0,Capital Federal,Entre 20 Mbps y 30 Mbps,75.779
+1874,2021.0,3.0,Catamarca,Entre 20 Mbps y 30 Mbps,1659.0
+1875,2021.0,3.0,Chaco,Entre 20 Mbps y 30 Mbps,14.423
+1876,2021.0,3.0,Chubut,Entre 20 Mbps y 30 Mbps,266.059
+1877,2021.0,3.0,Córdoba,Entre 20 Mbps y 30 Mbps,76.302
+1878,2021.0,3.0,Corrientes,Entre 20 Mbps y 30 Mbps,77.633
+1879,2021.0,3.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,16.302
+1880,2021.0,3.0,Formosa,Entre 20 Mbps y 30 Mbps,1196.0
+1881,2021.0,3.0,Jujuy,Entre 20 Mbps y 30 Mbps,561.0
+1882,2021.0,3.0,La Pampa,Entre 20 Mbps y 30 Mbps,269.757
+1883,2021.0,3.0,La Rioja,Entre 20 Mbps y 30 Mbps,359.515
+1884,2021.0,3.0,Mendoza,Entre 20 Mbps y 30 Mbps,151.46499999999995
+1885,2021.0,3.0,Misiones,Entre 20 Mbps y 30 Mbps,51.774
+1886,2021.0,3.0,Neuquén,Entre 20 Mbps y 30 Mbps,204.468
+1887,2021.0,3.0,Río Negro,Entre 20 Mbps y 30 Mbps,188.109
+1888,2021.0,3.0,Salta,Entre 20 Mbps y 30 Mbps,334.562
+1889,2021.0,3.0,San Juan,Entre 20 Mbps y 30 Mbps,340.0
+1890,2021.0,3.0,San Luis,Entre 20 Mbps y 30 Mbps,69.942
+1891,2021.0,3.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1788.0
+1892,2021.0,3.0,Santa Fe,Entre 20 Mbps y 30 Mbps,55.231
+1893,2021.0,3.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,801.0
+1894,2021.0,3.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,79.355
+1895,2021.0,3.0,Tucumán,Entre 20 Mbps y 30 Mbps,7.298
+1896,2021.0,4.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,896.2090000000001
+1897,2021.0,4.0,Capital Federal,Entre 20 Mbps y 30 Mbps,115.932
+1898,2021.0,4.0,Catamarca,Entre 20 Mbps y 30 Mbps,1042.222
+1899,2021.0,4.0,Chaco,Entre 20 Mbps y 30 Mbps,13.703
+1900,2021.0,4.0,Chubut,Entre 20 Mbps y 30 Mbps,1248.059
+1901,2021.0,4.0,Córdoba,Entre 20 Mbps y 30 Mbps,84.28999999999999
+1902,2021.0,4.0,Corrientes,Entre 20 Mbps y 30 Mbps,10.101
+1903,2021.0,4.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,24.086
+1904,2021.0,4.0,Formosa,Entre 20 Mbps y 30 Mbps,1139.0
+1905,2021.0,4.0,Jujuy,Entre 20 Mbps y 30 Mbps,564.0
+1906,2021.0,4.0,La Pampa,Entre 20 Mbps y 30 Mbps,157.674
+1907,2021.0,4.0,La Rioja,Entre 20 Mbps y 30 Mbps,1160.517
+1908,2021.0,4.0,Mendoza,Entre 20 Mbps y 30 Mbps,198.078
+1909,2021.0,4.0,Misiones,Entre 20 Mbps y 30 Mbps,15.973
+1910,2021.0,4.0,Neuquén,Entre 20 Mbps y 30 Mbps,14.361
+1911,2021.0,4.0,Río Negro,Entre 20 Mbps y 30 Mbps,5.784
+1912,2021.0,4.0,Salta,Entre 20 Mbps y 30 Mbps,297.256
+1913,2021.0,4.0,San Juan,Entre 20 Mbps y 30 Mbps,358.584
+1914,2021.0,4.0,San Luis,Entre 20 Mbps y 30 Mbps,72.363
+1915,2021.0,4.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1784.0
+1916,2021.0,4.0,Santa Fe,Entre 20 Mbps y 30 Mbps,62.5
+1917,2021.0,4.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,800.0
+1918,2021.0,4.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,164.622
+1919,2021.0,4.0,Tucumán,Entre 20 Mbps y 30 Mbps,18.313
+1920,2022.0,1.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,889.193
+1921,2022.0,1.0,Capital Federal,Entre 20 Mbps y 30 Mbps,94.263
+1922,2022.0,1.0,Catamarca,Entre 20 Mbps y 30 Mbps,1190.573
+1923,2022.0,1.0,Chaco,Entre 20 Mbps y 30 Mbps,13.023
+1924,2022.0,1.0,Chubut,Entre 20 Mbps y 30 Mbps,14.484
+1925,2022.0,1.0,Córdoba,Entre 20 Mbps y 30 Mbps,77.98400000000001
+1926,2022.0,1.0,Corrientes,Entre 20 Mbps y 30 Mbps,10.466
+1927,2022.0,1.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,21.596
+1928,2022.0,1.0,Formosa,Entre 20 Mbps y 30 Mbps,720.0
+1929,2022.0,1.0,Jujuy,Entre 20 Mbps y 30 Mbps,576.0
+1930,2022.0,1.0,La Pampa,Entre 20 Mbps y 30 Mbps,126.135
+1931,2022.0,1.0,La Rioja,Entre 20 Mbps y 30 Mbps,1134.517
+1932,2022.0,1.0,Mendoza,Entre 20 Mbps y 30 Mbps,208.449
+1933,2022.0,1.0,Misiones,Entre 20 Mbps y 30 Mbps,15.873
+1934,2022.0,1.0,Neuquén,Entre 20 Mbps y 30 Mbps,13.952
+1935,2022.0,1.0,Río Negro,Entre 20 Mbps y 30 Mbps,16.437
+1936,2022.0,1.0,Salta,Entre 20 Mbps y 30 Mbps,271.959
+1937,2022.0,1.0,San Juan,Entre 20 Mbps y 30 Mbps,1781.047
+1938,2022.0,1.0,San Luis,Entre 20 Mbps y 30 Mbps,73.612
+1939,2022.0,1.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,775.865
+1940,2022.0,1.0,Santa Fe,Entre 20 Mbps y 30 Mbps,97.13
+1941,2022.0,1.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,849.0
+1942,2022.0,1.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,185.613
+1943,2022.0,1.0,Tucumán,Entre 20 Mbps y 30 Mbps,53.163
+1944,2022.0,2.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,895.885
+1945,2022.0,2.0,Capital Federal,Entre 20 Mbps y 30 Mbps,85.626
+1946,2022.0,2.0,Catamarca,Entre 20 Mbps y 30 Mbps,1159.236
+1947,2022.0,2.0,Chaco,Entre 20 Mbps y 30 Mbps,15.985
+1948,2022.0,2.0,Chubut,Entre 20 Mbps y 30 Mbps,15.515
+1949,2022.0,2.0,Córdoba,Entre 20 Mbps y 30 Mbps,71.729
+1950,2022.0,2.0,Corrientes,Entre 20 Mbps y 30 Mbps,21.733
+1951,2022.0,2.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,32.373000000000005
+1952,2022.0,2.0,Formosa,Entre 20 Mbps y 30 Mbps,595.0
+1953,2022.0,2.0,Jujuy,Entre 20 Mbps y 30 Mbps,549.0
+1954,2022.0,2.0,La Pampa,Entre 20 Mbps y 30 Mbps,77.178
+1955,2022.0,2.0,La Rioja,Entre 20 Mbps y 30 Mbps,975.512
+1956,2022.0,2.0,Mendoza,Entre 20 Mbps y 30 Mbps,208.57
+1957,2022.0,2.0,Misiones,Entre 20 Mbps y 30 Mbps,997.797
+1958,2022.0,2.0,Neuquén,Entre 20 Mbps y 30 Mbps,13.691
+1959,2022.0,2.0,Río Negro,Entre 20 Mbps y 30 Mbps,18.943
+1960,2022.0,2.0,Salta,Entre 20 Mbps y 30 Mbps,142.03
+1961,2022.0,2.0,San Juan,Entre 20 Mbps y 30 Mbps,823.988
+1962,2022.0,2.0,San Luis,Entre 20 Mbps y 30 Mbps,69.438
+1963,2022.0,2.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,597.865
+1964,2022.0,2.0,Santa Fe,Entre 20 Mbps y 30 Mbps,97.218
+1965,2022.0,2.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,883.0
+1966,2022.0,2.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,225.523
+1967,2022.0,2.0,Tucumán,Entre 20 Mbps y 30 Mbps,79.788
+1968,2022.0,3.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,817733.0
+1969,2022.0,3.0,Capital Federal,Entre 20 Mbps y 30 Mbps,61172.0
+1970,2022.0,3.0,Catamarca,Entre 20 Mbps y 30 Mbps,3122.0
+1971,2022.0,3.0,Chaco,Entre 20 Mbps y 30 Mbps,3050.0
+1972,2022.0,3.0,Chubut,Entre 20 Mbps y 30 Mbps,16759.0
+1973,2022.0,3.0,Córdoba,Entre 20 Mbps y 30 Mbps,20819.0
+1974,2022.0,3.0,Corrientes,Entre 20 Mbps y 30 Mbps,3784.0
+1975,2022.0,3.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,22501.0
+1976,2022.0,3.0,Formosa,Entre 20 Mbps y 30 Mbps,314.0
+1977,2022.0,3.0,Jujuy,Entre 20 Mbps y 30 Mbps,335.0
+1978,2022.0,3.0,La Pampa,Entre 20 Mbps y 30 Mbps,4482.0
+1979,2022.0,3.0,La Rioja,Entre 20 Mbps y 30 Mbps,5031.0
+1980,2022.0,3.0,Mendoza,Entre 20 Mbps y 30 Mbps,61079.0
+1981,2022.0,3.0,Misiones,Entre 20 Mbps y 30 Mbps,3201.0
+1982,2022.0,3.0,Neuquén,Entre 20 Mbps y 30 Mbps,17391.0
+1983,2022.0,3.0,Río Negro,Entre 20 Mbps y 30 Mbps,12564.0
+1984,2022.0,3.0,Salta,Entre 20 Mbps y 30 Mbps,133.0
+1985,2022.0,3.0,San Juan,Entre 20 Mbps y 30 Mbps,18259.0
+1986,2022.0,3.0,San Luis,Entre 20 Mbps y 30 Mbps,78508.0
+1987,2022.0,3.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,3243.0
+1988,2022.0,3.0,Santa Fe,Entre 20 Mbps y 30 Mbps,23042.0
+1989,2022.0,3.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,661.0
+1990,2022.0,3.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,3647.0
+1991,2022.0,3.0,Tucumán,Entre 20 Mbps y 30 Mbps,1375.0
+1992,2022.0,4.0,Buenos Aires,Entre 20 Mbps y 30 Mbps,927.623
+1993,2022.0,4.0,Capital Federal,Entre 20 Mbps y 30 Mbps,62.171
+1994,2022.0,4.0,Catamarca,Entre 20 Mbps y 30 Mbps,896.228
+1995,2022.0,4.0,Chaco,Entre 20 Mbps y 30 Mbps,749.303
+1996,2022.0,4.0,Chubut,Entre 20 Mbps y 30 Mbps,16.759
+1997,2022.0,4.0,Córdoba,Entre 20 Mbps y 30 Mbps,168.67100000000002
+1998,2022.0,4.0,Corrientes,Entre 20 Mbps y 30 Mbps,428.359
+1999,2022.0,4.0,Entre Ríos,Entre 20 Mbps y 30 Mbps,780.742
+2000,2022.0,4.0,Formosa,Entre 20 Mbps y 30 Mbps,314.0
+2001,2022.0,4.0,Jujuy,Entre 20 Mbps y 30 Mbps,335.0
+2002,2022.0,4.0,La Pampa,Entre 20 Mbps y 30 Mbps,9.477
+2003,2022.0,4.0,La Rioja,Entre 20 Mbps y 30 Mbps,524.511
+2004,2022.0,4.0,Mendoza,Entre 20 Mbps y 30 Mbps,194.945
+2005,2022.0,4.0,Misiones,Entre 20 Mbps y 30 Mbps,6.198
+2006,2022.0,4.0,Neuquén,Entre 20 Mbps y 30 Mbps,76.332
+2007,2022.0,4.0,Río Negro,Entre 20 Mbps y 30 Mbps,12.564
+2008,2022.0,4.0,Salta,Entre 20 Mbps y 30 Mbps,133.0
+2009,2022.0,4.0,San Juan,Entre 20 Mbps y 30 Mbps,828.4480000000001
+2010,2022.0,4.0,San Luis,Entre 20 Mbps y 30 Mbps,210.376
+2011,2022.0,4.0,Santa Cruz,Entre 20 Mbps y 30 Mbps,1005.24
+2012,2022.0,4.0,Santa Fe,Entre 20 Mbps y 30 Mbps,62.003
+2013,2022.0,4.0,Santiago Del Estero,Entre 20 Mbps y 30 Mbps,661.0
+2014,2022.0,4.0,Tierra Del Fuego,Entre 20 Mbps y 30 Mbps,496.154
+2015,2022.0,4.0,Tucumán,Entre 20 Mbps y 30 Mbps,255.121
+2016,2017.0,4.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,55.04600000000001
+2017,2017.0,4.0,Capital Federal,Entre 512 Kbps y 1 Mbps,731.71
+2018,2017.0,4.0,Catamarca,Entre 512 Kbps y 1 Mbps,4.181
+2019,2017.0,4.0,Chaco,Entre 512 Kbps y 1 Mbps,4.431
+2020,2017.0,4.0,Chubut,Entre 512 Kbps y 1 Mbps,4.313
+2021,2017.0,4.0,Córdoba,Entre 512 Kbps y 1 Mbps,25.411
+2022,2017.0,4.0,Corrientes,Entre 512 Kbps y 1 Mbps,5.22
+2023,2017.0,4.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,16.070999999999998
+2024,2017.0,4.0,Formosa,Entre 512 Kbps y 1 Mbps,194.87
+2025,2017.0,4.0,Jujuy,Entre 512 Kbps y 1 Mbps,5.364
+2026,2017.0,4.0,La Pampa,Entre 512 Kbps y 1 Mbps,8.729
+2027,2017.0,4.0,La Rioja,Entre 512 Kbps y 1 Mbps,2.487
+2028,2017.0,4.0,Mendoza,Entre 512 Kbps y 1 Mbps,15.642
+2029,2017.0,4.0,Misiones,Entre 512 Kbps y 1 Mbps,3.9
+2030,2017.0,4.0,Neuquén,Entre 512 Kbps y 1 Mbps,2.372
+2031,2017.0,4.0,Río Negro,Entre 512 Kbps y 1 Mbps,203.4
+2032,2017.0,4.0,Salta,Entre 512 Kbps y 1 Mbps,136.143
+2033,2017.0,4.0,San Juan,Entre 512 Kbps y 1 Mbps,32.031
+2034,2017.0,4.0,San Luis,Entre 512 Kbps y 1 Mbps,101.0
+2035,2017.0,4.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,78.0
+2036,2017.0,4.0,Santa Fe,Entre 512 Kbps y 1 Mbps,34.132
+2037,2017.0,4.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,911.182
+2038,2017.0,4.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,310.0
+2039,2017.0,4.0,Tucumán,Entre 512 Kbps y 1 Mbps,9.163
+2040,2018.0,1.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,74.76599999999999
+2041,2018.0,1.0,Capital Federal,Entre 512 Kbps y 1 Mbps,26.023
+2042,2018.0,1.0,Catamarca,Entre 512 Kbps y 1 Mbps,3.895
+2043,2018.0,1.0,Chaco,Entre 512 Kbps y 1 Mbps,3.261
+2044,2018.0,1.0,Chubut,Entre 512 Kbps y 1 Mbps,4.314
+2045,2018.0,1.0,Córdoba,Entre 512 Kbps y 1 Mbps,23.922
+2046,2018.0,1.0,Corrientes,Entre 512 Kbps y 1 Mbps,5.005
+2047,2018.0,1.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,9.86
+2048,2018.0,1.0,Formosa,Entre 512 Kbps y 1 Mbps,194.612
+2049,2018.0,1.0,Jujuy,Entre 512 Kbps y 1 Mbps,4.807
+2050,2018.0,1.0,La Pampa,Entre 512 Kbps y 1 Mbps,8.119
+2051,2018.0,1.0,La Rioja,Entre 512 Kbps y 1 Mbps,2.484
+2052,2018.0,1.0,Mendoza,Entre 512 Kbps y 1 Mbps,14.649
+2053,2018.0,1.0,Misiones,Entre 512 Kbps y 1 Mbps,4.7
+2054,2018.0,1.0,Neuquén,Entre 512 Kbps y 1 Mbps,2.367
+2055,2018.0,1.0,Río Negro,Entre 512 Kbps y 1 Mbps,202.136
+2056,2018.0,1.0,Salta,Entre 512 Kbps y 1 Mbps,135.328
+2057,2018.0,1.0,San Juan,Entre 512 Kbps y 1 Mbps,33.026
+2058,2018.0,1.0,San Luis,Entre 512 Kbps y 1 Mbps,101.0
+2059,2018.0,1.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,120.0
+2060,2018.0,1.0,Santa Fe,Entre 512 Kbps y 1 Mbps,33.639
+2061,2018.0,1.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,910.002
+2062,2018.0,1.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,307.0
+2063,2018.0,1.0,Tucumán,Entre 512 Kbps y 1 Mbps,8.471
+2064,2018.0,2.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,81.354
+2065,2018.0,2.0,Capital Federal,Entre 512 Kbps y 1 Mbps,24.219
+2066,2018.0,2.0,Catamarca,Entre 512 Kbps y 1 Mbps,3.413
+2067,2018.0,2.0,Chaco,Entre 512 Kbps y 1 Mbps,2.968
+2068,2018.0,2.0,Chubut,Entre 512 Kbps y 1 Mbps,4.471
+2069,2018.0,2.0,Córdoba,Entre 512 Kbps y 1 Mbps,21.779
+2070,2018.0,2.0,Corrientes,Entre 512 Kbps y 1 Mbps,7.047
+2071,2018.0,2.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,9.178
+2072,2018.0,2.0,Formosa,Entre 512 Kbps y 1 Mbps,194.377
+2073,2018.0,2.0,Jujuy,Entre 512 Kbps y 1 Mbps,737.585
+2074,2018.0,2.0,La Pampa,Entre 512 Kbps y 1 Mbps,8.797
+2075,2018.0,2.0,La Rioja,Entre 512 Kbps y 1 Mbps,2.383
+2076,2018.0,2.0,Mendoza,Entre 512 Kbps y 1 Mbps,14.645
+2077,2018.0,2.0,Misiones,Entre 512 Kbps y 1 Mbps,6.092
+2078,2018.0,2.0,Neuquén,Entre 512 Kbps y 1 Mbps,2.408
+2079,2018.0,2.0,Río Negro,Entre 512 Kbps y 1 Mbps,202.101
+2080,2018.0,2.0,Salta,Entre 512 Kbps y 1 Mbps,134.859
+2081,2018.0,2.0,San Juan,Entre 512 Kbps y 1 Mbps,121.258
+2082,2018.0,2.0,San Luis,Entre 512 Kbps y 1 Mbps,101.0
+2083,2018.0,2.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,120.0
+2084,2018.0,2.0,Santa Fe,Entre 512 Kbps y 1 Mbps,34.267
+2085,2018.0,2.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,909.809
+2086,2018.0,2.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,188.0
+2087,2018.0,2.0,Tucumán,Entre 512 Kbps y 1 Mbps,7.734
+2088,2018.0,3.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,80.459
+2089,2018.0,3.0,Capital Federal,Entre 512 Kbps y 1 Mbps,23.478
+2090,2018.0,3.0,Catamarca,Entre 512 Kbps y 1 Mbps,2.9930000000000003
+2091,2018.0,3.0,Chaco,Entre 512 Kbps y 1 Mbps,3.503
+2092,2018.0,3.0,Chubut,Entre 512 Kbps y 1 Mbps,8.946
+2093,2018.0,3.0,Córdoba,Entre 512 Kbps y 1 Mbps,24.767
+2094,2018.0,3.0,Corrientes,Entre 512 Kbps y 1 Mbps,6.754
+2095,2018.0,3.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,10.047
+2096,2018.0,3.0,Formosa,Entre 512 Kbps y 1 Mbps,194.174
+2097,2018.0,3.0,Jujuy,Entre 512 Kbps y 1 Mbps,743.279
+2098,2018.0,3.0,La Pampa,Entre 512 Kbps y 1 Mbps,8.417
+2099,2018.0,3.0,La Rioja,Entre 512 Kbps y 1 Mbps,2.29
+2100,2018.0,3.0,Mendoza,Entre 512 Kbps y 1 Mbps,14.512
+2101,2018.0,3.0,Misiones,Entre 512 Kbps y 1 Mbps,5.749
+2102,2018.0,3.0,Neuquén,Entre 512 Kbps y 1 Mbps,492.753
+2103,2018.0,3.0,Río Negro,Entre 512 Kbps y 1 Mbps,148.078
+2104,2018.0,3.0,Salta,Entre 512 Kbps y 1 Mbps,134.59
+2105,2018.0,3.0,San Juan,Entre 512 Kbps y 1 Mbps,3.324
+2106,2018.0,3.0,San Luis,Entre 512 Kbps y 1 Mbps,109.0
+2107,2018.0,3.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,116.0
+2108,2018.0,3.0,Santa Fe,Entre 512 Kbps y 1 Mbps,36.786
+2109,2018.0,3.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,909.642
+2110,2018.0,3.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,187.0
+2111,2018.0,3.0,Tucumán,Entre 512 Kbps y 1 Mbps,6.992
+2112,2018.0,4.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,73.761
+2113,2018.0,4.0,Capital Federal,Entre 512 Kbps y 1 Mbps,22.373
+2114,2018.0,4.0,Catamarca,Entre 512 Kbps y 1 Mbps,1.669
+2115,2018.0,4.0,Chaco,Entre 512 Kbps y 1 Mbps,3.405
+2116,2018.0,4.0,Chubut,Entre 512 Kbps y 1 Mbps,7.913
+2117,2018.0,4.0,Córdoba,Entre 512 Kbps y 1 Mbps,24.102
+2118,2018.0,4.0,Corrientes,Entre 512 Kbps y 1 Mbps,6.438
+2119,2018.0,4.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,8.769
+2120,2018.0,4.0,Formosa,Entre 512 Kbps y 1 Mbps,193.883
+2121,2018.0,4.0,Jujuy,Entre 512 Kbps y 1 Mbps,108.697
+2122,2018.0,4.0,La Pampa,Entre 512 Kbps y 1 Mbps,7.727
+2123,2018.0,4.0,La Rioja,Entre 512 Kbps y 1 Mbps,1.164
+2124,2018.0,4.0,Mendoza,Entre 512 Kbps y 1 Mbps,12.452
+2125,2018.0,4.0,Misiones,Entre 512 Kbps y 1 Mbps,5.981
+2126,2018.0,4.0,Neuquén,Entre 512 Kbps y 1 Mbps,359.687
+2127,2018.0,4.0,Río Negro,Entre 512 Kbps y 1 Mbps,97.129
+2128,2018.0,4.0,Salta,Entre 512 Kbps y 1 Mbps,4.658
+2129,2018.0,4.0,San Juan,Entre 512 Kbps y 1 Mbps,2.464
+2130,2018.0,4.0,San Luis,Entre 512 Kbps y 1 Mbps,109.0
+2131,2018.0,4.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,115.0
+2132,2018.0,4.0,Santa Fe,Entre 512 Kbps y 1 Mbps,31.397
+2133,2018.0,4.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,910.342
+2134,2018.0,4.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,27.0
+2135,2018.0,4.0,Tucumán,Entre 512 Kbps y 1 Mbps,5.244
+2136,2019.0,1.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,72.29599999999999
+2137,2019.0,1.0,Capital Federal,Entre 512 Kbps y 1 Mbps,22.402
+2138,2019.0,1.0,Catamarca,Entre 512 Kbps y 1 Mbps,1.708
+2139,2019.0,1.0,Chaco,Entre 512 Kbps y 1 Mbps,3.801
+2140,2019.0,1.0,Chubut,Entre 512 Kbps y 1 Mbps,7.934
+2141,2019.0,1.0,Córdoba,Entre 512 Kbps y 1 Mbps,1013.409
+2142,2019.0,1.0,Corrientes,Entre 512 Kbps y 1 Mbps,6.47
+2143,2019.0,1.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,9.217
+2144,2019.0,1.0,Formosa,Entre 512 Kbps y 1 Mbps,193.832
+2145,2019.0,1.0,Jujuy,Entre 512 Kbps y 1 Mbps,108.711
+2146,2019.0,1.0,La Pampa,Entre 512 Kbps y 1 Mbps,321.014
+2147,2019.0,1.0,La Rioja,Entre 512 Kbps y 1 Mbps,1.169
+2148,2019.0,1.0,Mendoza,Entre 512 Kbps y 1 Mbps,12.775
+2149,2019.0,1.0,Misiones,Entre 512 Kbps y 1 Mbps,5.946
+2150,2019.0,1.0,Neuquén,Entre 512 Kbps y 1 Mbps,359.698
+2151,2019.0,1.0,Río Negro,Entre 512 Kbps y 1 Mbps,97.487
+2152,2019.0,1.0,Salta,Entre 512 Kbps y 1 Mbps,5.231
+2153,2019.0,1.0,San Juan,Entre 512 Kbps y 1 Mbps,229.0
+2154,2019.0,1.0,San Luis,Entre 512 Kbps y 1 Mbps,120.0
+2155,2019.0,1.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,128.0
+2156,2019.0,1.0,Santa Fe,Entre 512 Kbps y 1 Mbps,29.35
+2157,2019.0,1.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,910.464
+2158,2019.0,1.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,131.0
+2159,2019.0,1.0,Tucumán,Entre 512 Kbps y 1 Mbps,5.188
+2160,2019.0,2.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,63.051
+2161,2019.0,2.0,Capital Federal,Entre 512 Kbps y 1 Mbps,21.99
+2162,2019.0,2.0,Catamarca,Entre 512 Kbps y 1 Mbps,1.284
+2163,2019.0,2.0,Chaco,Entre 512 Kbps y 1 Mbps,3.376
+2164,2019.0,2.0,Chubut,Entre 512 Kbps y 1 Mbps,8.013
+2165,2019.0,2.0,Córdoba,Entre 512 Kbps y 1 Mbps,943.18
+2166,2019.0,2.0,Corrientes,Entre 512 Kbps y 1 Mbps,6.423
+2167,2019.0,2.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,9.944
+2168,2019.0,2.0,Formosa,Entre 512 Kbps y 1 Mbps,193.381
+2169,2019.0,2.0,Jujuy,Entre 512 Kbps y 1 Mbps,2.539
+2170,2019.0,2.0,La Pampa,Entre 512 Kbps y 1 Mbps,321.011
+2171,2019.0,2.0,La Rioja,Entre 512 Kbps y 1 Mbps,926.0
+2172,2019.0,2.0,Mendoza,Entre 512 Kbps y 1 Mbps,13.995
+2173,2019.0,2.0,Misiones,Entre 512 Kbps y 1 Mbps,4.268
+2174,2019.0,2.0,Neuquén,Entre 512 Kbps y 1 Mbps,360.081
+2175,2019.0,2.0,Río Negro,Entre 512 Kbps y 1 Mbps,97.557
+2176,2019.0,2.0,Salta,Entre 512 Kbps y 1 Mbps,4.308
+2177,2019.0,2.0,San Juan,Entre 512 Kbps y 1 Mbps,221.0
+2178,2019.0,2.0,San Luis,Entre 512 Kbps y 1 Mbps,114.0
+2179,2019.0,2.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,128.0
+2180,2019.0,2.0,Santa Fe,Entre 512 Kbps y 1 Mbps,23.528
+2181,2019.0,2.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,910.004
+2182,2019.0,2.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,123.0
+2183,2019.0,2.0,Tucumán,Entre 512 Kbps y 1 Mbps,4.491
+2184,2019.0,3.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,61.101
+2185,2019.0,3.0,Capital Federal,Entre 512 Kbps y 1 Mbps,21.116
+2186,2019.0,3.0,Catamarca,Entre 512 Kbps y 1 Mbps,1.056
+2187,2019.0,3.0,Chaco,Entre 512 Kbps y 1 Mbps,3.013
+2188,2019.0,3.0,Chubut,Entre 512 Kbps y 1 Mbps,5.088
+2189,2019.0,3.0,Córdoba,Entre 512 Kbps y 1 Mbps,20.24
+2190,2019.0,3.0,Corrientes,Entre 512 Kbps y 1 Mbps,6.341
+2191,2019.0,3.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,8.601
+2192,2019.0,3.0,Formosa,Entre 512 Kbps y 1 Mbps,193.173
+2193,2019.0,3.0,Jujuy,Entre 512 Kbps y 1 Mbps,7.248
+2194,2019.0,3.0,La Pampa,Entre 512 Kbps y 1 Mbps,320.743
+2195,2019.0,3.0,La Rioja,Entre 512 Kbps y 1 Mbps,789.0
+2196,2019.0,3.0,Mendoza,Entre 512 Kbps y 1 Mbps,11.483
+2197,2019.0,3.0,Misiones,Entre 512 Kbps y 1 Mbps,3.927
+2198,2019.0,3.0,Neuquén,Entre 512 Kbps y 1 Mbps,7.458
+2199,2019.0,3.0,Río Negro,Entre 512 Kbps y 1 Mbps,2.043
+2200,2019.0,3.0,Salta,Entre 512 Kbps y 1 Mbps,3.844
+2201,2019.0,3.0,San Juan,Entre 512 Kbps y 1 Mbps,671.0
+2202,2019.0,3.0,San Luis,Entre 512 Kbps y 1 Mbps,391.0
+2203,2019.0,3.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,5.469
+2204,2019.0,3.0,Santa Fe,Entre 512 Kbps y 1 Mbps,22.351
+2205,2019.0,3.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,909.865
+2206,2019.0,3.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,119.0
+2207,2019.0,3.0,Tucumán,Entre 512 Kbps y 1 Mbps,3.954
+2208,2019.0,4.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,65.233
+2209,2019.0,4.0,Capital Federal,Entre 512 Kbps y 1 Mbps,21.057
+2210,2019.0,4.0,Catamarca,Entre 512 Kbps y 1 Mbps,891.0
+2211,2019.0,4.0,Chaco,Entre 512 Kbps y 1 Mbps,2.894
+2212,2019.0,4.0,Chubut,Entre 512 Kbps y 1 Mbps,933.0
+2213,2019.0,4.0,Córdoba,Entre 512 Kbps y 1 Mbps,19.943
+2214,2019.0,4.0,Corrientes,Entre 512 Kbps y 1 Mbps,6.157
+2215,2019.0,4.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,8.407
+2216,2019.0,4.0,Formosa,Entre 512 Kbps y 1 Mbps,193.077
+2217,2019.0,4.0,Jujuy,Entre 512 Kbps y 1 Mbps,7.3
+2218,2019.0,4.0,La Pampa,Entre 512 Kbps y 1 Mbps,316.308
+2219,2019.0,4.0,La Rioja,Entre 512 Kbps y 1 Mbps,716.0
+2220,2019.0,4.0,Mendoza,Entre 512 Kbps y 1 Mbps,11.172
+2221,2019.0,4.0,Misiones,Entre 512 Kbps y 1 Mbps,3.486
+2222,2019.0,4.0,Neuquén,Entre 512 Kbps y 1 Mbps,803.0
+2223,2019.0,4.0,Río Negro,Entre 512 Kbps y 1 Mbps,1.267
+2224,2019.0,4.0,Salta,Entre 512 Kbps y 1 Mbps,3.808
+2225,2019.0,4.0,San Juan,Entre 512 Kbps y 1 Mbps,664.0
+2226,2019.0,4.0,San Luis,Entre 512 Kbps y 1 Mbps,386.0
+2227,2019.0,4.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,5.414
+2228,2019.0,4.0,Santa Fe,Entre 512 Kbps y 1 Mbps,19.145
+2229,2019.0,4.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,909.731
+2230,2019.0,4.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,105.0
+2231,2019.0,4.0,Tucumán,Entre 512 Kbps y 1 Mbps,4.002
+2232,2020.0,1.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,61.004
+2233,2020.0,1.0,Capital Federal,Entre 512 Kbps y 1 Mbps,21.136
+2234,2020.0,1.0,Catamarca,Entre 512 Kbps y 1 Mbps,782.0
+2235,2020.0,1.0,Chaco,Entre 512 Kbps y 1 Mbps,2.634
+2236,2020.0,1.0,Chubut,Entre 512 Kbps y 1 Mbps,935.0
+2237,2020.0,1.0,Córdoba,Entre 512 Kbps y 1 Mbps,18.717
+2238,2020.0,1.0,Corrientes,Entre 512 Kbps y 1 Mbps,6.222
+2239,2020.0,1.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,8.133
+2240,2020.0,1.0,Formosa,Entre 512 Kbps y 1 Mbps,192.965
+2241,2020.0,1.0,Jujuy,Entre 512 Kbps y 1 Mbps,7.146
+2242,2020.0,1.0,La Pampa,Entre 512 Kbps y 1 Mbps,315.897
+2243,2020.0,1.0,La Rioja,Entre 512 Kbps y 1 Mbps,641.0
+2244,2020.0,1.0,Mendoza,Entre 512 Kbps y 1 Mbps,10.696
+2245,2020.0,1.0,Misiones,Entre 512 Kbps y 1 Mbps,3.342
+2246,2020.0,1.0,Neuquén,Entre 512 Kbps y 1 Mbps,807.0
+2247,2020.0,1.0,Río Negro,Entre 512 Kbps y 1 Mbps,1.158
+2248,2020.0,1.0,Salta,Entre 512 Kbps y 1 Mbps,3.714
+2249,2020.0,1.0,San Juan,Entre 512 Kbps y 1 Mbps,697.0
+2250,2020.0,1.0,San Luis,Entre 512 Kbps y 1 Mbps,386.0
+2251,2020.0,1.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,5.414
+2252,2020.0,1.0,Santa Fe,Entre 512 Kbps y 1 Mbps,18.011
+2253,2020.0,1.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,909.646
+2254,2020.0,1.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,104.0
+2255,2020.0,1.0,Tucumán,Entre 512 Kbps y 1 Mbps,3.747
+2256,2020.0,2.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,59.342
+2257,2020.0,2.0,Capital Federal,Entre 512 Kbps y 1 Mbps,20.785
+2258,2020.0,2.0,Catamarca,Entre 512 Kbps y 1 Mbps,730.0
+2259,2020.0,2.0,Chaco,Entre 512 Kbps y 1 Mbps,3.497
+2260,2020.0,2.0,Chubut,Entre 512 Kbps y 1 Mbps,929.0
+2261,2020.0,2.0,Córdoba,Entre 512 Kbps y 1 Mbps,17.541
+2262,2020.0,2.0,Corrientes,Entre 512 Kbps y 1 Mbps,6.938
+2263,2020.0,2.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,7.625
+2264,2020.0,2.0,Formosa,Entre 512 Kbps y 1 Mbps,1.881
+2265,2020.0,2.0,Jujuy,Entre 512 Kbps y 1 Mbps,7.114
+2266,2020.0,2.0,La Pampa,Entre 512 Kbps y 1 Mbps,315.89
+2267,2020.0,2.0,La Rioja,Entre 512 Kbps y 1 Mbps,701.0
+2268,2020.0,2.0,Mendoza,Entre 512 Kbps y 1 Mbps,10.655
+2269,2020.0,2.0,Misiones,Entre 512 Kbps y 1 Mbps,4.35
+2270,2020.0,2.0,Neuquén,Entre 512 Kbps y 1 Mbps,803.0
+2271,2020.0,2.0,Río Negro,Entre 512 Kbps y 1 Mbps,1.129
+2272,2020.0,2.0,Salta,Entre 512 Kbps y 1 Mbps,7.176
+2273,2020.0,2.0,San Juan,Entre 512 Kbps y 1 Mbps,697.0
+2274,2020.0,2.0,San Luis,Entre 512 Kbps y 1 Mbps,386.0
+2275,2020.0,2.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,5.415
+2276,2020.0,2.0,Santa Fe,Entre 512 Kbps y 1 Mbps,17.111
+2277,2020.0,2.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,909.869
+2278,2020.0,2.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,102.0
+2279,2020.0,2.0,Tucumán,Entre 512 Kbps y 1 Mbps,3.509
+2280,2020.0,3.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,59.17099999999999
+2281,2020.0,3.0,Capital Federal,Entre 512 Kbps y 1 Mbps,20.404
+2282,2020.0,3.0,Catamarca,Entre 512 Kbps y 1 Mbps,669.0
+2283,2020.0,3.0,Chaco,Entre 512 Kbps y 1 Mbps,2.625
+2284,2020.0,3.0,Chubut,Entre 512 Kbps y 1 Mbps,968.0
+2285,2020.0,3.0,Córdoba,Entre 512 Kbps y 1 Mbps,16.954
+2286,2020.0,3.0,Corrientes,Entre 512 Kbps y 1 Mbps,6.876
+2287,2020.0,3.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,6.668
+2288,2020.0,3.0,Formosa,Entre 512 Kbps y 1 Mbps,1.698
+2289,2020.0,3.0,Jujuy,Entre 512 Kbps y 1 Mbps,7.031
+2290,2020.0,3.0,La Pampa,Entre 512 Kbps y 1 Mbps,315.88
+2291,2020.0,3.0,La Rioja,Entre 512 Kbps y 1 Mbps,705.0
+2292,2020.0,3.0,Mendoza,Entre 512 Kbps y 1 Mbps,10.656
+2293,2020.0,3.0,Misiones,Entre 512 Kbps y 1 Mbps,4.31
+2294,2020.0,3.0,Neuquén,Entre 512 Kbps y 1 Mbps,813.0
+2295,2020.0,3.0,Río Negro,Entre 512 Kbps y 1 Mbps,1.137
+2296,2020.0,3.0,Salta,Entre 512 Kbps y 1 Mbps,7.086
+2297,2020.0,3.0,San Juan,Entre 512 Kbps y 1 Mbps,4.684
+2298,2020.0,3.0,San Luis,Entre 512 Kbps y 1 Mbps,402.0
+2299,2020.0,3.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,5.415
+2300,2020.0,3.0,Santa Fe,Entre 512 Kbps y 1 Mbps,16.309
+2301,2020.0,3.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1871.0
+2302,2020.0,3.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,97.0
+2303,2020.0,3.0,Tucumán,Entre 512 Kbps y 1 Mbps,3.594
+2304,2020.0,4.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,58.229
+2305,2020.0,4.0,Capital Federal,Entre 512 Kbps y 1 Mbps,20.178
+2306,2020.0,4.0,Catamarca,Entre 512 Kbps y 1 Mbps,635.0
+2307,2020.0,4.0,Chaco,Entre 512 Kbps y 1 Mbps,2.319
+2308,2020.0,4.0,Chubut,Entre 512 Kbps y 1 Mbps,884.0
+2309,2020.0,4.0,Córdoba,Entre 512 Kbps y 1 Mbps,16.318
+2310,2020.0,4.0,Corrientes,Entre 512 Kbps y 1 Mbps,4.23
+2311,2020.0,4.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,6.681
+2312,2020.0,4.0,Formosa,Entre 512 Kbps y 1 Mbps,704.0
+2313,2020.0,4.0,Jujuy,Entre 512 Kbps y 1 Mbps,1.443
+2314,2020.0,4.0,La Pampa,Entre 512 Kbps y 1 Mbps,315.641
+2315,2020.0,4.0,La Rioja,Entre 512 Kbps y 1 Mbps,688.0
+2316,2020.0,4.0,Mendoza,Entre 512 Kbps y 1 Mbps,10.825
+2317,2020.0,4.0,Misiones,Entre 512 Kbps y 1 Mbps,3.956
+2318,2020.0,4.0,Neuquén,Entre 512 Kbps y 1 Mbps,557.0
+2319,2020.0,4.0,Río Negro,Entre 512 Kbps y 1 Mbps,1.141
+2320,2020.0,4.0,Salta,Entre 512 Kbps y 1 Mbps,3.871
+2321,2020.0,4.0,San Juan,Entre 512 Kbps y 1 Mbps,2.459
+2322,2020.0,4.0,San Luis,Entre 512 Kbps y 1 Mbps,451.0
+2323,2020.0,4.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,5.375
+2324,2020.0,4.0,Santa Fe,Entre 512 Kbps y 1 Mbps,15.208
+2325,2020.0,4.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1867.0
+2326,2020.0,4.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,98.0
+2327,2020.0,4.0,Tucumán,Entre 512 Kbps y 1 Mbps,3.251
+2328,2021.0,1.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,57.057
+2329,2021.0,1.0,Capital Federal,Entre 512 Kbps y 1 Mbps,20.052
+2330,2021.0,1.0,Catamarca,Entre 512 Kbps y 1 Mbps,612.0
+2331,2021.0,1.0,Chaco,Entre 512 Kbps y 1 Mbps,2.267
+2332,2021.0,1.0,Chubut,Entre 512 Kbps y 1 Mbps,934.0
+2333,2021.0,1.0,Córdoba,Entre 512 Kbps y 1 Mbps,16.049
+2334,2021.0,1.0,Corrientes,Entre 512 Kbps y 1 Mbps,4.395
+2335,2021.0,1.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,6.549
+2336,2021.0,1.0,Formosa,Entre 512 Kbps y 1 Mbps,656.0
+2337,2021.0,1.0,Jujuy,Entre 512 Kbps y 1 Mbps,1.395
+2338,2021.0,1.0,La Pampa,Entre 512 Kbps y 1 Mbps,315.636
+2339,2021.0,1.0,La Rioja,Entre 512 Kbps y 1 Mbps,670.0
+2340,2021.0,1.0,Mendoza,Entre 512 Kbps y 1 Mbps,10.716
+2341,2021.0,1.0,Misiones,Entre 512 Kbps y 1 Mbps,4.882
+2342,2021.0,1.0,Neuquén,Entre 512 Kbps y 1 Mbps,526.0
+2343,2021.0,1.0,Río Negro,Entre 512 Kbps y 1 Mbps,1.134
+2344,2021.0,1.0,Salta,Entre 512 Kbps y 1 Mbps,3.559
+2345,2021.0,1.0,San Juan,Entre 512 Kbps y 1 Mbps,2.191
+2346,2021.0,1.0,San Luis,Entre 512 Kbps y 1 Mbps,439.0
+2347,2021.0,1.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,6.688
+2348,2021.0,1.0,Santa Fe,Entre 512 Kbps y 1 Mbps,14.129
+2349,2021.0,1.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1823.0
+2350,2021.0,1.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,94.0
+2351,2021.0,1.0,Tucumán,Entre 512 Kbps y 1 Mbps,3.157
+2352,2021.0,2.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,56.465
+2353,2021.0,2.0,Capital Federal,Entre 512 Kbps y 1 Mbps,378.76
+2354,2021.0,2.0,Catamarca,Entre 512 Kbps y 1 Mbps,503.0
+2355,2021.0,2.0,Chaco,Entre 512 Kbps y 1 Mbps,1.226
+2356,2021.0,2.0,Chubut,Entre 512 Kbps y 1 Mbps,929.0
+2357,2021.0,2.0,Córdoba,Entre 512 Kbps y 1 Mbps,81.625
+2358,2021.0,2.0,Corrientes,Entre 512 Kbps y 1 Mbps,122.211
+2359,2021.0,2.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,118.962
+2360,2021.0,2.0,Formosa,Entre 512 Kbps y 1 Mbps,570.0
+2361,2021.0,2.0,Jujuy,Entre 512 Kbps y 1 Mbps,1.722
+2362,2021.0,2.0,La Pampa,Entre 512 Kbps y 1 Mbps,315.177
+2363,2021.0,2.0,La Rioja,Entre 512 Kbps y 1 Mbps,691.0
+2364,2021.0,2.0,Mendoza,Entre 512 Kbps y 1 Mbps,1.729
+2365,2021.0,2.0,Misiones,Entre 512 Kbps y 1 Mbps,4.411
+2366,2021.0,2.0,Neuquén,Entre 512 Kbps y 1 Mbps,648.0
+2367,2021.0,2.0,Río Negro,Entre 512 Kbps y 1 Mbps,2.21
+2368,2021.0,2.0,Salta,Entre 512 Kbps y 1 Mbps,2.819
+2369,2021.0,2.0,San Juan,Entre 512 Kbps y 1 Mbps,1.333
+2370,2021.0,2.0,San Luis,Entre 512 Kbps y 1 Mbps,439.0
+2371,2021.0,2.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,6.656
+2372,2021.0,2.0,Santa Fe,Entre 512 Kbps y 1 Mbps,18.666
+2373,2021.0,2.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1511.0
+2374,2021.0,2.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,87.0
+2375,2021.0,2.0,Tucumán,Entre 512 Kbps y 1 Mbps,2.89
+2376,2021.0,3.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,54.771
+2377,2021.0,3.0,Capital Federal,Entre 512 Kbps y 1 Mbps,378.567
+2378,2021.0,3.0,Catamarca,Entre 512 Kbps y 1 Mbps,468.0
+2379,2021.0,3.0,Chaco,Entre 512 Kbps y 1 Mbps,1.13
+2380,2021.0,3.0,Chubut,Entre 512 Kbps y 1 Mbps,906.0
+2381,2021.0,3.0,Córdoba,Entre 512 Kbps y 1 Mbps,81.19
+2382,2021.0,3.0,Corrientes,Entre 512 Kbps y 1 Mbps,122.071
+2383,2021.0,3.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,118.84
+2384,2021.0,3.0,Formosa,Entre 512 Kbps y 1 Mbps,540.0
+2385,2021.0,3.0,Jujuy,Entre 512 Kbps y 1 Mbps,1.699
+2386,2021.0,3.0,La Pampa,Entre 512 Kbps y 1 Mbps,314.969
+2387,2021.0,3.0,La Rioja,Entre 512 Kbps y 1 Mbps,672.0
+2388,2021.0,3.0,Mendoza,Entre 512 Kbps y 1 Mbps,1.708
+2389,2021.0,3.0,Misiones,Entre 512 Kbps y 1 Mbps,4.371
+2390,2021.0,3.0,Neuquén,Entre 512 Kbps y 1 Mbps,624.0
+2391,2021.0,3.0,Río Negro,Entre 512 Kbps y 1 Mbps,2.188
+2392,2021.0,3.0,Salta,Entre 512 Kbps y 1 Mbps,2.79
+2393,2021.0,3.0,San Juan,Entre 512 Kbps y 1 Mbps,1.333
+2394,2021.0,3.0,San Luis,Entre 512 Kbps y 1 Mbps,439.0
+2395,2021.0,3.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,6.656
+2396,2021.0,3.0,Santa Fe,Entre 512 Kbps y 1 Mbps,19.023
+2397,2021.0,3.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1463.0
+2398,2021.0,3.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,83.0
+2399,2021.0,3.0,Tucumán,Entre 512 Kbps y 1 Mbps,2.356
+2400,2021.0,4.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,33.049
+2401,2021.0,4.0,Capital Federal,Entre 512 Kbps y 1 Mbps,5.9190000000000005
+2402,2021.0,4.0,Catamarca,Entre 512 Kbps y 1 Mbps,457.0
+2403,2021.0,4.0,Chaco,Entre 512 Kbps y 1 Mbps,1.058
+2404,2021.0,4.0,Chubut,Entre 512 Kbps y 1 Mbps,766.189
+2405,2021.0,4.0,Córdoba,Entre 512 Kbps y 1 Mbps,106.654
+2406,2021.0,4.0,Corrientes,Entre 512 Kbps y 1 Mbps,121.976
+2407,2021.0,4.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,118.752
+2408,2021.0,4.0,Formosa,Entre 512 Kbps y 1 Mbps,491.0
+2409,2021.0,4.0,Jujuy,Entre 512 Kbps y 1 Mbps,1.706
+2410,2021.0,4.0,La Pampa,Entre 512 Kbps y 1 Mbps,494.736
+2411,2021.0,4.0,La Rioja,Entre 512 Kbps y 1 Mbps,638.0
+2412,2021.0,4.0,Mendoza,Entre 512 Kbps y 1 Mbps,4.385
+2413,2021.0,4.0,Misiones,Entre 512 Kbps y 1 Mbps,4.154
+2414,2021.0,4.0,Neuquén,Entre 512 Kbps y 1 Mbps,1190.0
+2415,2021.0,4.0,Río Negro,Entre 512 Kbps y 1 Mbps,1488.0
+2416,2021.0,4.0,Salta,Entre 512 Kbps y 1 Mbps,2.729
+2417,2021.0,4.0,San Juan,Entre 512 Kbps y 1 Mbps,2.428
+2418,2021.0,4.0,San Luis,Entre 512 Kbps y 1 Mbps,686.0
+2419,2021.0,4.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,303.623
+2420,2021.0,4.0,Santa Fe,Entre 512 Kbps y 1 Mbps,20.203
+2421,2021.0,4.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1414.0
+2422,2021.0,4.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,385.0
+2423,2021.0,4.0,Tucumán,Entre 512 Kbps y 1 Mbps,2.22
+2424,2022.0,1.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,30.056
+2425,2022.0,1.0,Capital Federal,Entre 512 Kbps y 1 Mbps,5.575
+2426,2022.0,1.0,Catamarca,Entre 512 Kbps y 1 Mbps,456.0
+2427,2022.0,1.0,Chaco,Entre 512 Kbps y 1 Mbps,988.0
+2428,2022.0,1.0,Chubut,Entre 512 Kbps y 1 Mbps,609.069
+2429,2022.0,1.0,Córdoba,Entre 512 Kbps y 1 Mbps,103.691
+2430,2022.0,1.0,Corrientes,Entre 512 Kbps y 1 Mbps,121.911
+2431,2022.0,1.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,118.632
+2432,2022.0,1.0,Formosa,Entre 512 Kbps y 1 Mbps,448.0
+2433,2022.0,1.0,Jujuy,Entre 512 Kbps y 1 Mbps,1.761
+2434,2022.0,1.0,La Pampa,Entre 512 Kbps y 1 Mbps,477.747
+2435,2022.0,1.0,La Rioja,Entre 512 Kbps y 1 Mbps,778.0
+2436,2022.0,1.0,Mendoza,Entre 512 Kbps y 1 Mbps,3.3550000000000004
+2437,2022.0,1.0,Misiones,Entre 512 Kbps y 1 Mbps,3.873
+2438,2022.0,1.0,Neuquén,Entre 512 Kbps y 1 Mbps,1123.0
+2439,2022.0,1.0,Río Negro,Entre 512 Kbps y 1 Mbps,1383.0
+2440,2022.0,1.0,Salta,Entre 512 Kbps y 1 Mbps,2.724
+2441,2022.0,1.0,San Juan,Entre 512 Kbps y 1 Mbps,966.304
+2442,2022.0,1.0,San Luis,Entre 512 Kbps y 1 Mbps,643.0
+2443,2022.0,1.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,281.623
+2444,2022.0,1.0,Santa Fe,Entre 512 Kbps y 1 Mbps,18.429
+2445,2022.0,1.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1401.0
+2446,2022.0,1.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,894.0
+2447,2022.0,1.0,Tucumán,Entre 512 Kbps y 1 Mbps,2.212
+2448,2022.0,2.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,28.323
+2449,2022.0,2.0,Capital Federal,Entre 512 Kbps y 1 Mbps,5.98
+2450,2022.0,2.0,Catamarca,Entre 512 Kbps y 1 Mbps,413.0
+2451,2022.0,2.0,Chaco,Entre 512 Kbps y 1 Mbps,936.0
+2452,2022.0,2.0,Chubut,Entre 512 Kbps y 1 Mbps,1444.0
+2453,2022.0,2.0,Córdoba,Entre 512 Kbps y 1 Mbps,94.888
+2454,2022.0,2.0,Corrientes,Entre 512 Kbps y 1 Mbps,121.819
+2455,2022.0,2.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,118.543
+2456,2022.0,2.0,Formosa,Entre 512 Kbps y 1 Mbps,407.0
+2457,2022.0,2.0,Jujuy,Entre 512 Kbps y 1 Mbps,1.829
+2458,2022.0,2.0,La Pampa,Entre 512 Kbps y 1 Mbps,144.744
+2459,2022.0,2.0,La Rioja,Entre 512 Kbps y 1 Mbps,728.0
+2460,2022.0,2.0,Mendoza,Entre 512 Kbps y 1 Mbps,739.217
+2461,2022.0,2.0,Misiones,Entre 512 Kbps y 1 Mbps,3.808
+2462,2022.0,2.0,Neuquén,Entre 512 Kbps y 1 Mbps,999.0
+2463,2022.0,2.0,Río Negro,Entre 512 Kbps y 1 Mbps,1227.0
+2464,2022.0,2.0,Salta,Entre 512 Kbps y 1 Mbps,2.529
+2465,2022.0,2.0,San Juan,Entre 512 Kbps y 1 Mbps,724.304
+2466,2022.0,2.0,San Luis,Entre 512 Kbps y 1 Mbps,306.0
+2467,2022.0,2.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,224.623
+2468,2022.0,2.0,Santa Fe,Entre 512 Kbps y 1 Mbps,16.752000000000002
+2469,2022.0,2.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1401.0
+2470,2022.0,2.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,831.0
+2471,2022.0,2.0,Tucumán,Entre 512 Kbps y 1 Mbps,2.195
+2472,2022.0,3.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,23347.0
+2473,2022.0,3.0,Capital Federal,Entre 512 Kbps y 1 Mbps,5096.0
+2474,2022.0,3.0,Catamarca,Entre 512 Kbps y 1 Mbps,315.0
+2475,2022.0,3.0,Chaco,Entre 512 Kbps y 1 Mbps,660.0
+2476,2022.0,3.0,Chubut,Entre 512 Kbps y 1 Mbps,1614.0
+2477,2022.0,3.0,Córdoba,Entre 512 Kbps y 1 Mbps,9929.0
+2478,2022.0,3.0,Corrientes,Entre 512 Kbps y 1 Mbps,3282.0
+2479,2022.0,3.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,4722.0
+2480,2022.0,3.0,Formosa,Entre 512 Kbps y 1 Mbps,245.0
+2481,2022.0,3.0,Jujuy,Entre 512 Kbps y 1 Mbps,1763.0
+2482,2022.0,3.0,La Pampa,Entre 512 Kbps y 1 Mbps,1687.0
+2483,2022.0,3.0,La Rioja,Entre 512 Kbps y 1 Mbps,595.0
+2484,2022.0,3.0,Mendoza,Entre 512 Kbps y 1 Mbps,2954.0
+2485,2022.0,3.0,Misiones,Entre 512 Kbps y 1 Mbps,3510.0
+2486,2022.0,3.0,Neuquén,Entre 512 Kbps y 1 Mbps,994.0
+2487,2022.0,3.0,Río Negro,Entre 512 Kbps y 1 Mbps,1081.0
+2488,2022.0,3.0,Salta,Entre 512 Kbps y 1 Mbps,1197.0
+2489,2022.0,3.0,San Juan,Entre 512 Kbps y 1 Mbps,2027.0
+2490,2022.0,3.0,San Luis,Entre 512 Kbps y 1 Mbps,624.0
+2491,2022.0,3.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,6810.0
+2492,2022.0,3.0,Santa Fe,Entre 512 Kbps y 1 Mbps,9374.0
+2493,2022.0,3.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1267.0
+2494,2022.0,3.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,902.0
+2495,2022.0,3.0,Tucumán,Entre 512 Kbps y 1 Mbps,1562.0
+2496,2022.0,4.0,Buenos Aires,Entre 512 Kbps y 1 Mbps,23.347
+2497,2022.0,4.0,Capital Federal,Entre 512 Kbps y 1 Mbps,5.096
+2498,2022.0,4.0,Catamarca,Entre 512 Kbps y 1 Mbps,315.0
+2499,2022.0,4.0,Chaco,Entre 512 Kbps y 1 Mbps,660.0
+2500,2022.0,4.0,Chubut,Entre 512 Kbps y 1 Mbps,1614.0
+2501,2022.0,4.0,Córdoba,Entre 512 Kbps y 1 Mbps,92.846
+2502,2022.0,4.0,Corrientes,Entre 512 Kbps y 1 Mbps,121.164
+2503,2022.0,4.0,Entre Ríos,Entre 512 Kbps y 1 Mbps,117.609
+2504,2022.0,4.0,Formosa,Entre 512 Kbps y 1 Mbps,245.0
+2505,2022.0,4.0,Jujuy,Entre 512 Kbps y 1 Mbps,1.763
+2506,2022.0,4.0,La Pampa,Entre 512 Kbps y 1 Mbps,144.544
+2507,2022.0,4.0,La Rioja,Entre 512 Kbps y 1 Mbps,595.0
+2508,2022.0,4.0,Mendoza,Entre 512 Kbps y 1 Mbps,739.217
+2509,2022.0,4.0,Misiones,Entre 512 Kbps y 1 Mbps,3.51
+2510,2022.0,4.0,Neuquén,Entre 512 Kbps y 1 Mbps,994.0
+2511,2022.0,4.0,Río Negro,Entre 512 Kbps y 1 Mbps,1081.0
+2512,2022.0,4.0,Salta,Entre 512 Kbps y 1 Mbps,2.196
+2513,2022.0,4.0,San Juan,Entre 512 Kbps y 1 Mbps,724.304
+2514,2022.0,4.0,San Luis,Entre 512 Kbps y 1 Mbps,624.0
+2515,2022.0,4.0,Santa Cruz,Entre 512 Kbps y 1 Mbps,224.592
+2516,2022.0,4.0,Santa Fe,Entre 512 Kbps y 1 Mbps,14.369
+2517,2022.0,4.0,Santiago Del Estero,Entre 512 Kbps y 1 Mbps,1267.0
+2518,2022.0,4.0,Tierra Del Fuego,Entre 512 Kbps y 1 Mbps,902.0
+2519,2022.0,4.0,Tucumán,Entre 512 Kbps y 1 Mbps,1.562
+2520,2017.0,4.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,343.56600000000003
+2521,2017.0,4.0,Capital Federal,Entre 6 Mbps y 10 Mbps,1229.094
+2522,2017.0,4.0,Catamarca,Entre 6 Mbps y 10 Mbps,5.904
+2523,2017.0,4.0,Chaco,Entre 6 Mbps y 10 Mbps,24.088
+2524,2017.0,4.0,Chubut,Entre 6 Mbps y 10 Mbps,5.355
+2525,2017.0,4.0,Córdoba,Entre 6 Mbps y 10 Mbps,235.759
+2526,2017.0,4.0,Corrientes,Entre 6 Mbps y 10 Mbps,23.686
+2527,2017.0,4.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,46.188
+2528,2017.0,4.0,Formosa,Entre 6 Mbps y 10 Mbps,5.866
+2529,2017.0,4.0,Jujuy,Entre 6 Mbps y 10 Mbps,43.685
+2530,2017.0,4.0,La Pampa,Entre 6 Mbps y 10 Mbps,99.129
+2531,2017.0,4.0,La Rioja,Entre 6 Mbps y 10 Mbps,4.083
+2532,2017.0,4.0,Mendoza,Entre 6 Mbps y 10 Mbps,438.0
+2533,2017.0,4.0,Misiones,Entre 6 Mbps y 10 Mbps,23.131
+2534,2017.0,4.0,Neuquén,Entre 6 Mbps y 10 Mbps,1325.0
+2535,2017.0,4.0,Río Negro,Entre 6 Mbps y 10 Mbps,485.0
+2536,2017.0,4.0,Salta,Entre 6 Mbps y 10 Mbps,32.842
+2537,2017.0,4.0,San Juan,Entre 6 Mbps y 10 Mbps,9.0
+2538,2017.0,4.0,San Luis,Entre 6 Mbps y 10 Mbps,8.0
+2539,2017.0,4.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,655.0
+2540,2017.0,4.0,Santa Fe,Entre 6 Mbps y 10 Mbps,153.894
+2541,2017.0,4.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,18.773
+2542,2017.0,4.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,2.0
+2543,2017.0,4.0,Tucumán,Entre 6 Mbps y 10 Mbps,45.241
+2544,2018.0,1.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,371.653
+2545,2018.0,1.0,Capital Federal,Entre 6 Mbps y 10 Mbps,340.619
+2546,2018.0,1.0,Catamarca,Entre 6 Mbps y 10 Mbps,6.145
+2547,2018.0,1.0,Chaco,Entre 6 Mbps y 10 Mbps,24.488
+2548,2018.0,1.0,Chubut,Entre 6 Mbps y 10 Mbps,5.3580000000000005
+2549,2018.0,1.0,Córdoba,Entre 6 Mbps y 10 Mbps,238.166
+2550,2018.0,1.0,Corrientes,Entre 6 Mbps y 10 Mbps,24.038
+2551,2018.0,1.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,46.598
+2552,2018.0,1.0,Formosa,Entre 6 Mbps y 10 Mbps,5.117
+2553,2018.0,1.0,Jujuy,Entre 6 Mbps y 10 Mbps,44.008
+2554,2018.0,1.0,La Pampa,Entre 6 Mbps y 10 Mbps,99.518
+2555,2018.0,1.0,La Rioja,Entre 6 Mbps y 10 Mbps,4.217
+2556,2018.0,1.0,Mendoza,Entre 6 Mbps y 10 Mbps,501.0
+2557,2018.0,1.0,Misiones,Entre 6 Mbps y 10 Mbps,23.291
+2558,2018.0,1.0,Neuquén,Entre 6 Mbps y 10 Mbps,1311.0
+2559,2018.0,1.0,Río Negro,Entre 6 Mbps y 10 Mbps,530.0
+2560,2018.0,1.0,Salta,Entre 6 Mbps y 10 Mbps,33.088
+2561,2018.0,1.0,San Juan,Entre 6 Mbps y 10 Mbps,11.0
+2562,2018.0,1.0,San Luis,Entre 6 Mbps y 10 Mbps,11.0
+2563,2018.0,1.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,655.0
+2564,2018.0,1.0,Santa Fe,Entre 6 Mbps y 10 Mbps,153.531
+2565,2018.0,1.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,18.914
+2566,2018.0,1.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,2.0
+2567,2018.0,1.0,Tucumán,Entre 6 Mbps y 10 Mbps,45.675
+2568,2018.0,2.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,384.36800000000005
+2569,2018.0,2.0,Capital Federal,Entre 6 Mbps y 10 Mbps,336.049
+2570,2018.0,2.0,Catamarca,Entre 6 Mbps y 10 Mbps,6.112
+2571,2018.0,2.0,Chaco,Entre 6 Mbps y 10 Mbps,24.282
+2572,2018.0,2.0,Chubut,Entre 6 Mbps y 10 Mbps,5.369
+2573,2018.0,2.0,Córdoba,Entre 6 Mbps y 10 Mbps,102.596
+2574,2018.0,2.0,Corrientes,Entre 6 Mbps y 10 Mbps,24.066
+2575,2018.0,2.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,45.569
+2576,2018.0,2.0,Formosa,Entre 6 Mbps y 10 Mbps,7.174
+2577,2018.0,2.0,Jujuy,Entre 6 Mbps y 10 Mbps,44.047
+2578,2018.0,2.0,La Pampa,Entre 6 Mbps y 10 Mbps,99.312
+2579,2018.0,2.0,La Rioja,Entre 6 Mbps y 10 Mbps,4.198
+2580,2018.0,2.0,Mendoza,Entre 6 Mbps y 10 Mbps,515.0
+2581,2018.0,2.0,Misiones,Entre 6 Mbps y 10 Mbps,23.569000000000003
+2582,2018.0,2.0,Neuquén,Entre 6 Mbps y 10 Mbps,1314.0
+2583,2018.0,2.0,Río Negro,Entre 6 Mbps y 10 Mbps,523.0
+2584,2018.0,2.0,Salta,Entre 6 Mbps y 10 Mbps,33.285
+2585,2018.0,2.0,San Juan,Entre 6 Mbps y 10 Mbps,11.0
+2586,2018.0,2.0,San Luis,Entre 6 Mbps y 10 Mbps,11.0
+2587,2018.0,2.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,655.0
+2588,2018.0,2.0,Santa Fe,Entre 6 Mbps y 10 Mbps,157.098
+2589,2018.0,2.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,18.721
+2590,2018.0,2.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,198.021
+2591,2018.0,2.0,Tucumán,Entre 6 Mbps y 10 Mbps,44.968
+2592,2018.0,3.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,279.716
+2593,2018.0,3.0,Capital Federal,Entre 6 Mbps y 10 Mbps,264.136
+2594,2018.0,3.0,Catamarca,Entre 6 Mbps y 10 Mbps,212.152
+2595,2018.0,3.0,Chaco,Entre 6 Mbps y 10 Mbps,24.916
+2596,2018.0,3.0,Chubut,Entre 6 Mbps y 10 Mbps,174.993
+2597,2018.0,3.0,Córdoba,Entre 6 Mbps y 10 Mbps,96.372
+2598,2018.0,3.0,Corrientes,Entre 6 Mbps y 10 Mbps,24.953
+2599,2018.0,3.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,46.65
+2600,2018.0,3.0,Formosa,Entre 6 Mbps y 10 Mbps,7.257
+2601,2018.0,3.0,Jujuy,Entre 6 Mbps y 10 Mbps,7.756
+2602,2018.0,3.0,La Pampa,Entre 6 Mbps y 10 Mbps,100.056
+2603,2018.0,3.0,La Rioja,Entre 6 Mbps y 10 Mbps,4.138
+2604,2018.0,3.0,Mendoza,Entre 6 Mbps y 10 Mbps,1140.337
+2605,2018.0,3.0,Misiones,Entre 6 Mbps y 10 Mbps,24.747
+2606,2018.0,3.0,Neuquén,Entre 6 Mbps y 10 Mbps,86.562
+2607,2018.0,3.0,Río Negro,Entre 6 Mbps y 10 Mbps,512.0
+2608,2018.0,3.0,Salta,Entre 6 Mbps y 10 Mbps,32.782
+2609,2018.0,3.0,San Juan,Entre 6 Mbps y 10 Mbps,180.0
+2610,2018.0,3.0,San Luis,Entre 6 Mbps y 10 Mbps,148.844
+2611,2018.0,3.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,778.0
+2612,2018.0,3.0,Santa Fe,Entre 6 Mbps y 10 Mbps,304.718
+2613,2018.0,3.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,498.636
+2614,2018.0,3.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,198.074
+2615,2018.0,3.0,Tucumán,Entre 6 Mbps y 10 Mbps,68.257
+2616,2018.0,4.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,741.878
+2617,2018.0,4.0,Capital Federal,Entre 6 Mbps y 10 Mbps,253.199
+2618,2018.0,4.0,Catamarca,Entre 6 Mbps y 10 Mbps,212.219
+2619,2018.0,4.0,Chaco,Entre 6 Mbps y 10 Mbps,26.632
+2620,2018.0,4.0,Chubut,Entre 6 Mbps y 10 Mbps,205.016
+2621,2018.0,4.0,Córdoba,Entre 6 Mbps y 10 Mbps,97.277
+2622,2018.0,4.0,Corrientes,Entre 6 Mbps y 10 Mbps,26.562
+2623,2018.0,4.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,172.904
+2624,2018.0,4.0,Formosa,Entre 6 Mbps y 10 Mbps,7.283
+2625,2018.0,4.0,Jujuy,Entre 6 Mbps y 10 Mbps,8.809999999999999
+2626,2018.0,4.0,La Pampa,Entre 6 Mbps y 10 Mbps,264.4
+2627,2018.0,4.0,La Rioja,Entre 6 Mbps y 10 Mbps,4.088
+2628,2018.0,4.0,Mendoza,Entre 6 Mbps y 10 Mbps,1158.337
+2629,2018.0,4.0,Misiones,Entre 6 Mbps y 10 Mbps,26.019
+2630,2018.0,4.0,Neuquén,Entre 6 Mbps y 10 Mbps,99.683
+2631,2018.0,4.0,Río Negro,Entre 6 Mbps y 10 Mbps,643.0
+2632,2018.0,4.0,Salta,Entre 6 Mbps y 10 Mbps,36.365
+2633,2018.0,4.0,San Juan,Entre 6 Mbps y 10 Mbps,180.0
+2634,2018.0,4.0,San Luis,Entre 6 Mbps y 10 Mbps,149.087
+2635,2018.0,4.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,779.0
+2636,2018.0,4.0,Santa Fe,Entre 6 Mbps y 10 Mbps,950.179
+2637,2018.0,4.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,20.127
+2638,2018.0,4.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,61.268
+2639,2018.0,4.0,Tucumán,Entre 6 Mbps y 10 Mbps,74.73400000000001
+2640,2019.0,1.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,857.855
+2641,2019.0,1.0,Capital Federal,Entre 6 Mbps y 10 Mbps,244.893
+2642,2019.0,1.0,Catamarca,Entre 6 Mbps y 10 Mbps,227.222
+2643,2019.0,1.0,Chaco,Entre 6 Mbps y 10 Mbps,26.631
+2644,2019.0,1.0,Chubut,Entre 6 Mbps y 10 Mbps,317.26
+2645,2019.0,1.0,Córdoba,Entre 6 Mbps y 10 Mbps,96.997
+2646,2019.0,1.0,Corrientes,Entre 6 Mbps y 10 Mbps,26.562
+2647,2019.0,1.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,234.883
+2648,2019.0,1.0,Formosa,Entre 6 Mbps y 10 Mbps,7.299
+2649,2019.0,1.0,Jujuy,Entre 6 Mbps y 10 Mbps,8.809999999999999
+2650,2019.0,1.0,La Pampa,Entre 6 Mbps y 10 Mbps,6.464
+2651,2019.0,1.0,La Rioja,Entre 6 Mbps y 10 Mbps,4.088
+2652,2019.0,1.0,Mendoza,Entre 6 Mbps y 10 Mbps,1203.635
+2653,2019.0,1.0,Misiones,Entre 6 Mbps y 10 Mbps,25.89
+2654,2019.0,1.0,Neuquén,Entre 6 Mbps y 10 Mbps,99.683
+2655,2019.0,1.0,Río Negro,Entre 6 Mbps y 10 Mbps,91.947
+2656,2019.0,1.0,Salta,Entre 6 Mbps y 10 Mbps,36.473
+2657,2019.0,1.0,San Juan,Entre 6 Mbps y 10 Mbps,266.0
+2658,2019.0,1.0,San Luis,Entre 6 Mbps y 10 Mbps,181.086
+2659,2019.0,1.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,143.59
+2660,2019.0,1.0,Santa Fe,Entre 6 Mbps y 10 Mbps,970.111
+2661,2019.0,1.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,20.691000000000003
+2662,2019.0,1.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,8.618
+2663,2019.0,1.0,Tucumán,Entre 6 Mbps y 10 Mbps,91.828
+2664,2019.0,2.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,299.703
+2665,2019.0,2.0,Capital Federal,Entre 6 Mbps y 10 Mbps,196.015
+2666,2019.0,2.0,Catamarca,Entre 6 Mbps y 10 Mbps,120.558
+2667,2019.0,2.0,Chaco,Entre 6 Mbps y 10 Mbps,28.429
+2668,2019.0,2.0,Chubut,Entre 6 Mbps y 10 Mbps,337.721
+2669,2019.0,2.0,Córdoba,Entre 6 Mbps y 10 Mbps,114.498
+2670,2019.0,2.0,Corrientes,Entre 6 Mbps y 10 Mbps,27.774
+2671,2019.0,2.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,259.109
+2672,2019.0,2.0,Formosa,Entre 6 Mbps y 10 Mbps,7.397
+2673,2019.0,2.0,Jujuy,Entre 6 Mbps y 10 Mbps,9.44
+2674,2019.0,2.0,La Pampa,Entre 6 Mbps y 10 Mbps,7.189
+2675,2019.0,2.0,La Rioja,Entre 6 Mbps y 10 Mbps,4.297
+2676,2019.0,2.0,Mendoza,Entre 6 Mbps y 10 Mbps,1220.752
+2677,2019.0,2.0,Misiones,Entre 6 Mbps y 10 Mbps,27.385
+2678,2019.0,2.0,Neuquén,Entre 6 Mbps y 10 Mbps,4.688000000000001
+2679,2019.0,2.0,Río Negro,Entre 6 Mbps y 10 Mbps,154.049
+2680,2019.0,2.0,Salta,Entre 6 Mbps y 10 Mbps,36.923
+2681,2019.0,2.0,San Juan,Entre 6 Mbps y 10 Mbps,292.886
+2682,2019.0,2.0,San Luis,Entre 6 Mbps y 10 Mbps,135.833
+2683,2019.0,2.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,811.997
+2684,2019.0,2.0,Santa Fe,Entre 6 Mbps y 10 Mbps,125.176
+2685,2019.0,2.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,21.362
+2686,2019.0,2.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,18.227
+2687,2019.0,2.0,Tucumán,Entre 6 Mbps y 10 Mbps,92.248
+2688,2019.0,3.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,951.083
+2689,2019.0,3.0,Capital Federal,Entre 6 Mbps y 10 Mbps,165.87900000000002
+2690,2019.0,3.0,Catamarca,Entre 6 Mbps y 10 Mbps,121.173
+2691,2019.0,3.0,Chaco,Entre 6 Mbps y 10 Mbps,30.196
+2692,2019.0,3.0,Chubut,Entre 6 Mbps y 10 Mbps,330.71500000000003
+2693,2019.0,3.0,Córdoba,Entre 6 Mbps y 10 Mbps,120.637
+2694,2019.0,3.0,Corrientes,Entre 6 Mbps y 10 Mbps,29.628
+2695,2019.0,3.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,262.954
+2696,2019.0,3.0,Formosa,Entre 6 Mbps y 10 Mbps,8.047
+2697,2019.0,3.0,Jujuy,Entre 6 Mbps y 10 Mbps,10.239
+2698,2019.0,3.0,La Pampa,Entre 6 Mbps y 10 Mbps,7.92
+2699,2019.0,3.0,La Rioja,Entre 6 Mbps y 10 Mbps,4.786
+2700,2019.0,3.0,Mendoza,Entre 6 Mbps y 10 Mbps,1207.752
+2701,2019.0,3.0,Misiones,Entre 6 Mbps y 10 Mbps,29.375
+2702,2019.0,3.0,Neuquén,Entre 6 Mbps y 10 Mbps,185.405
+2703,2019.0,3.0,Río Negro,Entre 6 Mbps y 10 Mbps,154.196
+2704,2019.0,3.0,Salta,Entre 6 Mbps y 10 Mbps,66.226
+2705,2019.0,3.0,San Juan,Entre 6 Mbps y 10 Mbps,360.886
+2706,2019.0,3.0,San Luis,Entre 6 Mbps y 10 Mbps,284.833
+2707,2019.0,3.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,812.663
+2708,2019.0,3.0,Santa Fe,Entre 6 Mbps y 10 Mbps,193.286
+2709,2019.0,3.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,885.341
+2710,2019.0,3.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,18.678
+2711,2019.0,3.0,Tucumán,Entre 6 Mbps y 10 Mbps,95.645
+2712,2019.0,4.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,1376.182
+2713,2019.0,4.0,Capital Federal,Entre 6 Mbps y 10 Mbps,147.18099999999998
+2714,2019.0,4.0,Catamarca,Entre 6 Mbps y 10 Mbps,53.573
+2715,2019.0,4.0,Chaco,Entre 6 Mbps y 10 Mbps,20.957
+2716,2019.0,4.0,Chubut,Entre 6 Mbps y 10 Mbps,201.756
+2717,2019.0,4.0,Córdoba,Entre 6 Mbps y 10 Mbps,118.232
+2718,2019.0,4.0,Corrientes,Entre 6 Mbps y 10 Mbps,329.311
+2719,2019.0,4.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,217.338
+2720,2019.0,4.0,Formosa,Entre 6 Mbps y 10 Mbps,8.317
+2721,2019.0,4.0,Jujuy,Entre 6 Mbps y 10 Mbps,10.631
+2722,2019.0,4.0,La Pampa,Entre 6 Mbps y 10 Mbps,13.893
+2723,2019.0,4.0,La Rioja,Entre 6 Mbps y 10 Mbps,5.045
+2724,2019.0,4.0,Mendoza,Entre 6 Mbps y 10 Mbps,99.868
+2725,2019.0,4.0,Misiones,Entre 6 Mbps y 10 Mbps,26.834
+2726,2019.0,4.0,Neuquén,Entre 6 Mbps y 10 Mbps,185.258
+2727,2019.0,4.0,Río Negro,Entre 6 Mbps y 10 Mbps,285.514
+2728,2019.0,4.0,Salta,Entre 6 Mbps y 10 Mbps,83.64
+2729,2019.0,4.0,San Juan,Entre 6 Mbps y 10 Mbps,112.483
+2730,2019.0,4.0,San Luis,Entre 6 Mbps y 10 Mbps,161.007
+2731,2019.0,4.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,319.031
+2732,2019.0,4.0,Santa Fe,Entre 6 Mbps y 10 Mbps,190.664
+2733,2019.0,4.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,907.457
+2734,2019.0,4.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,20.035
+2735,2019.0,4.0,Tucumán,Entre 6 Mbps y 10 Mbps,59.01
+2736,2020.0,1.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,728.9279999999999
+2737,2020.0,1.0,Capital Federal,Entre 6 Mbps y 10 Mbps,139.21699999999998
+2738,2020.0,1.0,Catamarca,Entre 6 Mbps y 10 Mbps,53.497
+2739,2020.0,1.0,Chaco,Entre 6 Mbps y 10 Mbps,835.16
+2740,2020.0,1.0,Chubut,Entre 6 Mbps y 10 Mbps,201.768
+2741,2020.0,1.0,Córdoba,Entre 6 Mbps y 10 Mbps,120.188
+2742,2020.0,1.0,Corrientes,Entre 6 Mbps y 10 Mbps,535.867
+2743,2020.0,1.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,890.288
+2744,2020.0,1.0,Formosa,Entre 6 Mbps y 10 Mbps,8.498000000000001
+2745,2020.0,1.0,Jujuy,Entre 6 Mbps y 10 Mbps,9.979
+2746,2020.0,1.0,La Pampa,Entre 6 Mbps y 10 Mbps,14.192
+2747,2020.0,1.0,La Rioja,Entre 6 Mbps y 10 Mbps,5.158
+2748,2020.0,1.0,Mendoza,Entre 6 Mbps y 10 Mbps,1398.897
+2749,2020.0,1.0,Misiones,Entre 6 Mbps y 10 Mbps,27.265
+2750,2020.0,1.0,Neuquén,Entre 6 Mbps y 10 Mbps,186.076
+2751,2020.0,1.0,Río Negro,Entre 6 Mbps y 10 Mbps,285.647
+2752,2020.0,1.0,Salta,Entre 6 Mbps y 10 Mbps,104.673
+2753,2020.0,1.0,San Juan,Entre 6 Mbps y 10 Mbps,112.483
+2754,2020.0,1.0,San Luis,Entre 6 Mbps y 10 Mbps,161.007
+2755,2020.0,1.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,319.678
+2756,2020.0,1.0,Santa Fe,Entre 6 Mbps y 10 Mbps,196.826
+2757,2020.0,1.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,908.032
+2758,2020.0,1.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,20.009
+2759,2020.0,1.0,Tucumán,Entre 6 Mbps y 10 Mbps,366.067
+2760,2020.0,2.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,733.843
+2761,2020.0,2.0,Capital Federal,Entre 6 Mbps y 10 Mbps,131.548
+2762,2020.0,2.0,Catamarca,Entre 6 Mbps y 10 Mbps,34.664
+2763,2020.0,2.0,Chaco,Entre 6 Mbps y 10 Mbps,836.324
+2764,2020.0,2.0,Chubut,Entre 6 Mbps y 10 Mbps,210.999
+2765,2020.0,2.0,Córdoba,Entre 6 Mbps y 10 Mbps,125.932
+2766,2020.0,2.0,Corrientes,Entre 6 Mbps y 10 Mbps,537.33
+2767,2020.0,2.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,893.796
+2768,2020.0,2.0,Formosa,Entre 6 Mbps y 10 Mbps,9.107
+2769,2020.0,2.0,Jujuy,Entre 6 Mbps y 10 Mbps,10.519
+2770,2020.0,2.0,La Pampa,Entre 6 Mbps y 10 Mbps,14.524
+2771,2020.0,2.0,La Rioja,Entre 6 Mbps y 10 Mbps,5.661
+2772,2020.0,2.0,Mendoza,Entre 6 Mbps y 10 Mbps,1017.433
+2773,2020.0,2.0,Misiones,Entre 6 Mbps y 10 Mbps,536.206
+2774,2020.0,2.0,Neuquén,Entre 6 Mbps y 10 Mbps,299.809
+2775,2020.0,2.0,Río Negro,Entre 6 Mbps y 10 Mbps,272.066
+2776,2020.0,2.0,Salta,Entre 6 Mbps y 10 Mbps,105.422
+2777,2020.0,2.0,San Juan,Entre 6 Mbps y 10 Mbps,917.0
+2778,2020.0,2.0,San Luis,Entre 6 Mbps y 10 Mbps,160.428
+2779,2020.0,2.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,170.999
+2780,2020.0,2.0,Santa Fe,Entre 6 Mbps y 10 Mbps,875.095
+2781,2020.0,2.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,935.83
+2782,2020.0,2.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,5.186
+2783,2020.0,2.0,Tucumán,Entre 6 Mbps y 10 Mbps,370.221
+2784,2020.0,3.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,727.217
+2785,2020.0,3.0,Capital Federal,Entre 6 Mbps y 10 Mbps,123.045
+2786,2020.0,3.0,Catamarca,Entre 6 Mbps y 10 Mbps,35.741
+2787,2020.0,3.0,Chaco,Entre 6 Mbps y 10 Mbps,856.803
+2788,2020.0,3.0,Chubut,Entre 6 Mbps y 10 Mbps,210.925
+2789,2020.0,3.0,Córdoba,Entre 6 Mbps y 10 Mbps,124.833
+2790,2020.0,3.0,Corrientes,Entre 6 Mbps y 10 Mbps,537.8
+2791,2020.0,3.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,894.634
+2792,2020.0,3.0,Formosa,Entre 6 Mbps y 10 Mbps,9.43
+2793,2020.0,3.0,Jujuy,Entre 6 Mbps y 10 Mbps,10.566
+2794,2020.0,3.0,La Pampa,Entre 6 Mbps y 10 Mbps,14.813
+2795,2020.0,3.0,La Rioja,Entre 6 Mbps y 10 Mbps,5.955
+2796,2020.0,3.0,Mendoza,Entre 6 Mbps y 10 Mbps,1557.576
+2797,2020.0,3.0,Misiones,Entre 6 Mbps y 10 Mbps,536.702
+2798,2020.0,3.0,Neuquén,Entre 6 Mbps y 10 Mbps,300.267
+2799,2020.0,3.0,Río Negro,Entre 6 Mbps y 10 Mbps,269.503
+2800,2020.0,3.0,Salta,Entre 6 Mbps y 10 Mbps,105.695
+2801,2020.0,3.0,San Juan,Entre 6 Mbps y 10 Mbps,711.0
+2802,2020.0,3.0,San Luis,Entre 6 Mbps y 10 Mbps,160.194
+2803,2020.0,3.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,138.88
+2804,2020.0,3.0,Santa Fe,Entre 6 Mbps y 10 Mbps,834.7449999999999
+2805,2020.0,3.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,1005.469
+2806,2020.0,3.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,5.414
+2807,2020.0,3.0,Tucumán,Entre 6 Mbps y 10 Mbps,759.904
+2808,2020.0,4.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,601.883
+2809,2020.0,4.0,Capital Federal,Entre 6 Mbps y 10 Mbps,109.092
+2810,2020.0,4.0,Catamarca,Entre 6 Mbps y 10 Mbps,103.645
+2811,2020.0,4.0,Chaco,Entre 6 Mbps y 10 Mbps,1156.344
+2812,2020.0,4.0,Chubut,Entre 6 Mbps y 10 Mbps,115.73
+2813,2020.0,4.0,Córdoba,Entre 6 Mbps y 10 Mbps,149.248
+2814,2020.0,4.0,Corrientes,Entre 6 Mbps y 10 Mbps,26.321
+2815,2020.0,4.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,53.556
+2816,2020.0,4.0,Formosa,Entre 6 Mbps y 10 Mbps,9.604
+2817,2020.0,4.0,Jujuy,Entre 6 Mbps y 10 Mbps,25.368
+2818,2020.0,4.0,La Pampa,Entre 6 Mbps y 10 Mbps,15.117
+2819,2020.0,4.0,La Rioja,Entre 6 Mbps y 10 Mbps,6.06
+2820,2020.0,4.0,Mendoza,Entre 6 Mbps y 10 Mbps,1569.612
+2821,2020.0,4.0,Misiones,Entre 6 Mbps y 10 Mbps,534.569
+2822,2020.0,4.0,Neuquén,Entre 6 Mbps y 10 Mbps,302.184
+2823,2020.0,4.0,Río Negro,Entre 6 Mbps y 10 Mbps,301.855
+2824,2020.0,4.0,Salta,Entre 6 Mbps y 10 Mbps,115.782
+2825,2020.0,4.0,San Juan,Entre 6 Mbps y 10 Mbps,740.0
+2826,2020.0,4.0,San Luis,Entre 6 Mbps y 10 Mbps,153.34
+2827,2020.0,4.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,127.259
+2828,2020.0,4.0,Santa Fe,Entre 6 Mbps y 10 Mbps,856.14
+2829,2020.0,4.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,1005.641
+2830,2020.0,4.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,58.067
+2831,2020.0,4.0,Tucumán,Entre 6 Mbps y 10 Mbps,708.679
+2832,2021.0,1.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,600.16
+2833,2021.0,1.0,Capital Federal,Entre 6 Mbps y 10 Mbps,107.722
+2834,2021.0,1.0,Catamarca,Entre 6 Mbps y 10 Mbps,23.44
+2835,2021.0,1.0,Chaco,Entre 6 Mbps y 10 Mbps,1155.967
+2836,2021.0,1.0,Chubut,Entre 6 Mbps y 10 Mbps,334.088
+2837,2021.0,1.0,Córdoba,Entre 6 Mbps y 10 Mbps,149.078
+2838,2021.0,1.0,Corrientes,Entre 6 Mbps y 10 Mbps,26.223
+2839,2021.0,1.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,56.06
+2840,2021.0,1.0,Formosa,Entre 6 Mbps y 10 Mbps,9.567
+2841,2021.0,1.0,Jujuy,Entre 6 Mbps y 10 Mbps,196.114
+2842,2021.0,1.0,La Pampa,Entre 6 Mbps y 10 Mbps,14.857
+2843,2021.0,1.0,La Rioja,Entre 6 Mbps y 10 Mbps,5.968
+2844,2021.0,1.0,Mendoza,Entre 6 Mbps y 10 Mbps,882.3439999999999
+2845,2021.0,1.0,Misiones,Entre 6 Mbps y 10 Mbps,556.971
+2846,2021.0,1.0,Neuquén,Entre 6 Mbps y 10 Mbps,312.139
+2847,2021.0,1.0,Río Negro,Entre 6 Mbps y 10 Mbps,296.894
+2848,2021.0,1.0,Salta,Entre 6 Mbps y 10 Mbps,118.099
+2849,2021.0,1.0,San Juan,Entre 6 Mbps y 10 Mbps,858.0
+2850,2021.0,1.0,San Luis,Entre 6 Mbps y 10 Mbps,268.66
+2851,2021.0,1.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,119.223
+2852,2021.0,1.0,Santa Fe,Entre 6 Mbps y 10 Mbps,935.726
+2853,2021.0,1.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,1053.468
+2854,2021.0,1.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,63.406
+2855,2021.0,1.0,Tucumán,Entre 6 Mbps y 10 Mbps,785.683
+2856,2021.0,2.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,604.64
+2857,2021.0,2.0,Capital Federal,Entre 6 Mbps y 10 Mbps,945.695
+2858,2021.0,2.0,Catamarca,Entre 6 Mbps y 10 Mbps,23.077
+2859,2021.0,2.0,Chaco,Entre 6 Mbps y 10 Mbps,1634.959
+2860,2021.0,2.0,Chubut,Entre 6 Mbps y 10 Mbps,378.249
+2861,2021.0,2.0,Córdoba,Entre 6 Mbps y 10 Mbps,150.502
+2862,2021.0,2.0,Corrientes,Entre 6 Mbps y 10 Mbps,27.037
+2863,2021.0,2.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,55.349
+2864,2021.0,2.0,Formosa,Entre 6 Mbps y 10 Mbps,10.307
+2865,2021.0,2.0,Jujuy,Entre 6 Mbps y 10 Mbps,195.398
+2866,2021.0,2.0,La Pampa,Entre 6 Mbps y 10 Mbps,234.542
+2867,2021.0,2.0,La Rioja,Entre 6 Mbps y 10 Mbps,5.971
+2868,2021.0,2.0,Mendoza,Entre 6 Mbps y 10 Mbps,881.015
+2869,2021.0,2.0,Misiones,Entre 6 Mbps y 10 Mbps,654.278
+2870,2021.0,2.0,Neuquén,Entre 6 Mbps y 10 Mbps,312.327
+2871,2021.0,2.0,Río Negro,Entre 6 Mbps y 10 Mbps,290.376
+2872,2021.0,2.0,Salta,Entre 6 Mbps y 10 Mbps,238.84
+2873,2021.0,2.0,San Juan,Entre 6 Mbps y 10 Mbps,784.0
+2874,2021.0,2.0,San Luis,Entre 6 Mbps y 10 Mbps,267.438
+2875,2021.0,2.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,100.371
+2876,2021.0,2.0,Santa Fe,Entre 6 Mbps y 10 Mbps,935.345
+2877,2021.0,2.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,74.212
+2878,2021.0,2.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,50.869
+2879,2021.0,2.0,Tucumán,Entre 6 Mbps y 10 Mbps,742.956
+2880,2021.0,3.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,608.792
+2881,2021.0,3.0,Capital Federal,Entre 6 Mbps y 10 Mbps,940.139
+2882,2021.0,3.0,Catamarca,Entre 6 Mbps y 10 Mbps,17.419
+2883,2021.0,3.0,Chaco,Entre 6 Mbps y 10 Mbps,1634.371
+2884,2021.0,3.0,Chubut,Entre 6 Mbps y 10 Mbps,366.94
+2885,2021.0,3.0,Córdoba,Entre 6 Mbps y 10 Mbps,155.27100000000002
+2886,2021.0,3.0,Corrientes,Entre 6 Mbps y 10 Mbps,28.478
+2887,2021.0,3.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,59.776
+2888,2021.0,3.0,Formosa,Entre 6 Mbps y 10 Mbps,26.123
+2889,2021.0,3.0,Jujuy,Entre 6 Mbps y 10 Mbps,195.238
+2890,2021.0,3.0,La Pampa,Entre 6 Mbps y 10 Mbps,242.16
+2891,2021.0,3.0,La Rioja,Entre 6 Mbps y 10 Mbps,90.894
+2892,2021.0,3.0,Mendoza,Entre 6 Mbps y 10 Mbps,883.768
+2893,2021.0,3.0,Misiones,Entre 6 Mbps y 10 Mbps,695.428
+2894,2021.0,3.0,Neuquén,Entre 6 Mbps y 10 Mbps,312.262
+2895,2021.0,3.0,Río Negro,Entre 6 Mbps y 10 Mbps,286.447
+2896,2021.0,3.0,Salta,Entre 6 Mbps y 10 Mbps,241.932
+2897,2021.0,3.0,San Juan,Entre 6 Mbps y 10 Mbps,752.0
+2898,2021.0,3.0,San Luis,Entre 6 Mbps y 10 Mbps,274.133
+2899,2021.0,3.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,74.299
+2900,2021.0,3.0,Santa Fe,Entre 6 Mbps y 10 Mbps,938.512
+2901,2021.0,3.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,73.826
+2902,2021.0,3.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,49.361
+2903,2021.0,3.0,Tucumán,Entre 6 Mbps y 10 Mbps,827.515
+2904,2021.0,4.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,836.7860000000001
+2905,2021.0,4.0,Capital Federal,Entre 6 Mbps y 10 Mbps,90.89
+2906,2021.0,4.0,Catamarca,Entre 6 Mbps y 10 Mbps,14.848
+2907,2021.0,4.0,Chaco,Entre 6 Mbps y 10 Mbps,598.1020000000001
+2908,2021.0,4.0,Chubut,Entre 6 Mbps y 10 Mbps,1134.472
+2909,2021.0,4.0,Córdoba,Entre 6 Mbps y 10 Mbps,143.879
+2910,2021.0,4.0,Corrientes,Entre 6 Mbps y 10 Mbps,26.368
+2911,2021.0,4.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,52.633
+2912,2021.0,4.0,Formosa,Entre 6 Mbps y 10 Mbps,25.964
+2913,2021.0,4.0,Jujuy,Entre 6 Mbps y 10 Mbps,1024.784
+2914,2021.0,4.0,La Pampa,Entre 6 Mbps y 10 Mbps,126.964
+2915,2021.0,4.0,La Rioja,Entre 6 Mbps y 10 Mbps,90.352
+2916,2021.0,4.0,Mendoza,Entre 6 Mbps y 10 Mbps,30.308
+2917,2021.0,4.0,Misiones,Entre 6 Mbps y 10 Mbps,706.87
+2918,2021.0,4.0,Neuquén,Entre 6 Mbps y 10 Mbps,316.96000000000004
+2919,2021.0,4.0,Río Negro,Entre 6 Mbps y 10 Mbps,30.867
+2920,2021.0,4.0,Salta,Entre 6 Mbps y 10 Mbps,424.968
+2921,2021.0,4.0,San Juan,Entre 6 Mbps y 10 Mbps,601.364
+2922,2021.0,4.0,San Luis,Entre 6 Mbps y 10 Mbps,146.134
+2923,2021.0,4.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,59.593
+2924,2021.0,4.0,Santa Fe,Entre 6 Mbps y 10 Mbps,959.103
+2925,2021.0,4.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,73.512
+2926,2021.0,4.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,46.504
+2927,2021.0,4.0,Tucumán,Entre 6 Mbps y 10 Mbps,972.811
+2928,2022.0,1.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,841.236
+2929,2022.0,1.0,Capital Federal,Entre 6 Mbps y 10 Mbps,87.38
+2930,2022.0,1.0,Catamarca,Entre 6 Mbps y 10 Mbps,12.004
+2931,2022.0,1.0,Chaco,Entre 6 Mbps y 10 Mbps,596.6590000000001
+2932,2022.0,1.0,Chubut,Entre 6 Mbps y 10 Mbps,849.038
+2933,2022.0,1.0,Córdoba,Entre 6 Mbps y 10 Mbps,138.996
+2934,2022.0,1.0,Corrientes,Entre 6 Mbps y 10 Mbps,25.665
+2935,2022.0,1.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,52.617
+2936,2022.0,1.0,Formosa,Entre 6 Mbps y 10 Mbps,120.831
+2937,2022.0,1.0,Jujuy,Entre 6 Mbps y 10 Mbps,1024.312
+2938,2022.0,1.0,La Pampa,Entre 6 Mbps y 10 Mbps,127.751
+2939,2022.0,1.0,La Rioja,Entre 6 Mbps y 10 Mbps,89.607
+2940,2022.0,1.0,Mendoza,Entre 6 Mbps y 10 Mbps,26.407
+2941,2022.0,1.0,Misiones,Entre 6 Mbps y 10 Mbps,441.841
+2942,2022.0,1.0,Neuquén,Entre 6 Mbps y 10 Mbps,291.347
+2943,2022.0,1.0,Río Negro,Entre 6 Mbps y 10 Mbps,25.852
+2944,2022.0,1.0,Salta,Entre 6 Mbps y 10 Mbps,431.882
+2945,2022.0,1.0,San Juan,Entre 6 Mbps y 10 Mbps,739.186
+2946,2022.0,1.0,San Luis,Entre 6 Mbps y 10 Mbps,149.691
+2947,2022.0,1.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,50.463
+2948,2022.0,1.0,Santa Fe,Entre 6 Mbps y 10 Mbps,961.607
+2949,2022.0,1.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,73.158
+2950,2022.0,1.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,41.614
+2951,2022.0,1.0,Tucumán,Entre 6 Mbps y 10 Mbps,922.085
+2952,2022.0,2.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,1337.523
+2953,2022.0,2.0,Capital Federal,Entre 6 Mbps y 10 Mbps,82.424
+2954,2022.0,2.0,Catamarca,Entre 6 Mbps y 10 Mbps,9.152
+2955,2022.0,2.0,Chaco,Entre 6 Mbps y 10 Mbps,826.302
+2956,2022.0,2.0,Chubut,Entre 6 Mbps y 10 Mbps,620.627
+2957,2022.0,2.0,Córdoba,Entre 6 Mbps y 10 Mbps,133.472
+2958,2022.0,2.0,Corrientes,Entre 6 Mbps y 10 Mbps,24.842
+2959,2022.0,2.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,51.554
+2960,2022.0,2.0,Formosa,Entre 6 Mbps y 10 Mbps,133.59199999999998
+2961,2022.0,2.0,Jujuy,Entre 6 Mbps y 10 Mbps,1023.781
+2962,2022.0,2.0,La Pampa,Entre 6 Mbps y 10 Mbps,127.724
+2963,2022.0,2.0,La Rioja,Entre 6 Mbps y 10 Mbps,89.804
+2964,2022.0,2.0,Mendoza,Entre 6 Mbps y 10 Mbps,22.557
+2965,2022.0,2.0,Misiones,Entre 6 Mbps y 10 Mbps,660.073
+2966,2022.0,2.0,Neuquén,Entre 6 Mbps y 10 Mbps,290.79
+2967,2022.0,2.0,Río Negro,Entre 6 Mbps y 10 Mbps,21.934
+2968,2022.0,2.0,Salta,Entre 6 Mbps y 10 Mbps,375.358
+2969,2022.0,2.0,San Juan,Entre 6 Mbps y 10 Mbps,721.565
+2970,2022.0,2.0,San Luis,Entre 6 Mbps y 10 Mbps,134.104
+2971,2022.0,2.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,42.338
+2972,2022.0,2.0,Santa Fe,Entre 6 Mbps y 10 Mbps,957.627
+2973,2022.0,2.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,71.919
+2974,2022.0,2.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,34.808
+2975,2022.0,2.0,Tucumán,Entre 6 Mbps y 10 Mbps,535.021
+2976,2022.0,3.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,281550.0
+2977,2022.0,3.0,Capital Federal,Entre 6 Mbps y 10 Mbps,64653.0
+2978,2022.0,3.0,Catamarca,Entre 6 Mbps y 10 Mbps,5028.0
+2979,2022.0,3.0,Chaco,Entre 6 Mbps y 10 Mbps,17846.0
+2980,2022.0,3.0,Chubut,Entre 6 Mbps y 10 Mbps,31007.0
+2981,2022.0,3.0,Córdoba,Entre 6 Mbps y 10 Mbps,108195.0
+2982,2022.0,3.0,Corrientes,Entre 6 Mbps y 10 Mbps,24858.0
+2983,2022.0,3.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,46700.0
+2984,2022.0,3.0,Formosa,Entre 6 Mbps y 10 Mbps,12391.0
+2985,2022.0,3.0,Jujuy,Entre 6 Mbps y 10 Mbps,14070.0
+2986,2022.0,3.0,La Pampa,Entre 6 Mbps y 10 Mbps,10334.0
+2987,2022.0,3.0,La Rioja,Entre 6 Mbps y 10 Mbps,3010.0
+2988,2022.0,3.0,Mendoza,Entre 6 Mbps y 10 Mbps,20355.0
+2989,2022.0,3.0,Misiones,Entre 6 Mbps y 10 Mbps,21373.0
+2990,2022.0,3.0,Neuquén,Entre 6 Mbps y 10 Mbps,13960.0
+2991,2022.0,3.0,Río Negro,Entre 6 Mbps y 10 Mbps,13931.0
+2992,2022.0,3.0,Salta,Entre 6 Mbps y 10 Mbps,71105.0
+2993,2022.0,3.0,San Juan,Entre 6 Mbps y 10 Mbps,11247.0
+2994,2022.0,3.0,San Luis,Entre 6 Mbps y 10 Mbps,24684.0
+2995,2022.0,3.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,11509.0
+2996,2022.0,3.0,Santa Fe,Entre 6 Mbps y 10 Mbps,194420.0
+2997,2022.0,3.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,58136.0
+2998,2022.0,3.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,13634.0
+2999,2022.0,3.0,Tucumán,Entre 6 Mbps y 10 Mbps,35425.0
+3000,2022.0,4.0,Buenos Aires,Entre 6 Mbps y 10 Mbps,1781.049
+3001,2022.0,4.0,Capital Federal,Entre 6 Mbps y 10 Mbps,74.643
+3002,2022.0,4.0,Catamarca,Entre 6 Mbps y 10 Mbps,6.027
+3003,2022.0,4.0,Chaco,Entre 6 Mbps y 10 Mbps,826.037
+3004,2022.0,4.0,Chubut,Entre 6 Mbps y 10 Mbps,336.701
+3005,2022.0,4.0,Córdoba,Entre 6 Mbps y 10 Mbps,115.188
+3006,2022.0,4.0,Corrientes,Entre 6 Mbps y 10 Mbps,24.858
+3007,2022.0,4.0,Entre Ríos,Entre 6 Mbps y 10 Mbps,46.7
+3008,2022.0,4.0,Formosa,Entre 6 Mbps y 10 Mbps,257.146
+3009,2022.0,4.0,Jujuy,Entre 6 Mbps y 10 Mbps,24.06
+3010,2022.0,4.0,La Pampa,Entre 6 Mbps y 10 Mbps,525.818
+3011,2022.0,4.0,La Rioja,Entre 6 Mbps y 10 Mbps,87.925
+3012,2022.0,4.0,Mendoza,Entre 6 Mbps y 10 Mbps,259.116
+3013,2022.0,4.0,Misiones,Entre 6 Mbps y 10 Mbps,70.324
+3014,2022.0,4.0,Neuquén,Entre 6 Mbps y 10 Mbps,289.684
+3015,2022.0,4.0,Río Negro,Entre 6 Mbps y 10 Mbps,14.93
+3016,2022.0,4.0,Salta,Entre 6 Mbps y 10 Mbps,373.802
+3017,2022.0,4.0,San Juan,Entre 6 Mbps y 10 Mbps,730.527
+3018,2022.0,4.0,San Luis,Entre 6 Mbps y 10 Mbps,622.086
+3019,2022.0,4.0,Santa Cruz,Entre 6 Mbps y 10 Mbps,36.484
+3020,2022.0,4.0,Santa Fe,Entre 6 Mbps y 10 Mbps,194.42
+3021,2022.0,4.0,Santiago Del Estero,Entre 6 Mbps y 10 Mbps,144.05
+3022,2022.0,4.0,Tierra Del Fuego,Entre 6 Mbps y 10 Mbps,22.625
+3023,2022.0,4.0,Tucumán,Entre 6 Mbps y 10 Mbps,460.999
+3024,2017.0,4.0,Buenos Aires,Más de 30 Mbps,141.942
+3025,2017.0,4.0,Capital Federal,Más de 30 Mbps,134.19400000000002
+3026,2017.0,4.0,Catamarca,Más de 30 Mbps,0.0
+3027,2017.0,4.0,Chaco,Más de 30 Mbps,631.297
+3028,2017.0,4.0,Chubut,Más de 30 Mbps,9.0
+3029,2017.0,4.0,Córdoba,Más de 30 Mbps,21.186
+3030,2017.0,4.0,Corrientes,Más de 30 Mbps,620.814
+3031,2017.0,4.0,Entre Ríos,Más de 30 Mbps,396.721
+3032,2017.0,4.0,Formosa,Más de 30 Mbps,776.0
+3033,2017.0,4.0,Jujuy,Más de 30 Mbps,0.0
+3034,2017.0,4.0,La Pampa,Más de 30 Mbps,68.0
+3035,2017.0,4.0,La Rioja,Más de 30 Mbps,1.0
+3036,2017.0,4.0,Mendoza,Más de 30 Mbps,56.0
+3037,2017.0,4.0,Misiones,Más de 30 Mbps,119.348
+3038,2017.0,4.0,Neuquén,Más de 30 Mbps,5.579
+3039,2017.0,4.0,Río Negro,Más de 30 Mbps,4.158
+3040,2017.0,4.0,Salta,Más de 30 Mbps,45.0
+3041,2017.0,4.0,San Juan,Más de 30 Mbps,0.0
+3042,2017.0,4.0,San Luis,Más de 30 Mbps,0.0
+3043,2017.0,4.0,Santa Cruz,Más de 30 Mbps,3.0
+3044,2017.0,4.0,Santa Fe,Más de 30 Mbps,481.755
+3045,2017.0,4.0,Santiago Del Estero,Más de 30 Mbps,0.0
+3046,2017.0,4.0,Tierra Del Fuego,Más de 30 Mbps,0.0
+3047,2017.0,4.0,Tucumán,Más de 30 Mbps,0.0
+3048,2018.0,1.0,Buenos Aires,Más de 30 Mbps,160.463
+3049,2018.0,1.0,Capital Federal,Más de 30 Mbps,144.577
+3050,2018.0,1.0,Catamarca,Más de 30 Mbps,0.0
+3051,2018.0,1.0,Chaco,Más de 30 Mbps,631.788
+3052,2018.0,1.0,Chubut,Más de 30 Mbps,9.0
+3053,2018.0,1.0,Córdoba,Más de 30 Mbps,24.354
+3054,2018.0,1.0,Corrientes,Más de 30 Mbps,621.283
+3055,2018.0,1.0,Entre Ríos,Más de 30 Mbps,397.253
+3056,2018.0,1.0,Formosa,Más de 30 Mbps,994.0
+3057,2018.0,1.0,Jujuy,Más de 30 Mbps,0.0
+3058,2018.0,1.0,La Pampa,Más de 30 Mbps,85.0
+3059,2018.0,1.0,La Rioja,Más de 30 Mbps,1.0
+3060,2018.0,1.0,Mendoza,Más de 30 Mbps,56.0
+3061,2018.0,1.0,Misiones,Más de 30 Mbps,119.726
+3062,2018.0,1.0,Neuquén,Más de 30 Mbps,6.375
+3063,2018.0,1.0,Río Negro,Más de 30 Mbps,4.674
+3064,2018.0,1.0,Salta,Más de 30 Mbps,58.0
+3065,2018.0,1.0,San Juan,Más de 30 Mbps,0.0
+3066,2018.0,1.0,San Luis,Más de 30 Mbps,0.0
+3067,2018.0,1.0,Santa Cruz,Más de 30 Mbps,3.0
+3068,2018.0,1.0,Santa Fe,Más de 30 Mbps,483.439
+3069,2018.0,1.0,Santiago Del Estero,Más de 30 Mbps,0.0
+3070,2018.0,1.0,Tierra Del Fuego,Más de 30 Mbps,0.0
+3071,2018.0,1.0,Tucumán,Más de 30 Mbps,0.0
+3072,2018.0,2.0,Buenos Aires,Más de 30 Mbps,458.201
+3073,2018.0,2.0,Capital Federal,Más de 30 Mbps,147.17000000000002
+3074,2018.0,2.0,Catamarca,Más de 30 Mbps,6.0
+3075,2018.0,2.0,Chaco,Más de 30 Mbps,632.153
+3076,2018.0,2.0,Chubut,Más de 30 Mbps,9.0
+3077,2018.0,2.0,Córdoba,Más de 30 Mbps,27.024
+3078,2018.0,2.0,Corrientes,Más de 30 Mbps,621.508
+3079,2018.0,2.0,Entre Ríos,Más de 30 Mbps,397.737
+3080,2018.0,2.0,Formosa,Más de 30 Mbps,1.211
+3081,2018.0,2.0,Jujuy,Más de 30 Mbps,6.0
+3082,2018.0,2.0,La Pampa,Más de 30 Mbps,131.0
+3083,2018.0,2.0,La Rioja,Más de 30 Mbps,2.0
+3084,2018.0,2.0,Mendoza,Más de 30 Mbps,56.0
+3085,2018.0,2.0,Misiones,Más de 30 Mbps,119.971
+3086,2018.0,2.0,Neuquén,Más de 30 Mbps,6.648
+3087,2018.0,2.0,Río Negro,Más de 30 Mbps,4.911
+3088,2018.0,2.0,Salta,Más de 30 Mbps,83.0
+3089,2018.0,2.0,San Juan,Más de 30 Mbps,0.0
+3090,2018.0,2.0,San Luis,Más de 30 Mbps,0.0
+3091,2018.0,2.0,Santa Cruz,Más de 30 Mbps,3.0
+3092,2018.0,2.0,Santa Fe,Más de 30 Mbps,484.676
+3093,2018.0,2.0,Santiago Del Estero,Más de 30 Mbps,1.0
+3094,2018.0,2.0,Tierra Del Fuego,Más de 30 Mbps,0.0
+3095,2018.0,2.0,Tucumán,Más de 30 Mbps,152.0
+3096,2018.0,3.0,Buenos Aires,Más de 30 Mbps,529.039
+3097,2018.0,3.0,Capital Federal,Más de 30 Mbps,155.0
+3098,2018.0,3.0,Catamarca,Más de 30 Mbps,7.0
+3099,2018.0,3.0,Chaco,Más de 30 Mbps,961.438
+3100,2018.0,3.0,Chubut,Más de 30 Mbps,164.0
+3101,2018.0,3.0,Córdoba,Más de 30 Mbps,30.921
+3102,2018.0,3.0,Corrientes,Más de 30 Mbps,644.687
+3103,2018.0,3.0,Entre Ríos,Más de 30 Mbps,408.223
+3104,2018.0,3.0,Formosa,Más de 30 Mbps,1.389
+3105,2018.0,3.0,Jujuy,Más de 30 Mbps,10.0
+3106,2018.0,3.0,La Pampa,Más de 30 Mbps,168.0
+3107,2018.0,3.0,La Rioja,Más de 30 Mbps,2.0
+3108,2018.0,3.0,Mendoza,Más de 30 Mbps,115.0
+3109,2018.0,3.0,Misiones,Más de 30 Mbps,121.25
+3110,2018.0,3.0,Neuquén,Más de 30 Mbps,6.924
+3111,2018.0,3.0,Río Negro,Más de 30 Mbps,5.194
+3112,2018.0,3.0,Salta,Más de 30 Mbps,227.0
+3113,2018.0,3.0,San Juan,Más de 30 Mbps,1.0
+3114,2018.0,3.0,San Luis,Más de 30 Mbps,0.0
+3115,2018.0,3.0,Santa Cruz,Más de 30 Mbps,3.0
+3116,2018.0,3.0,Santa Fe,Más de 30 Mbps,957.209
+3117,2018.0,3.0,Santiago Del Estero,Más de 30 Mbps,13.0
+3118,2018.0,3.0,Tierra Del Fuego,Más de 30 Mbps,13.0
+3119,2018.0,3.0,Tucumán,Más de 30 Mbps,246.0
+3120,2018.0,4.0,Buenos Aires,Más de 30 Mbps,639.927
+3121,2018.0,4.0,Capital Federal,Más de 30 Mbps,166.553
+3122,2018.0,4.0,Catamarca,Más de 30 Mbps,7.0
+3123,2018.0,4.0,Chaco,Más de 30 Mbps,948.697
+3124,2018.0,4.0,Chubut,Más de 30 Mbps,164.0
+3125,2018.0,4.0,Córdoba,Más de 30 Mbps,36.355
+3126,2018.0,4.0,Corrientes,Más de 30 Mbps,676.894
+3127,2018.0,4.0,Entre Ríos,Más de 30 Mbps,404.544
+3128,2018.0,4.0,Formosa,Más de 30 Mbps,1.446
+3129,2018.0,4.0,Jujuy,Más de 30 Mbps,14.0
+3130,2018.0,4.0,La Pampa,Más de 30 Mbps,197.0
+3131,2018.0,4.0,La Rioja,Más de 30 Mbps,5.0
+3132,2018.0,4.0,Mendoza,Más de 30 Mbps,115.0
+3133,2018.0,4.0,Misiones,Más de 30 Mbps,128.51
+3134,2018.0,4.0,Neuquén,Más de 30 Mbps,7.384
+3135,2018.0,4.0,Río Negro,Más de 30 Mbps,5.532
+3136,2018.0,4.0,Salta,Más de 30 Mbps,2.285
+3137,2018.0,4.0,San Juan,Más de 30 Mbps,1.0
+3138,2018.0,4.0,San Luis,Más de 30 Mbps,0.0
+3139,2018.0,4.0,Santa Cruz,Más de 30 Mbps,3.0
+3140,2018.0,4.0,Santa Fe,Más de 30 Mbps,1119.261
+3141,2018.0,4.0,Santiago Del Estero,Más de 30 Mbps,29.0
+3142,2018.0,4.0,Tierra Del Fuego,Más de 30 Mbps,67.0
+3143,2018.0,4.0,Tucumán,Más de 30 Mbps,377.0
+3144,2019.0,1.0,Buenos Aires,Más de 30 Mbps,1093.95
+3145,2019.0,1.0,Capital Federal,Más de 30 Mbps,260.857
+3146,2019.0,1.0,Catamarca,Más de 30 Mbps,7.0
+3147,2019.0,1.0,Chaco,Más de 30 Mbps,948.697
+3148,2019.0,1.0,Chubut,Más de 30 Mbps,164.0
+3149,2019.0,1.0,Córdoba,Más de 30 Mbps,38.271
+3150,2019.0,1.0,Corrientes,Más de 30 Mbps,676.894
+3151,2019.0,1.0,Entre Ríos,Más de 30 Mbps,407.546
+3152,2019.0,1.0,Formosa,Más de 30 Mbps,1.446
+3153,2019.0,1.0,Jujuy,Más de 30 Mbps,14.0
+3154,2019.0,1.0,La Pampa,Más de 30 Mbps,332.0
+3155,2019.0,1.0,La Rioja,Más de 30 Mbps,5.0
+3156,2019.0,1.0,Mendoza,Más de 30 Mbps,114.0
+3157,2019.0,1.0,Misiones,Más de 30 Mbps,128.51
+3158,2019.0,1.0,Neuquén,Más de 30 Mbps,7.384
+3159,2019.0,1.0,Río Negro,Más de 30 Mbps,11.532
+3160,2019.0,1.0,Salta,Más de 30 Mbps,2.285
+3161,2019.0,1.0,San Juan,Más de 30 Mbps,1.0
+3162,2019.0,1.0,San Luis,Más de 30 Mbps,0.0
+3163,2019.0,1.0,Santa Cruz,Más de 30 Mbps,3.0
+3164,2019.0,1.0,Santa Fe,Más de 30 Mbps,1117.346
+3165,2019.0,1.0,Santiago Del Estero,Más de 30 Mbps,36.0
+3166,2019.0,1.0,Tierra Del Fuego,Más de 30 Mbps,29.0
+3167,2019.0,1.0,Tucumán,Más de 30 Mbps,377.0
+3168,2019.0,2.0,Buenos Aires,Más de 30 Mbps,1374.879
+3169,2019.0,2.0,Capital Federal,Más de 30 Mbps,427.172
+3170,2019.0,2.0,Catamarca,Más de 30 Mbps,10.0
+3171,2019.0,2.0,Chaco,Más de 30 Mbps,951.049
+3172,2019.0,2.0,Chubut,Más de 30 Mbps,164.0
+3173,2019.0,2.0,Córdoba,Más de 30 Mbps,103.753
+3174,2019.0,2.0,Corrientes,Más de 30 Mbps,677.897
+3175,2019.0,2.0,Entre Ríos,Más de 30 Mbps,409.247
+3176,2019.0,2.0,Formosa,Más de 30 Mbps,1.672
+3177,2019.0,2.0,Jujuy,Más de 30 Mbps,303.0
+3178,2019.0,2.0,La Pampa,Más de 30 Mbps,550.0
+3179,2019.0,2.0,La Rioja,Más de 30 Mbps,22.0
+3180,2019.0,2.0,Mendoza,Más de 30 Mbps,155.0
+3181,2019.0,2.0,Misiones,Más de 30 Mbps,130.282
+3182,2019.0,2.0,Neuquén,Más de 30 Mbps,8.827
+3183,2019.0,2.0,Río Negro,Más de 30 Mbps,12.65
+3184,2019.0,2.0,Salta,Más de 30 Mbps,4.947
+3185,2019.0,2.0,San Juan,Más de 30 Mbps,1.0
+3186,2019.0,2.0,San Luis,Más de 30 Mbps,0.0
+3187,2019.0,2.0,Santa Cruz,Más de 30 Mbps,3.0
+3188,2019.0,2.0,Santa Fe,Más de 30 Mbps,1123.898
+3189,2019.0,2.0,Santiago Del Estero,Más de 30 Mbps,214.0
+3190,2019.0,2.0,Tierra Del Fuego,Más de 30 Mbps,30.0
+3191,2019.0,2.0,Tucumán,Más de 30 Mbps,1.496
+3192,2019.0,3.0,Buenos Aires,Más de 30 Mbps,0.0
+3193,2019.0,3.0,Capital Federal,Más de 30 Mbps,665.292
+3194,2019.0,3.0,Catamarca,Más de 30 Mbps,15.0
+3195,2019.0,3.0,Chaco,Más de 30 Mbps,620.914
+3196,2019.0,3.0,Chubut,Más de 30 Mbps,613.0
+3197,2019.0,3.0,Córdoba,Más de 30 Mbps,182.832
+3198,2019.0,3.0,Corrientes,Más de 30 Mbps,682.535
+3199,2019.0,3.0,Entre Ríos,Más de 30 Mbps,419.888
+3200,2019.0,3.0,Formosa,Más de 30 Mbps,3.498
+3201,2019.0,3.0,Jujuy,Más de 30 Mbps,3.151
+3202,2019.0,3.0,La Pampa,Más de 30 Mbps,864.0
+3203,2019.0,3.0,La Rioja,Más de 30 Mbps,47.0
+3204,2019.0,3.0,Mendoza,Más de 30 Mbps,223.0
+3205,2019.0,3.0,Misiones,Más de 30 Mbps,137.808
+3206,2019.0,3.0,Neuquén,Más de 30 Mbps,194.026
+3207,2019.0,3.0,Río Negro,Más de 30 Mbps,74.081
+3208,2019.0,3.0,Salta,Más de 30 Mbps,8.796
+3209,2019.0,3.0,San Juan,Más de 30 Mbps,81.0
+3210,2019.0,3.0,San Luis,Más de 30 Mbps,0.0
+3211,2019.0,3.0,Santa Cruz,Más de 30 Mbps,3.0
+3212,2019.0,3.0,Santa Fe,Más de 30 Mbps,1166.372
+3213,2019.0,3.0,Santiago Del Estero,Más de 30 Mbps,676.0
+3214,2019.0,3.0,Tierra Del Fuego,Más de 30 Mbps,224.0
+3215,2019.0,3.0,Tucumán,Más de 30 Mbps,3.782
+3216,2019.0,4.0,Buenos Aires,Más de 30 Mbps,0.0
+3217,2019.0,4.0,Capital Federal,Más de 30 Mbps,746.83
+3218,2019.0,4.0,Catamarca,Más de 30 Mbps,4.698
+3219,2019.0,4.0,Chaco,Más de 30 Mbps,516.819
+3220,2019.0,4.0,Chubut,Más de 30 Mbps,613.0
+3221,2019.0,4.0,Córdoba,Más de 30 Mbps,239.882
+3222,2019.0,4.0,Corrientes,Más de 30 Mbps,651.999
+3223,2019.0,4.0,Entre Ríos,Más de 30 Mbps,412.695
+3224,2019.0,4.0,Formosa,Más de 30 Mbps,4.502
+3225,2019.0,4.0,Jujuy,Más de 30 Mbps,4.531000000000001
+3226,2019.0,4.0,La Pampa,Más de 30 Mbps,5.26
+3227,2019.0,4.0,La Rioja,Más de 30 Mbps,80.0
+3228,2019.0,4.0,Mendoza,Más de 30 Mbps,77.908
+3229,2019.0,4.0,Misiones,Más de 30 Mbps,140.366
+3230,2019.0,4.0,Neuquén,Más de 30 Mbps,27.256
+3231,2019.0,4.0,Río Negro,Más de 30 Mbps,27.465
+3232,2019.0,4.0,Salta,Más de 30 Mbps,19.535
+3233,2019.0,4.0,San Juan,Más de 30 Mbps,80.0
+3234,2019.0,4.0,San Luis,Más de 30 Mbps,0.0
+3235,2019.0,4.0,Santa Cruz,Más de 30 Mbps,7.0
+3236,2019.0,4.0,Santa Fe,Más de 30 Mbps,638.938
+3237,2019.0,4.0,Santiago Del Estero,Más de 30 Mbps,13.184
+3238,2019.0,4.0,Tierra Del Fuego,Más de 30 Mbps,1.962
+3239,2019.0,4.0,Tucumán,Más de 30 Mbps,29.514
+3240,2020.0,1.0,Buenos Aires,Más de 30 Mbps,1656.4679999999998
+3241,2020.0,1.0,Capital Federal,Más de 30 Mbps,698.547
+3242,2020.0,1.0,Catamarca,Más de 30 Mbps,6.796
+3243,2020.0,1.0,Chaco,Más de 30 Mbps,522.733
+3244,2020.0,1.0,Chubut,Más de 30 Mbps,613.0
+3245,2020.0,1.0,Córdoba,Más de 30 Mbps,315.976
+3246,2020.0,1.0,Corrientes,Más de 30 Mbps,655.373
+3247,2020.0,1.0,Entre Ríos,Más de 30 Mbps,421.63
+3248,2020.0,1.0,Formosa,Más de 30 Mbps,5.542
+3249,2020.0,1.0,Jujuy,Más de 30 Mbps,6.315
+3250,2020.0,1.0,La Pampa,Más de 30 Mbps,6.029999999999999
+3251,2020.0,1.0,La Rioja,Más de 30 Mbps,120.0
+3252,2020.0,1.0,Mendoza,Más de 30 Mbps,77.978
+3253,2020.0,1.0,Misiones,Más de 30 Mbps,145.426
+3254,2020.0,1.0,Neuquén,Más de 30 Mbps,35.321
+3255,2020.0,1.0,Río Negro,Más de 30 Mbps,32.784
+3256,2020.0,1.0,Salta,Más de 30 Mbps,27.702
+3257,2020.0,1.0,San Juan,Más de 30 Mbps,80.0
+3258,2020.0,1.0,San Luis,Más de 30 Mbps,0.0
+3259,2020.0,1.0,Santa Cruz,Más de 30 Mbps,108.0
+3260,2020.0,1.0,Santa Fe,Más de 30 Mbps,675.333
+3261,2020.0,1.0,Santiago Del Estero,Más de 30 Mbps,13.517
+3262,2020.0,1.0,Tierra Del Fuego,Más de 30 Mbps,518.0
+3263,2020.0,1.0,Tucumán,Más de 30 Mbps,39.947
+3264,2020.0,2.0,Buenos Aires,Más de 30 Mbps,0.0
+3265,2020.0,2.0,Capital Federal,Más de 30 Mbps,744.968
+3266,2020.0,2.0,Catamarca,Más de 30 Mbps,10.217
+3267,2020.0,2.0,Chaco,Más de 30 Mbps,25.044
+3268,2020.0,2.0,Chubut,Más de 30 Mbps,613.0
+3269,2020.0,2.0,Córdoba,Más de 30 Mbps,334.533
+3270,2020.0,2.0,Corrientes,Más de 30 Mbps,16.463
+3271,2020.0,2.0,Entre Ríos,Más de 30 Mbps,34.828
+3272,2020.0,2.0,Formosa,Más de 30 Mbps,5.792
+3273,2020.0,2.0,Jujuy,Más de 30 Mbps,8.029
+3274,2020.0,2.0,La Pampa,Más de 30 Mbps,3.377
+3275,2020.0,2.0,La Rioja,Más de 30 Mbps,1.976
+3276,2020.0,2.0,Mendoza,Más de 30 Mbps,73.145
+3277,2020.0,2.0,Misiones,Más de 30 Mbps,50.966
+3278,2020.0,2.0,Neuquén,Más de 30 Mbps,40.326
+3279,2020.0,2.0,Río Negro,Más de 30 Mbps,33.467
+3280,2020.0,2.0,Salta,Más de 30 Mbps,31.07
+3281,2020.0,2.0,San Juan,Más de 30 Mbps,80.0
+3282,2020.0,2.0,San Luis,Más de 30 Mbps,3.0
+3283,2020.0,2.0,Santa Cruz,Más de 30 Mbps,108.0
+3284,2020.0,2.0,Santa Fe,Más de 30 Mbps,302.016
+3285,2020.0,2.0,Santiago Del Estero,Más de 30 Mbps,31.89
+3286,2020.0,2.0,Tierra Del Fuego,Más de 30 Mbps,796.0
+3287,2020.0,2.0,Tucumán,Más de 30 Mbps,45.288
+3288,2020.0,3.0,Buenos Aires,Más de 30 Mbps,0.0
+3289,2020.0,3.0,Capital Federal,Más de 30 Mbps,876.976
+3290,2020.0,3.0,Catamarca,Más de 30 Mbps,11.736
+3291,2020.0,3.0,Chaco,Más de 30 Mbps,27.729
+3292,2020.0,3.0,Chubut,Más de 30 Mbps,999.0
+3293,2020.0,3.0,Córdoba,Más de 30 Mbps,477.009
+3294,2020.0,3.0,Corrientes,Más de 30 Mbps,17.788
+3295,2020.0,3.0,Entre Ríos,Más de 30 Mbps,38.675
+3296,2020.0,3.0,Formosa,Más de 30 Mbps,6.058
+3297,2020.0,3.0,Jujuy,Más de 30 Mbps,12.666
+3298,2020.0,3.0,La Pampa,Más de 30 Mbps,153.333
+3299,2020.0,3.0,La Rioja,Más de 30 Mbps,2.224
+3300,2020.0,3.0,Mendoza,Más de 30 Mbps,99.193
+3301,2020.0,3.0,Misiones,Más de 30 Mbps,51.464
+3302,2020.0,3.0,Neuquén,Más de 30 Mbps,40.663
+3303,2020.0,3.0,Río Negro,Más de 30 Mbps,33.656
+3304,2020.0,3.0,Salta,Más de 30 Mbps,33.452
+3305,2020.0,3.0,San Juan,Más de 30 Mbps,81.0
+3306,2020.0,3.0,San Luis,Más de 30 Mbps,3.0
+3307,2020.0,3.0,Santa Cruz,Más de 30 Mbps,109.0
+3308,2020.0,3.0,Santa Fe,Más de 30 Mbps,304.274
+3309,2020.0,3.0,Santiago Del Estero,Más de 30 Mbps,32.313
+3310,2020.0,3.0,Tierra Del Fuego,Más de 30 Mbps,930.0
+3311,2020.0,3.0,Tucumán,Más de 30 Mbps,52.231
+3312,2020.0,4.0,Buenos Aires,Más de 30 Mbps,0.0
+3313,2020.0,4.0,Capital Federal,Más de 30 Mbps,754.628
+3314,2020.0,4.0,Catamarca,Más de 30 Mbps,12.502
+3315,2020.0,4.0,Chaco,Más de 30 Mbps,28.481
+3316,2020.0,4.0,Chubut,Más de 30 Mbps,1002.0
+3317,2020.0,4.0,Córdoba,Más de 30 Mbps,505.368
+3318,2020.0,4.0,Corrientes,Más de 30 Mbps,18.193
+3319,2020.0,4.0,Entre Ríos,Más de 30 Mbps,41.279
+3320,2020.0,4.0,Formosa,Más de 30 Mbps,9.367
+3321,2020.0,4.0,Jujuy,Más de 30 Mbps,15.929
+3322,2020.0,4.0,La Pampa,Más de 30 Mbps,153.994
+3323,2020.0,4.0,La Rioja,Más de 30 Mbps,2.392
+3324,2020.0,4.0,Mendoza,Más de 30 Mbps,78.272
+3325,2020.0,4.0,Misiones,Más de 30 Mbps,51.802
+3326,2020.0,4.0,Neuquén,Más de 30 Mbps,40.774
+3327,2020.0,4.0,Río Negro,Más de 30 Mbps,54.157
+3328,2020.0,4.0,Salta,Más de 30 Mbps,34.472
+3329,2020.0,4.0,San Juan,Más de 30 Mbps,159.0
+3330,2020.0,4.0,San Luis,Más de 30 Mbps,3.0
+3331,2020.0,4.0,Santa Cruz,Más de 30 Mbps,571.0
+3332,2020.0,4.0,Santa Fe,Más de 30 Mbps,569.652
+3333,2020.0,4.0,Santiago Del Estero,Más de 30 Mbps,22.669
+3334,2020.0,4.0,Tierra Del Fuego,Más de 30 Mbps,912.0
+3335,2020.0,4.0,Tucumán,Más de 30 Mbps,59.624
+3336,2021.0,1.0,Buenos Aires,Más de 30 Mbps,0.0
+3337,2021.0,1.0,Capital Federal,Más de 30 Mbps,748.8990000000001
+3338,2021.0,1.0,Catamarca,Más de 30 Mbps,14.899
+3339,2021.0,1.0,Chaco,Más de 30 Mbps,29.36
+3340,2021.0,1.0,Chubut,Más de 30 Mbps,1002.0
+3341,2021.0,1.0,Córdoba,Más de 30 Mbps,515.043
+3342,2021.0,1.0,Corrientes,Más de 30 Mbps,18.572
+3343,2021.0,1.0,Entre Ríos,Más de 30 Mbps,40.974
+3344,2021.0,1.0,Formosa,Más de 30 Mbps,9.73
+3345,2021.0,1.0,Jujuy,Más de 30 Mbps,21.866
+3346,2021.0,1.0,La Pampa,Más de 30 Mbps,154.936
+3347,2021.0,1.0,La Rioja,Más de 30 Mbps,2.456
+3348,2021.0,1.0,Mendoza,Más de 30 Mbps,117.558
+3349,2021.0,1.0,Misiones,Más de 30 Mbps,142.012
+3350,2021.0,1.0,Neuquén,Más de 30 Mbps,39.562
+3351,2021.0,1.0,Río Negro,Más de 30 Mbps,55.068
+3352,2021.0,1.0,Salta,Más de 30 Mbps,41.684
+3353,2021.0,1.0,San Juan,Más de 30 Mbps,160.0
+3354,2021.0,1.0,San Luis,Más de 30 Mbps,3.0
+3355,2021.0,1.0,Santa Cruz,Más de 30 Mbps,571.0
+3356,2021.0,1.0,Santa Fe,Más de 30 Mbps,569.952
+3357,2021.0,1.0,Santiago Del Estero,Más de 30 Mbps,32.952
+3358,2021.0,1.0,Tierra Del Fuego,Más de 30 Mbps,901.0
+3359,2021.0,1.0,Tucumán,Más de 30 Mbps,68.892
+3360,2021.0,2.0,Buenos Aires,Más de 30 Mbps,0.0
+3361,2021.0,2.0,Capital Federal,Más de 30 Mbps,728.1550000000001
+3362,2021.0,2.0,Catamarca,Más de 30 Mbps,462.744
+3363,2021.0,2.0,Chaco,Más de 30 Mbps,31.423
+3364,2021.0,2.0,Chubut,Más de 30 Mbps,1002.0
+3365,2021.0,2.0,Córdoba,Más de 30 Mbps,528.8779999999999
+3366,2021.0,2.0,Corrientes,Más de 30 Mbps,20.318
+3367,2021.0,2.0,Entre Ríos,Más de 30 Mbps,42.138
+3368,2021.0,2.0,Formosa,Más de 30 Mbps,9.849
+3369,2021.0,2.0,Jujuy,Más de 30 Mbps,26.298
+3370,2021.0,2.0,La Pampa,Más de 30 Mbps,156.547
+3371,2021.0,2.0,La Rioja,Más de 30 Mbps,34.132
+3372,2021.0,2.0,Mendoza,Más de 30 Mbps,137.609
+3373,2021.0,2.0,Misiones,Más de 30 Mbps,143.863
+3374,2021.0,2.0,Neuquén,Más de 30 Mbps,96.477
+3375,2021.0,2.0,Río Negro,Más de 30 Mbps,54.978
+3376,2021.0,2.0,Salta,Más de 30 Mbps,42.116
+3377,2021.0,2.0,San Juan,Más de 30 Mbps,160.0
+3378,2021.0,2.0,San Luis,Más de 30 Mbps,3.0
+3379,2021.0,2.0,Santa Cruz,Más de 30 Mbps,595.0
+3380,2021.0,2.0,Santa Fe,Más de 30 Mbps,570.933
+3381,2021.0,2.0,Santiago Del Estero,Más de 30 Mbps,33.228
+3382,2021.0,2.0,Tierra Del Fuego,Más de 30 Mbps,867.0
+3383,2021.0,2.0,Tucumán,Más de 30 Mbps,70.804
+3384,2021.0,3.0,Buenos Aires,Más de 30 Mbps,2252.605
+3385,2021.0,3.0,Capital Federal,Más de 30 Mbps,734.161
+3386,2021.0,3.0,Catamarca,Más de 30 Mbps,16.078
+3387,2021.0,3.0,Chaco,Más de 30 Mbps,31.733
+3388,2021.0,3.0,Chubut,Más de 30 Mbps,4.488
+3389,2021.0,3.0,Córdoba,Más de 30 Mbps,537.691
+3390,2021.0,3.0,Corrientes,Más de 30 Mbps,20.652
+3391,2021.0,3.0,Entre Ríos,Más de 30 Mbps,42.662
+3392,2021.0,3.0,Formosa,Más de 30 Mbps,16.985
+3393,2021.0,3.0,Jujuy,Más de 30 Mbps,26.126
+3394,2021.0,3.0,La Pampa,Más de 30 Mbps,157.57
+3395,2021.0,3.0,La Rioja,Más de 30 Mbps,34.157
+3396,2021.0,3.0,Mendoza,Más de 30 Mbps,145.674
+3397,2021.0,3.0,Misiones,Más de 30 Mbps,184.147
+3398,2021.0,3.0,Neuquén,Más de 30 Mbps,97.469
+3399,2021.0,3.0,Río Negro,Más de 30 Mbps,56.626000000000005
+3400,2021.0,3.0,Salta,Más de 30 Mbps,46.903
+3401,2021.0,3.0,San Juan,Más de 30 Mbps,160.0
+3402,2021.0,3.0,San Luis,Más de 30 Mbps,3.0
+3403,2021.0,3.0,Santa Cruz,Más de 30 Mbps,597.0
+3404,2021.0,3.0,Santa Fe,Más de 30 Mbps,568.56
+3405,2021.0,3.0,Santiago Del Estero,Más de 30 Mbps,33.225
+3406,2021.0,3.0,Tierra Del Fuego,Más de 30 Mbps,916.0
+3407,2021.0,3.0,Tucumán,Más de 30 Mbps,73.122
+3408,2021.0,4.0,Buenos Aires,Más de 30 Mbps,0.0
+3409,2021.0,4.0,Capital Federal,Más de 30 Mbps,721.693
+3410,2021.0,4.0,Catamarca,Más de 30 Mbps,17.813
+3411,2021.0,4.0,Chaco,Más de 30 Mbps,53.385
+3412,2021.0,4.0,Chubut,Más de 30 Mbps,11.217
+3413,2021.0,4.0,Córdoba,Más de 30 Mbps,844.3069999999999
+3414,2021.0,4.0,Corrientes,Más de 30 Mbps,20.859
+3415,2021.0,4.0,Entre Ríos,Más de 30 Mbps,45.133
+3416,2021.0,4.0,Formosa,Más de 30 Mbps,33.119
+3417,2021.0,4.0,Jujuy,Más de 30 Mbps,28.508
+3418,2021.0,4.0,La Pampa,Más de 30 Mbps,50.959
+3419,2021.0,4.0,La Rioja,Más de 30 Mbps,34.138
+3420,2021.0,4.0,Mendoza,Más de 30 Mbps,166.693
+3421,2021.0,4.0,Misiones,Más de 30 Mbps,184.692
+3422,2021.0,4.0,Neuquén,Más de 30 Mbps,96.451
+3423,2021.0,4.0,Río Negro,Más de 30 Mbps,210.771
+3424,2021.0,4.0,Salta,Más de 30 Mbps,47.35
+3425,2021.0,4.0,San Juan,Más de 30 Mbps,159.0
+3426,2021.0,4.0,San Luis,Más de 30 Mbps,4.0
+3427,2021.0,4.0,Santa Cruz,Más de 30 Mbps,795.0
+3428,2021.0,4.0,Santa Fe,Más de 30 Mbps,751.0550000000001
+3429,2021.0,4.0,Santiago Del Estero,Más de 30 Mbps,33.397
+3430,2021.0,4.0,Tierra Del Fuego,Más de 30 Mbps,916.0
+3431,2021.0,4.0,Tucumán,Más de 30 Mbps,77.534
+3432,2022.0,1.0,Buenos Aires,Más de 30 Mbps,0.0
+3433,2022.0,1.0,Capital Federal,Más de 30 Mbps,750.789
+3434,2022.0,1.0,Catamarca,Más de 30 Mbps,21.877
+3435,2022.0,1.0,Chaco,Más de 30 Mbps,54.088
+3436,2022.0,1.0,Chubut,Más de 30 Mbps,23.124
+3437,2022.0,1.0,Córdoba,Más de 30 Mbps,860.41
+3438,2022.0,1.0,Corrientes,Más de 30 Mbps,21.296
+3439,2022.0,1.0,Entre Ríos,Más de 30 Mbps,44.247
+3440,2022.0,1.0,Formosa,Más de 30 Mbps,20.268
+3441,2022.0,1.0,Jujuy,Más de 30 Mbps,27.838
+3442,2022.0,1.0,La Pampa,Más de 30 Mbps,66.719
+3443,2022.0,1.0,La Rioja,Más de 30 Mbps,35.483
+3444,2022.0,1.0,Mendoza,Más de 30 Mbps,168.347
+3445,2022.0,1.0,Misiones,Más de 30 Mbps,185.132
+3446,2022.0,1.0,Neuquén,Más de 30 Mbps,98.44
+3447,2022.0,1.0,Río Negro,Más de 30 Mbps,250.001
+3448,2022.0,1.0,Salta,Más de 30 Mbps,48.006
+3449,2022.0,1.0,San Juan,Más de 30 Mbps,5.771
+3450,2022.0,1.0,San Luis,Más de 30 Mbps,7.0
+3451,2022.0,1.0,Santa Cruz,Más de 30 Mbps,566.865
+3452,2022.0,1.0,Santa Fe,Más de 30 Mbps,772.484
+3453,2022.0,1.0,Santiago Del Estero,Más de 30 Mbps,39.553
+3454,2022.0,1.0,Tierra Del Fuego,Más de 30 Mbps,892.0
+3455,2022.0,1.0,Tucumán,Más de 30 Mbps,79.585
+3456,2022.0,2.0,Buenos Aires,Más de 30 Mbps,2659.164
+3457,2022.0,2.0,Capital Federal,Más de 30 Mbps,713.6700000000001
+3458,2022.0,2.0,Catamarca,Más de 30 Mbps,27.44
+3459,2022.0,2.0,Chaco,Más de 30 Mbps,64.059
+3460,2022.0,2.0,Chubut,Más de 30 Mbps,24.046
+3461,2022.0,2.0,Córdoba,Más de 30 Mbps,872.9879999999999
+3462,2022.0,2.0,Corrientes,Más de 30 Mbps,29.844
+3463,2022.0,2.0,Entre Ríos,Más de 30 Mbps,56.221
+3464,2022.0,2.0,Formosa,Más de 30 Mbps,28.583
+3465,2022.0,2.0,Jujuy,Más de 30 Mbps,29.231
+3466,2022.0,2.0,La Pampa,Más de 30 Mbps,78.926
+3467,2022.0,2.0,La Rioja,Más de 30 Mbps,36.89
+3468,2022.0,2.0,Mendoza,Más de 30 Mbps,164.15800000000002
+3469,2022.0,2.0,Misiones,Más de 30 Mbps,946.048
+3470,2022.0,2.0,Neuquén,Más de 30 Mbps,96.827
+3471,2022.0,2.0,Río Negro,Más de 30 Mbps,249.508
+3472,2022.0,2.0,Salta,Más de 30 Mbps,48.787
+3473,2022.0,2.0,San Juan,Más de 30 Mbps,10.215
+3474,2022.0,2.0,San Luis,Más de 30 Mbps,11.0
+3475,2022.0,2.0,Santa Cruz,Más de 30 Mbps,568.869
+3476,2022.0,2.0,Santa Fe,Más de 30 Mbps,779.595
+3477,2022.0,2.0,Santiago Del Estero,Más de 30 Mbps,40.247
+3478,2022.0,2.0,Tierra Del Fuego,Más de 30 Mbps,898.0
+3479,2022.0,2.0,Tucumán,Más de 30 Mbps,84.869
+3480,2022.0,3.0,Buenos Aires,Más de 30 Mbps,1003527.0
+3481,2022.0,3.0,Capital Federal,Más de 30 Mbps,210472.0
+3482,2022.0,3.0,Catamarca,Más de 30 Mbps,30388.0
+3483,2022.0,3.0,Chaco,Más de 30 Mbps,27557.0
+3484,2022.0,3.0,Chubut,Más de 30 Mbps,17508.0
+3485,2022.0,3.0,Córdoba,Más de 30 Mbps,207746.0
+3486,2022.0,3.0,Corrientes,Más de 30 Mbps,25838.0
+3487,2022.0,3.0,Entre Ríos,Más de 30 Mbps,34084.0
+3488,2022.0,3.0,Formosa,Más de 30 Mbps,980.0
+3489,2022.0,3.0,Jujuy,Más de 30 Mbps,35579.0
+3490,2022.0,3.0,La Pampa,Más de 30 Mbps,16547.0
+3491,2022.0,3.0,La Rioja,Más de 30 Mbps,35334.0
+3492,2022.0,3.0,Mendoza,Más de 30 Mbps,90797.0
+3493,2022.0,3.0,Misiones,Más de 30 Mbps,27659.0
+3494,2022.0,3.0,Neuquén,Más de 30 Mbps,11520.0
+3495,2022.0,3.0,Río Negro,Más de 30 Mbps,5577.0
+3496,2022.0,3.0,Salta,Más de 30 Mbps,28238.0
+3497,2022.0,3.0,San Juan,Más de 30 Mbps,9504.0
+3498,2022.0,3.0,San Luis,Más de 30 Mbps,508.0
+3499,2022.0,3.0,Santa Cruz,Más de 30 Mbps,5342.0
+3500,2022.0,3.0,Santa Fe,Más de 30 Mbps,130193.0
+3501,2022.0,3.0,Santiago Del Estero,Más de 30 Mbps,971.0
+3502,2022.0,3.0,Tierra Del Fuego,Más de 30 Mbps,1357.0
+3503,2022.0,3.0,Tucumán,Más de 30 Mbps,59449.0
+3504,2022.0,4.0,Buenos Aires,Más de 30 Mbps,2076.453
+3505,2022.0,4.0,Capital Federal,Más de 30 Mbps,388.294
+3506,2022.0,4.0,Catamarca,Más de 30 Mbps,30.388
+3507,2022.0,4.0,Chaco,Más de 30 Mbps,46.538
+3508,2022.0,4.0,Chubut,Más de 30 Mbps,175.35
+3509,2022.0,4.0,Córdoba,Más de 30 Mbps,522.431
+3510,2022.0,4.0,Corrientes,Más de 30 Mbps,26.837
+3511,2022.0,4.0,Entre Ríos,Más de 30 Mbps,85.033
+3512,2022.0,4.0,Formosa,Más de 30 Mbps,980.0
+3513,2022.0,4.0,Jujuy,Más de 30 Mbps,35.579
+3514,2022.0,4.0,La Pampa,Más de 30 Mbps,140.423
+3515,2022.0,4.0,La Rioja,Más de 30 Mbps,35.334
+3516,2022.0,4.0,Mendoza,Más de 30 Mbps,133.75400000000002
+3517,2022.0,4.0,Misiones,Más de 30 Mbps,933.752
+3518,2022.0,4.0,Neuquén,Más de 30 Mbps,88.443
+3519,2022.0,4.0,Río Negro,Más de 30 Mbps,293.289
+3520,2022.0,4.0,Salta,Más de 30 Mbps,102.164
+3521,2022.0,4.0,San Juan,Más de 30 Mbps,13.5
+3522,2022.0,4.0,San Luis,Más de 30 Mbps,508.0
+3523,2022.0,4.0,Santa Cruz,Más de 30 Mbps,720.626
+3524,2022.0,4.0,Santa Fe,Más de 30 Mbps,1540.781
+3525,2022.0,4.0,Santiago Del Estero,Más de 30 Mbps,971.0
+3526,2022.0,4.0,Tierra Del Fuego,Más de 30 Mbps,232.126
+3527,2022.0,4.0,Tucumán,Más de 30 Mbps,66.44200000000001
