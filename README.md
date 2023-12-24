@@ -38,6 +38,8 @@ I perform an Exploratory Data Analysis (EDA) to search for potential markets and
 - NumPy: Python library for numerical operations and array handling.
 - Matplotlib and Seaborn: Data visualization
 - Git: Tracking changes in the codebase and collaborating with others.
+- Power BI - Interactive dashboard
+
 
 ---
 
@@ -47,7 +49,7 @@ The files include...
 
 - [data](data/): Here, you can find the unprocessed and processed data files.
 
-- [lib](lib/:)  Here, I store some recurring visualizations and transformations.
+- [lib](lib/):  Here, I store some recurring visualizations and transformations.
 
 - [gallery](gallery/): Here I store all the data visualizations in png format.
 
